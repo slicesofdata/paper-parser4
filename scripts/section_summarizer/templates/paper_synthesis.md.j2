@@ -1,0 +1,110 @@
+# Paper Synthesis
+
+*Paper: {{ paper_name }}*
+
+## Executive Summary
+
+{{ data.executive_summary }}
+
+## Reading Recommendation
+
+**{{ data.reading_recommendation | replace("_", " ") | title }}**
+
+{{ data.reading_recommendation_justification }}
+
+## Background and Motivation
+
+{{ data.background_and_motivation }}
+
+## Theoretical Stance
+
+**Overall stance: {{ data.theoretical_stance | replace("_", " ") | title }}**
+
+{{ data.theoretical_stance_justification }}
+
+{% if data.theories_discussed -%}
+### Theories Discussed
+
+{% for t in data.theories_discussed %}
+- **{{ t.name }}** *({{ t.role }})*: {{ t.description }}
+{% endfor %}
+
+{% endif %}
+
+## Study Design
+
+- **Number of experiments:** {{ data.study_design.n_experiments }}
+{% if data.study_design.predictors_examined %}
+- **Predictors examined:** {{ data.study_design.predictors_examined | join(", ") }}
+{% endif %}
+{% if data.study_design.outcomes_examined %}
+- **Outcomes examined:** {{ data.study_design.outcomes_examined | join(", ") }}
+{% endif %}
+{% if data.study_design.materials_summary %}
+- **Materials:** {{ data.study_design.materials_summary }}
+{% endif %}
+{% if data.study_design.design_types %}
+- **Design types:**
+{% for d in data.study_design.design_types %}
+  - {{ d }}
+{% endfor %}
+{% endif %}
+
+## Findings Summary
+
+{{ data.findings_summary }}
+
+## Evidence–Claim Alignment
+
+{% if data.evidence_claim_alignment.supported_claims -%}
+### Supported Claims
+
+{% for c in data.evidence_claim_alignment.supported_claims %}
+- {{ c }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.evidence_claim_alignment.unsupported_or_weakly_supported_claims -%}
+### Unsupported or Weakly Supported Claims
+
+{% for c in data.evidence_claim_alignment.unsupported_or_weakly_supported_claims %}
+- {{ c }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.evidence_claim_alignment.contradictions_or_tensions -%}
+### Contradictions or Tensions
+
+{% for c in data.evidence_claim_alignment.contradictions_or_tensions %}
+- {{ c }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.strengths -%}
+## Strengths
+
+{% for s in data.strengths %}
+- {{ s }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.weaknesses_and_concerns -%}
+## Weaknesses and Concerns
+
+{% for w in data.weaknesses_and_concerns %}
+- {{ w }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.key_references -%}
+## Key References
+
+{% for r in data.key_references %}
+- **{{ r.authors }} ({{ r.year }})** — {{ r.role }}
+{% endfor %}
+{% endif %}

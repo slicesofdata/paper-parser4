@@ -1,0 +1,259 @@
+2026-06-30 21:43:11,122 [INFO] Found 8 paper directories
+2026-06-30 21:43:11,128 [INFO] SPLITTING: Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall ← Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall_content_list_v2.json
+2026-06-30 21:43:11,215 [INFO]   DONE: 11 sections → ['title', 'authors', 'abstract', 'keywords', 'introduction', 'footnotes', 'experiment_intros', 'methods', 'results', 'general_discussion', 'references']
+2026-06-30 21:43:11,215 [INFO] SPLITTING: Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1 ← Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1_content_list_v2.json
+2026-06-30 21:43:11,331 [INFO]   DONE: 13 sections → ['title', 'authors', 'abstract', 'introduction', 'keywords', 'experiment_intros', 'methods', 'unmatched', 'footnotes', 'results', 'general_discussion', 'references', 'acknowledgments']
+2026-06-30 21:43:11,334 [INFO] SPLITTING: kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on ← kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on_content_list_v2.json
+2026-06-30 21:43:11,374 [INFO]   DONE: 6 sections → ['title', 'authors', 'introduction', 'unmatched', 'footnotes', 'references']
+2026-06-30 21:43:11,376 [INFO] SPLITTING: Marsh et al. (2006). Task interference from EB intentions can be material specific ← Marsh et al. (2006). Task interference from EB intentions can be material specific_content_list_v2.json
+2026-06-30 21:43:11,453 [INFO]   DONE: 11 sections → ['title', 'authors', 'abstract', 'introduction', 'footnotes', 'experiment_intros', 'methods', 'results', 'general_discussion', 'references', 'unmatched']
+2026-06-30 21:43:11,453 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect_content_list_v2.json
+2026-06-30 21:43:11,517 [INFO]   DONE: 10 sections → ['title', 'abstract', 'introduction', 'unmatched', 'footnotes', 'methods', 'results', 'discussion', 'general_discussion', 'references']
+2026-06-30 21:43:11,517 [INFO] SPLITTING: Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments ← Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments_content_list_v2.json
+2026-06-30 21:43:11,592 [INFO]   DONE: 10 sections → ['introduction', 'title', 'authors', 'unmatched', 'footnotes', 'methods', 'results', 'discussion', 'conclusion', 'references']
+2026-06-30 21:43:11,592 [INFO] SPLITTING: rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective ← rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective_content_list_v2.json
+2026-06-30 21:43:11,652 [INFO]   DONE: 10 sections → ['introduction', 'title', 'authors', 'unmatched', 'footnotes', 'methods', 'results', 'discussion', 'conclusion', 'references']
+2026-06-30 21:43:11,652 [INFO] SPLITTING: test ← test_content_list_v2.json
+2026-06-30 21:43:11,724 [INFO]   DONE: 10 sections → ['title', 'abstract', 'introduction', 'unmatched', 'footnotes', 'methods', 'results', 'discussion', 'general_discussion', 'references']
+2026-06-30 21:43:11,724 [INFO] Summary: done=8 skipped=0 failed=0
+2026-06-30 22:16:37,972 [INFO] Found 8 paper directories
+2026-06-30 22:16:37,973 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-06-30 22:16:37,973 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-06-30 22:16:37,973 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-06-30 22:16:37,973 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-06-30 22:16:37,974 [INFO] SKIP (already done): Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect
+2026-06-30 22:16:37,974 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-06-30 22:16:37,974 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-06-30 22:16:37,975 [INFO] SKIP (already done): test
+2026-06-30 22:16:37,975 [INFO] Summary: done=0 skipped=8 failed=0
+2026-06-30 22:16:57,838 [INFO] Found 8 paper directories
+2026-06-30 22:16:57,838 [INFO] SPLITTING: Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall ← Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall_content_list_v2.json
+2026-06-30 22:16:57,952 [INFO]   DONE: 4 experiment(s) → ['exp_1', 'exp_2', 'exp_3a_and_3b', 'exp_4']
+2026-06-30 22:16:57,952 [INFO] SPLITTING: Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1 ← Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1_content_list_v2.json
+2026-06-30 22:16:58,044 [INFO]   DONE: 2 experiment(s) → ['exp_1', 'exp_2']
+2026-06-30 22:16:58,045 [INFO] SPLITTING: kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on ← kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on_content_list_v2.json
+2026-06-30 22:16:58,086 [INFO]   DONE: 0 experiment(s) → []
+2026-06-30 22:16:58,086 [INFO] SPLITTING: Marsh et al. (2006). Task interference from EB intentions can be material specific ← Marsh et al. (2006). Task interference from EB intentions can be material specific_content_list_v2.json
+2026-06-30 22:16:58,177 [INFO]   DONE: 3 experiment(s) → ['exp_1a_and_1b', 'exp_2', 'exp_3']
+2026-06-30 22:16:58,177 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect_content_list_v2.json
+2026-06-30 22:16:58,232 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-06-30 22:16:58,232 [INFO] SPLITTING: Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments ← Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments_content_list_v2.json
+2026-06-30 22:16:58,302 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-06-30 22:16:58,302 [INFO] SPLITTING: rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective ← rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective_content_list_v2.json
+2026-06-30 22:16:58,367 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-06-30 22:16:58,367 [INFO] SPLITTING: test ← test_content_list_v2.json
+2026-06-30 22:16:58,491 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-06-30 22:16:58,493 [INFO] Summary: done=8 skipped=0 failed=0
+2026-06-30 22:34:53,001 [INFO] Found 8 paper directories
+2026-06-30 22:34:53,001 [INFO] SPLITTING: Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall ← Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall_content_list_v2.json
+2026-06-30 22:34:53,241 [INFO]   DONE: 4 experiment(s) → ['exp_1', 'exp_2', 'exp_3a_and_3b', 'exp_4']
+2026-06-30 22:34:53,241 [INFO] SPLITTING: Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1 ← Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1_content_list_v2.json
+2026-06-30 22:34:53,344 [INFO]   DONE: 2 experiment(s) → ['exp_1', 'exp_2']
+2026-06-30 22:34:53,345 [INFO] SPLITTING: kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on ← kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on_content_list_v2.json
+2026-06-30 22:34:53,382 [INFO]   DONE: 0 experiment(s) → []
+2026-06-30 22:34:53,382 [INFO] SPLITTING: Marsh et al. (2006). Task interference from EB intentions can be material specific ← Marsh et al. (2006). Task interference from EB intentions can be material specific_content_list_v2.json
+2026-06-30 22:34:53,467 [INFO]   DONE: 3 experiment(s) → ['exp_1a_and_1b', 'exp_2', 'exp_3']
+2026-06-30 22:34:53,468 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect_content_list_v2.json
+2026-06-30 22:34:53,540 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-06-30 22:34:53,541 [INFO] SPLITTING: Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments ← Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments_content_list_v2.json
+2026-06-30 22:34:53,596 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-06-30 22:34:53,596 [INFO] SPLITTING: rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective ← rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective_content_list_v2.json
+2026-06-30 22:34:53,649 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-06-30 22:34:53,649 [INFO] SPLITTING: test ← test_content_list_v2.json
+2026-06-30 22:34:53,723 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-06-30 22:34:53,723 [INFO] Summary: done=8 skipped=0 failed=0
+2026-06-30 22:50:32,059 [INFO] Found 8 paper directories
+2026-06-30 22:50:32,060 [INFO] SPLITTING: Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall ← Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall.md
+2026-06-30 22:50:32,158 [INFO]   DONE: 4 experiment(s) → ['exp_1', 'exp_2', 'exp_3a_and_3b', 'exp_4']
+2026-06-30 22:50:32,159 [INFO] SPLITTING: Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1 ← Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1.md
+2026-06-30 22:50:32,232 [INFO]   DONE: 2 experiment(s) → ['exp_1', 'exp_2']
+2026-06-30 22:50:32,232 [INFO] SPLITTING: kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on ← kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on.md
+2026-06-30 22:50:32,270 [INFO]   DONE: 0 experiment(s) → []
+2026-06-30 22:50:32,270 [INFO] SPLITTING: Marsh et al. (2006). Task interference from EB intentions can be material specific ← Marsh et al. (2006). Task interference from EB intentions can be material specific.md
+2026-06-30 22:50:32,353 [INFO]   DONE: 3 experiment(s) → ['exp_1a_and_1b', 'exp_2', 'exp_3']
+2026-06-30 22:50:32,354 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect.md
+2026-06-30 22:50:32,432 [INFO]   DONE: 3 experiment(s) → ['exp_1', 'exp_2', 'exp_3']
+2026-06-30 22:50:32,432 [INFO] SPLITTING: Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments ← Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments.md
+2026-06-30 22:50:32,487 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-06-30 22:50:32,488 [INFO] SPLITTING: rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective ← rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective.md
+2026-06-30 22:50:32,533 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-06-30 22:50:32,533 [INFO] SPLITTING: test ← test.md
+2026-06-30 22:50:32,625 [INFO]   DONE: 3 experiment(s) → ['exp_1', 'exp_2', 'exp_3']
+2026-06-30 22:50:32,625 [INFO] Summary: done=8 skipped=0 failed=0
+2026-08-18 19:15:02,422 [INFO] Found 8 paper directories
+2026-08-18 19:15:02,422 [INFO] SPLITTING: Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall ← Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall_content_list_v2.json
+2026-08-18 19:15:02,482 [INFO]   DONE: 11 sections → ['title', 'authors', 'abstract', 'keywords', 'introduction', 'footnotes', 'experiment_intros', 'methods', 'results', 'general_discussion', 'references']
+2026-08-18 19:15:02,482 [INFO] SPLITTING: Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1 ← Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1_content_list_v2.json
+2026-08-18 19:15:02,575 [INFO]   DONE: 13 sections → ['title', 'authors', 'abstract', 'introduction', 'keywords', 'experiment_intros', 'methods', 'unmatched', 'footnotes', 'results', 'general_discussion', 'references', 'acknowledgments']
+2026-08-18 19:15:02,576 [INFO] SPLITTING: kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on ← kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on_content_list_v2.json
+2026-08-18 19:15:02,607 [INFO]   DONE: 6 sections → ['title', 'authors', 'introduction', 'unmatched', 'footnotes', 'references']
+2026-08-18 19:15:02,611 [INFO] SPLITTING: Marsh et al. (2006). Task interference from EB intentions can be material specific ← Marsh et al. (2006). Task interference from EB intentions can be material specific_content_list_v2.json
+2026-08-18 19:15:02,662 [INFO]   DONE: 11 sections → ['title', 'authors', 'abstract', 'introduction', 'footnotes', 'experiment_intros', 'methods', 'results', 'general_discussion', 'references', 'unmatched']
+2026-08-18 19:15:02,662 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect_content_list_v2.json
+2026-08-18 19:15:02,723 [INFO]   DONE: 10 sections → ['title', 'abstract', 'introduction', 'unmatched', 'footnotes', 'methods', 'results', 'discussion', 'general_discussion', 'references']
+2026-08-18 19:15:02,723 [INFO] SPLITTING: Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments ← Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments_content_list_v2.json
+2026-08-18 19:15:02,772 [INFO]   DONE: 10 sections → ['introduction', 'title', 'authors', 'unmatched', 'footnotes', 'methods', 'results', 'discussion', 'conclusion', 'references']
+2026-08-18 19:15:02,772 [INFO] SPLITTING: rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective ← rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective_content_list_v2.json
+2026-08-18 19:15:02,830 [INFO]   DONE: 10 sections → ['introduction', 'title', 'authors', 'unmatched', 'footnotes', 'methods', 'results', 'discussion', 'conclusion', 'references']
+2026-08-18 19:15:02,831 [INFO] SPLITTING: test ← test_content_list_v2.json
+2026-08-18 19:15:02,885 [INFO]   DONE: 10 sections → ['title', 'abstract', 'introduction', 'unmatched', 'footnotes', 'methods', 'results', 'discussion', 'general_discussion', 'references']
+2026-08-18 19:15:02,885 [INFO] Summary: done=8 skipped=0 failed=0
+2026-08-18 19:15:47,172 [INFO] Found 8 paper directories
+2026-08-18 19:15:47,172 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 19:15:47,172 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 19:15:47,172 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 19:15:47,172 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 19:15:47,172 [INFO] SKIP (already done): Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect
+2026-08-18 19:15:47,172 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 19:15:47,172 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 19:15:47,172 [INFO] SKIP (already done): test
+2026-08-18 19:15:47,172 [INFO] Summary: done=0 skipped=8 failed=0
+2026-08-18 19:16:02,735 [INFO] Found 8 paper directories
+2026-08-18 19:16:02,735 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 19:16:02,735 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 19:16:02,735 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 19:16:02,735 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 19:16:02,735 [INFO] SKIP (already done): Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect
+2026-08-18 19:16:02,735 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 19:16:02,735 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 19:16:02,735 [INFO] SKIP (already done): test
+2026-08-18 19:16:02,735 [INFO] Summary: done=0 skipped=8 failed=0
+2026-08-18 19:16:30,195 [INFO] Found 8 paper directories
+2026-08-18 19:16:30,195 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 19:16:30,195 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 19:16:30,195 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 19:16:30,195 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 19:16:30,202 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect.md
+2026-08-18 19:16:30,291 [INFO]   DONE: 3 experiment(s) → ['exp_1', 'exp_2', 'exp_3']
+2026-08-18 19:16:30,291 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 19:16:30,291 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 19:16:30,291 [INFO] SKIP (already done): test
+2026-08-18 19:16:30,291 [INFO] Summary: done=1 skipped=7 failed=0
+2026-08-18 19:17:06,092 [INFO] Found 8 paper directories
+2026-08-18 19:17:06,092 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 19:17:06,092 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 19:17:06,092 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 19:17:06,092 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 19:17:06,092 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect_content_list_v2.json
+2026-08-18 19:17:06,165 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-08-18 19:17:06,165 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 19:17:06,165 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 19:17:06,165 [INFO] SKIP (already done): test
+2026-08-18 19:17:06,165 [INFO] Summary: done=1 skipped=7 failed=0
+2026-08-18 20:34:29,832 [INFO] Found 8 paper directories
+2026-08-18 20:34:29,832 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 20:34:29,832 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 20:34:29,832 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 20:34:29,832 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 20:34:29,832 [INFO] SKIP (already done): Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect
+2026-08-18 20:34:29,832 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 20:34:29,832 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 20:34:29,832 [INFO] SKIP (already done): test
+2026-08-18 20:34:29,832 [INFO] Summary: done=0 skipped=8 failed=0
+2026-08-18 20:34:54,356 [INFO] Found 8 paper directories
+2026-08-18 20:34:54,356 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 20:34:54,356 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 20:34:54,359 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 20:34:54,359 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 20:34:54,359 [INFO] SKIP (already done): Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect
+2026-08-18 20:34:54,359 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 20:34:54,361 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 20:34:54,361 [INFO] SKIP (already done): test
+2026-08-18 20:34:54,361 [INFO] Summary: done=0 skipped=8 failed=0
+2026-08-18 20:35:19,782 [INFO] Found 8 paper directories
+2026-08-18 20:35:19,787 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 20:35:19,787 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 20:35:19,787 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 20:35:19,787 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 20:35:19,790 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect_content_list_v2.json
+2026-08-18 20:35:19,876 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-08-18 20:35:19,876 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 20:35:19,876 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 20:35:19,876 [INFO] SKIP (already done): test
+2026-08-18 20:35:19,876 [INFO] Summary: done=1 skipped=7 failed=0
+2026-08-18 20:35:30,041 [INFO] Found 8 paper directories
+2026-08-18 20:35:30,046 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 20:35:30,046 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 20:35:30,046 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 20:35:30,046 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 20:35:30,048 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect.md
+2026-08-18 20:35:30,163 [INFO]   DONE: 3 experiment(s) → ['exp_1', 'exp_2', 'exp_3']
+2026-08-18 20:35:30,163 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 20:35:30,163 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 20:35:30,163 [INFO] SKIP (already done): test
+2026-08-18 20:35:30,163 [INFO] Summary: done=1 skipped=7 failed=0
+2026-08-18 21:07:43,503 [INFO] Found 8 paper directories
+2026-08-18 21:07:43,503 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 21:07:43,509 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 21:07:43,509 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 21:07:43,509 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 21:07:43,509 [INFO] SKIP (already done): Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect
+2026-08-18 21:07:43,509 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 21:07:43,509 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 21:07:43,512 [INFO] SKIP (already done): test
+2026-08-18 21:07:43,512 [INFO] Summary: done=0 skipped=8 failed=0
+2026-08-18 21:08:12,979 [INFO] Found 8 paper directories
+2026-08-18 21:08:12,979 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 21:08:12,986 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 21:08:12,986 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 21:08:12,986 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 21:08:12,988 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect_content_list_v2.json
+2026-08-18 21:08:13,070 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-08-18 21:08:13,070 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 21:08:13,070 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 21:08:13,070 [INFO] SKIP (already done): test
+2026-08-18 21:08:13,070 [INFO] Summary: done=1 skipped=7 failed=0
+2026-08-18 21:10:25,248 [INFO] Found 8 paper directories
+2026-08-18 21:10:25,248 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 21:10:25,248 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 21:10:25,248 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 21:10:25,248 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 21:10:25,248 [INFO] SKIP (already done): Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect
+2026-08-18 21:10:25,248 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 21:10:25,248 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 21:10:25,248 [INFO] SKIP (already done): test
+2026-08-18 21:10:25,248 [INFO] Summary: done=0 skipped=8 failed=0
+2026-08-18 21:10:38,778 [INFO] Found 8 paper directories
+2026-08-18 21:10:38,778 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 21:10:38,778 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 21:10:38,778 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 21:10:38,778 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 21:10:38,778 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect_content_list_v2.json
+2026-08-18 21:10:38,857 [INFO]   DONE: 1 experiment(s) → ['exp_1']
+2026-08-18 21:10:38,857 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 21:10:38,857 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 21:10:38,857 [INFO] SKIP (already done): test
+2026-08-18 21:10:38,857 [INFO] Summary: done=1 skipped=7 failed=0
+2026-08-18 21:10:50,856 [INFO] Found 8 paper directories
+2026-08-18 21:10:50,856 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 21:10:50,856 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 21:10:50,856 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 21:10:50,856 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 21:10:50,856 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect.md
+2026-08-18 21:10:50,976 [INFO]   DONE: 3 experiment(s) → ['exp_1', 'exp_2', 'exp_3']
+2026-08-18 21:10:50,976 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 21:10:50,976 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 21:10:50,976 [INFO] SKIP (already done): test
+2026-08-18 21:10:50,976 [INFO] Summary: done=1 skipped=7 failed=0
+2026-08-18 21:15:08,068 [INFO] Found 8 paper directories
+2026-08-18 21:15:08,068 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 21:15:08,068 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 21:15:08,068 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 21:15:08,068 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 21:15:08,068 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect.md
+2026-08-18 21:15:08,186 [INFO]   DONE: 3 experiment(s) → ['exp_1', 'exp_2', 'exp_3']
+2026-08-18 21:15:08,186 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 21:15:08,186 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 21:15:08,186 [INFO] SKIP (already done): test
+2026-08-18 21:15:08,186 [INFO] Summary: done=1 skipped=7 failed=0
+2026-08-18 22:10:54,764 [INFO] Found 8 paper directories
+2026-08-18 22:10:54,764 [INFO] SKIP (already done): Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 22:10:54,764 [INFO] SKIP (already done): Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 22:10:54,764 [INFO] SKIP (already done): kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 22:10:54,764 [INFO] SKIP (already done): Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 22:10:54,764 [INFO] SPLITTING: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect ← Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect.md
+2026-08-18 22:10:54,897 [INFO]   DONE: 3 experiment(s) → ['exp_1', 'exp_2', 'exp_3']
+2026-08-18 22:10:54,897 [INFO] SKIP (already done): Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments
+2026-08-18 22:10:54,913 [INFO] SKIP (already done): rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 22:10:54,913 [INFO] SKIP (already done): test
+2026-08-18 22:10:54,913 [INFO] Summary: done=1 skipped=7 failed=0

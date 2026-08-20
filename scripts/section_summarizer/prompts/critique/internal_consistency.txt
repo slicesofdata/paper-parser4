@@ -1,0 +1,22 @@
+# CATEGORY FOR THIS CALL: internal_consistency
+
+Focus ONLY on: consistency across sections. Do the intro's hypotheses match what the experiments tested? Does the discussion's theoretical stance match the introduction's? Do all experiments address the paper's stated research question?
+
+Examples of concerns in this category:
+- Intro proposes hypothesis about X, but no experiment measures X
+- Intro presents theory A, discussion advances theory B without acknowledging the shift
+- An experiment tests something not motivated by the introduction
+- Predictions stated in one experiment's introduction are not evaluated in its results
+
+Return JSON:
+{
+  "internal_consistency": [<CritiqueEntry>, ...]
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS
+
+{section_content}

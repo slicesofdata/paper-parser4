@@ -1,0 +1,140 @@
+# ---------------------------------------------------------------------------
+# Model routing configuration for section_summarizer
+# ---------------------------------------------------------------------------
+# Each task maps to a provider + model + generation parameters.
+# Providers are defined below with base URLs and env-var names for API keys.
+# Swap models per task without touching code — just edit this file.
+# ---------------------------------------------------------------------------
+
+providers:
+  venice:
+    base_url: https://api.venice.ai/api/v1
+    api_key_env: VENICE_API_KEY
+  openrouter:
+    base_url: https://openrouter.ai/api/v1
+    api_key_env: OPENROUTER_API_KEY
+
+# Default model config applied to any task not explicitly overridden below.
+defaults:
+  provider: venice
+  model: openai-gpt-oss-120b
+  temperature: 0.1
+  max_tokens: 4000
+  timeout_seconds: 120
+
+# Per-task overrides. Each task corresponds to a processor in processors/.
+# Fields omitted here fall back to `defaults`.
+tasks:
+  abstract:
+    temperature: 0.1
+    max_tokens: 2000
+
+  introduction_paper:
+    temperature: 0.2
+    max_tokens: 4000
+
+  introduction_experiment:
+    temperature: 0.2
+    max_tokens: 1500
+
+  methods:
+    temperature: 0.1
+    max_tokens: 4000
+
+  results_and_discussion:
+    temperature: 0.2
+    max_tokens: 6000
+
+  discussion_paper:              # from general_discussion.md at top level
+    temperature: 0.2
+    max_tokens: 4000
+
+  critique:
+    temperature: 0.3
+    max_tokens: 6000
+
+  paper_synthesis:
+    temperature: 0.3
+    max_tokens: 8000
+tasks:
+
+  # ---- Extraction tasks (structured, low temperature) ----
+  abstract:
+    temperature: 0.1
+    max_tokens: 2000
+
+  introduction_paper:       # paper-level intro
+    temperature: 0.2
+    max_tokens: 4000
+
+  introduction_experiment:  # per-experiment intro paragraph
+    temperature: 0.2
+    max_tokens: 1500        # shorter output, shorter input
+
+#  introduction:
+#    temperature: 0.2
+#    max_tokens: 4000
+
+  methods:
+    temperature: 0.1        # deterministic; methods are factual
+    max_tokens: 4000
+
+  results_and_discussion:
+    temperature: 0.2
+    max_tokens: 6000        # longer input, richer output
+    timeout_seconds: 300    # this override
+
+  general_discussion:
+    temperature: 0.2
+    max_tokens: 4000
+
+  # ---- Reasoning-heavy tasks (higher temperature, more tokens) ----
+  critique:
+    temperature: 0.3
+    max_tokens: 6000
+    # Consider upgrading to a stronger model once basic pipeline works:
+    # provider: openrouter
+    # model: anthropic/claude-sonnet-4
+
+  paper_synthesis:
+    temperature: 0.3
+    max_tokens: 8000
+
+    # Same note as critique — this benefits most from a stronger model.
+
+tasks:
+  #abstract: # skipped because abstracts are copied
+  #  temperature: 0.1
+  #  max_tokens: 2000
+
+  introduction_paper:       # paper-level intro
+    temperature: 0.2
+    max_tokens: 4000
+
+  introduction_experiment:  # per-experiment intro paragraph
+    temperature: 0.2
+    max_tokens: 1500        # shorter output, shorter input
+
+  methods:
+    temperature: 0.1             # deterministic; methods are factual
+    max_tokens: 4000
+
+  results_and_discussion:
+    temperature: 0.2
+    max_tokens: 6000             # longer input, richer output
+
+  discussion_paper:              # from general_discussion.md at top level
+    temperature: 0.2
+    max_tokens: 4000
+
+ # ---- Reasoning-heavy tasks (higher temperature, more tokens) ----
+  critique:
+    temperature: 0.3
+    max_tokens: 6000
+    # Consider upgrading to a stronger model once basic pipeline works:
+    # provider: openrouter
+    # model: anthropic/claude-sonnet-4
+
+  paper_synthesis:
+    temperature: 0.3
+    max_tokens: 8000

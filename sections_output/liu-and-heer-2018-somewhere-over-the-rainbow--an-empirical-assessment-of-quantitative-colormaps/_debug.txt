@@ -1,0 +1,124 @@
+==============================================================================
+HEADING SCAN (raw)
+==============================================================================
+  H1: 'Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps'  body:'Yang Liu    University of Washington    Seattle, WA, USA    yliu0@cs.washington.'
+  H2: 'ABSTRACT'  body:'An essential goal of quantitative color encoding is the accurate mapping of perc'
+  H2: 'ACM Classification Keywords'  body:'H.5.m. Information Interfaces and Presentation (e.g. HCI): Miscellaneous'
+  H2: 'Author Keywords'  body:'Colormaps; Color Models; Graphical Perception;    Visualization; Quantitative Me'
+  H2: 'INTRODUCTION'  body:'The rainbow colormap – a scheme spanning the most saturated colors in the spectr'
+  H2: 'RELATED WORK'  body:'We draw on both the century-long research on color theory, and more recent work '
+  H2: 'Color Models'  body:'Perceptually-uniform color spaces attempt to model equal perceptual differences '
+  H2: 'Colormap Design & Evaluation'  body:'As color is an important visual channel in visualization, the design of appropri'
+  H2: 'EXPERIMENTAL METHODS'  body:'Our objective was to assess the effectiveness of each colormap for encoding scal'
+  H2: 'Task'  body:'Our experiments used an ordinal triplet judgment task: given a reference color a'
+  H2: 'Stimuli'  body:'We included four single-hue and five multi-hue colormaps in our studies, grouped'
+  H2: 'Participants'  body:'We recruited subjects via Amazon’s Mechanical Turk (MTurk) crowdsourcing platfor'
+  H2: 'Procedure'  body:'We first screened the participants for color vision deficiencies using four Ishi'
+  H2: 'Data Analysis'  body:'Our primary dependent variables are log-transformed response time (RT) and an er'
+  H2: 'EXPERIMENTAL RESULTS'  body:'We now present the results from our three experimental runs. We first share the '
+  H2: 'Assorted Colormaps'  body:'A total of 56 subjects (19 female, 36 male, 1 other, $\\mu _ { a g e } = 3 5 . 3$'
+  H2: 'Error: Viridis Excels; Blues Degrades for Low Spans'  body:'Tests of logistic mixed-effects models for error again found significant effects'
+  H2: 'Summary'  body:'In this study, viridis demonstrated both superior speed and accuracy. Blues perf'
+  H2: 'Single-Hue Colormaps'  body:'56 subjects (36 female, 19 male, 1 other, $\\mu _ { a g e } = 3 7 . 2 , \\sigma _ '
+  H2: 'Time: No Differences in Single-Hue Responses'  body:'In a linear mixed-effects model of RT, we found a significant effect of span $( '
+  H2: 'Error: Single-Hue Colormaps Suffer from Low Resolution'  body:'Tests with a logistic mixed-effects model of error found a significant effect of'
+  H2: 'Multi-Hue UCS Colormaps'  body:'54 subjects (31 female, 23 male, $\\mu _ { a g e } = 3 6 . 7 , \\sigma _ { a g e }'
+  H2: 'Time & Error: Multi-Hue Colormaps are Comparable'  body:'Analysis of the multi-hue UCS colormaps detected no significant differences betw'
+  H2: 'Analysis of Special Cases'  body:'The above section analyzes colormaps in terms of their mean performance, with mo'
+  H2: 'Performance Degrades in Low Luminance Regions'  body:'An obvious abnormality across studies and colormaps is a dramatic increase of er'
+  H2: 'BlueOrange Suffers when Values Straddle the Mid-Point'  body:'A closer look at blueorange suggests a primary source of errors (Figure 6). When'
+  H2: 'Where the Rainbow Shines: Color Name Association'  body:'Though the majority of reference stimuli in jet lead to higher error than other '
+  H2: 'COLOR MODEL ANALYSIS'  body:'In addition to empirical characterization of user performance, we would like to '
+  H2: 'Error Analysis'  body:'To predict error rates, we fit a logistic regression model. We use mixed-effects'
+  H2: 'Time Analysis'  body:'To analyze timing responses, we followed a similar procedure as we did for the e'
+  H2: 'Summary'  body:'Combining perceptual color models and color naming models leads to higher predic'
+  H2: 'DISCUSSION AND FUTURE WORK'  body:'In this work we evaluated nine quantitative colormaps using a relative similarit'
+  H2: 'ACKNOWLEDGMENTS'  body:'We thank both the anonymouse reviewers and members of the UW Interactive Data La'
+  H2: 'REFERENCES'  body:'1. Dale J. Barr, Roger Levy, Christoph Scheepers, and Harry J. Tily. 2013. Rando'
+
+==============================================================================
+ROUTING DECISIONS
+==============================================================================
+  POS 01 | H1: 'Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps'
+         -> frontmatter.title  (H1 = paper title)
+  POS 02 | H2: 'ABSTRACT'
+         -> frontmatter.abstract  (matched canonical (abstract))
+  POS 03 | H2: 'ACM Classification Keywords'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 04 | H2: 'Author Keywords'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 05 | H2: 'INTRODUCTION'
+         -> frontmatter.introduction  (matched canonical (introduction))
+  POS 06 | H2: 'RELATED WORK'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 07 | H2: 'Color Models'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 08 | H2: 'Colormap Design & Evaluation'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 09 | H2: 'EXPERIMENTAL METHODS'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 10 | H2: 'Task'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 11 | H2: 'Stimuli'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 12 | H2: 'Participants'
+         -> experiments.exp_1.methods  (matched canonical (methods); auto-created exp_1 (single-experiment paper))
+  POS 13 | H2: 'Procedure'
+         -> experiments.exp_1.methods  (matched canonical (methods))
+  POS 14 | H2: 'Data Analysis'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 15 | H2: 'EXPERIMENTAL RESULTS'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 16 | H2: 'Assorted Colormaps'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 17 | H2: 'Error: Viridis Excels; Blues Degrades for Low Spans'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 18 | H2: 'Summary'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 19 | H2: 'Single-Hue Colormaps'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 20 | H2: 'Time: No Differences in Single-Hue Responses'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 21 | H2: 'Error: Single-Hue Colormaps Suffer from Low Resolution'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 22 | H2: 'Multi-Hue UCS Colormaps'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 23 | H2: 'Time & Error: Multi-Hue Colormaps are Comparable'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 24 | H2: 'Analysis of Special Cases'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 25 | H2: 'Performance Degrades in Low Luminance Regions'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 26 | H2: 'BlueOrange Suffers when Values Straddle the Mid-Point'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 27 | H2: 'Where the Rainbow Shines: Color Name Association'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 28 | H2: 'COLOR MODEL ANALYSIS'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 29 | H2: 'Error Analysis'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 30 | H2: 'Time Analysis'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 31 | H2: 'Summary'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 32 | H2: 'DISCUSSION AND FUTURE WORK'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 33 | H2: 'ACKNOWLEDGMENTS'
+         -> backmatter.acknowledgments  (matched canonical (acknowledgments))
+  POS 34 | H2: 'REFERENCES'
+         -> backmatter.references  (matched canonical (references))
+
+==============================================================================
+FRONTMATTER SUMMARY
+==============================================================================
+  [title] Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps
+  [authors] Yang Liu    University of Washington    Seattle, WA, USA    yliu0@cs.washington.edu
+  [abstract] An essential goal of quantitative color encoding is the accurate mapping of perceptual dimensions of color to the logical structure of data. Prior res
+  [introduction] ## ACM Classification Keywords  H.5.m. Information Interfaces and Presentation (e.g. HCI): Miscellaneous  ## Author Keywords  Colormaps; Color Models;
+
+=== EXP_1 ===
+  [methods] ## Participants  We recruited subjects via Amazon’s Mechanical Turk (MTurk) crowdsourcing platform. Prior research has established the validity of cro
+
+=== BACKMATTER ===
+  [references] ## REFERENCES  1. Dale J. Barr, Roger Levy, Christoph Scheepers, and Harry J. Tily. 2013. Random effects structure for confirmatory hypothesis testing
+  [acknowledgments] ## ACKNOWLEDGMENTS  We thank both the anonymouse reviewers and members of the UW Interactive Data Lab for their helpful comments. This work was suppor

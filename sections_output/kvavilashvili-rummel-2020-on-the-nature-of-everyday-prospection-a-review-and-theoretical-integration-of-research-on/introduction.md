@@ -1,0 +1,9 @@
+- Review of General Psychology
+- 2020, Vol. 24(3) 210–237
+- © 2020 The Author(s)
+- cc
+- Article reuse guidelines:
+- sagepub.com/journals-permissions
+- https://doi.org/10.1177/10892680209188DOI: 10.1177/1089268020918843
+- journals.sagepub.com/home/rgp
+- SAGE

@@ -1,0 +1,96 @@
+# ---------------------------------------------------------------------------
+# Pipeline orchestration settings
+# ---------------------------------------------------------------------------
+
+pipeline:
+  # If true, all stages regenerate outputs on every run.
+  # If false, cached outputs are reused unless --force is passed on the CLI.
+  force_by_default: false   #set to true to re-run llm calls on all parts
+
+# ---------------------------------------------------------------------------
+# Model routing configuration for section_summarizer
+# ---------------------------------------------------------------------------
+# Each task maps to a provider + model + generation parameters.
+# Providers are defined below with base URLs and env-var names for API keys.
+# Swap models per task without touching code — just edit this file.
+# ---------------------------------------------------------------------------
+
+providers:
+  venice:
+    base_url: https://api.venice.ai/api/v1
+    api_key_env: VENICE_API_KEY
+  openrouter:
+    base_url: https://openrouter.ai/api/v1
+    api_key_env: OPENROUTER_API_KEY
+  ollama:
+    base_url: http://localhost:11434/v1
+    api_key_env: OLLAMA_API_KEY   # Ollama ignores this but the loader requires it
+
+# Default model config applied to any task not explicitly overridden below.
+defaults:
+  provider: venice
+  model: openai-gpt-oss-120b
+  temperature: 0.1
+  max_tokens: 4000
+  timeout_seconds: 120
+
+# Per-task overrides. Each task corresponds to a processor in processors/.
+# Fields omitted here fall back to `defaults`.
+# Note: `abstract` is not listed — abstracts are copied verbatim by
+# copy_abstracts.py without an LLM call.
+tasks:
+
+  # ---- Extraction tasks (structured, low temperature) ----
+
+  introduction_paper:            # paper-level intro
+    #provider: venice
+    #model: mistral-small-3-2-24b-instruct
+    temperature: 0.2
+    max_tokens: 8000
+    timeout_seconds: 300
+
+  introduction_experiment:       # per-experiment intro paragraph
+    #provider: venice
+    #model: mistral-small-3-2-24b-instruct
+    temperature: 0.2
+    max_tokens: 4000             # shorter output, shorter input
+    timeout_seconds: 300
+
+  methods:
+    #provider: venice
+    #model: mistral-small-3-2-24b-instruct
+    temperature: 0.1             # deterministic; methods are factual
+    max_tokens: 6000
+    timeout_seconds: 300
+
+  results_and_discussion:
+    provider: venice
+    model: mistral-small-3-2-24b-instruct
+    #model: openai-gpt-oss-120b
+    temperature: 0.1
+    max_tokens: 10000             # longer input, richer output
+    timeout_seconds: 400          # longer timeout for larger sections
+
+  discussion_paper:              # from general_discussion.md at top level
+    #provider: venice
+    #model: mistral-small-3-2-24b-instruct
+    temperature: 0.2
+    max_tokens: 8000
+    timeout_seconds: 300
+
+  # ---- Reasoning-heavy tasks (higher temperature, more tokens) ----
+  # Consider upgrading to a stronger model once basic pipeline works.
+
+  critique:
+    #provider: venice
+    #model: mistral-small-3-2-24b-instruct
+    temperature: 0.3
+    max_tokens: 5000
+    timeout_seconds: 300
+    
+  paper_synthesis:
+    #provider: venice
+    #model: mistral-small-3-2-24b-instruct
+    temperature: 0.3
+    max_tokens: 4000
+    timeout_seconds: 300

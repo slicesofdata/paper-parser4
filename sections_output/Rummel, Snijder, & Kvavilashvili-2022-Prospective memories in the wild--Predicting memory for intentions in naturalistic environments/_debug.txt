@@ -1,0 +1,92 @@
+[INTRODUCTION] <image>
+[INTRODUCTION] <index>
+[TITLE] <H1> Prospective memories in the wild: Predicting memory for intentions in natural environments
+[AUTHORS] Jan Rummel<sup>1</sup>  · Jean‑Paul Snijder<sup>1</sup> · Lia Kvavilashvili<sup>2</sup>
+[UNMATCHED] <H2> Abstract
+[UNMATCHED] Prospective memory, the ability to remember an intention at the appropriate future moment, is often investigated in the 
+[UNMATCHED] Keywords Prospective memory · Everyday intentions · Ecological validity · Individual diferences · Ecological momentary a
+[UNMATCHED] Episodic memory is usually thought of as a cognitive system allowing humans to preserve information from the past. It ha
+[UNMATCHED] Given the omnipresence of PM demands in our daily activities and thoughts, it is important to understand when and for wh
+[UNMATCHED] A common demand of any PM task inside and outside the laboratory is that people holding an intention have to remember to
+[UNMATCHED] The seminal theoretical framework by McDaniel and Einstein (2000), which has been cited more than 1,350 times in the pas
+[UNMATCHED] McDaniel and Einstein (2000) suggest that the perceived importance of and the difculties associated with remembering a p
+[UNMATCHED] McDaniel and Einstein (2000) further suggest that certain person characteristics will infuence the likelihood of success
+[UNMATCHED] Notably, in the laboratory, PM is investigated under controlled conditions and particularly the use of external memory a
+[UNMATCHED] Indeed, Unsworth et al. (2012) found that performance in two laboratory tasks of event-based PM did not correlate with s
+[UNMATCHED] It is important to note that, although one would not necessarily expect laboratory PM performance to be strongly correla
+[UNMATCHED] To further address this gap, we conducted a preregistered feld study to test whether a selection of intention and person
+[UNMATCHED] As potentially relevant intention characteristics, we assessed perceived intention importance, whether the intention was
+[UNMATCHED] Based on previous fndings from laboratory studies of PM, predictions for intention-related variables were that intention
+[UNMATCHED] An important and additional aspect of the study design was that during the 5 days of the study, we used EMA to probe par
+[UNMATCHED] <H2> Prospective memory performance predictors
+[UNMATCHED] As intention characteristics, number of days since listing the intention, intention importance, social value, and intent
+[UNMATCHED] Days since listing the intention On the frst day of the study, participants were asked to list their intentions for the 
+[UNMATCHED] Intention importance For each intention participants listed, they were asked to indicate how important they perceived it
+[UNMATCHED] Social value All intentions were coded by two independent student raters, who were not aware of the study aims, as being
+[UNMATCHED] Intention of‑loading On the last day of the study, participants were presented with all intentions they had listed for c
+[UNMATCHED] As person characteristics, Big Five personality factors, working-memory capacity, frequency of intention-related thought
+[UNMATCHED] Personality factors To assess the personality factors (openness, extraversion, agreeableness, conscientiousness, and neu
+[UNMATCHED] Working memory capacity Working memory was assessed with a variant of the widely used operation-span task (Unsworth et a
+[UNMATCHED] Intention‑related thoughts Individual diferences in the occurrence of intention-related thoughts during the intention-fu
+[UNMATCHED] I planned to do something in the future.
+[UNMATCHED] I thought about a future plan I had made earlier.
+[UNMATCHED] I mentally simulated a future event.
+[UNMATCHED] I engaged in fantasies regarding how the future may be.
+[UNMATCHED] I envisioned how I may feel in a future situation.
+[UNMATCHED] I thought about a problem I may face in the future.
+[UNMATCHED] A fnal follow-up question asked participants about the time window of their future- or past-related thoughts—that is, wh
+[UNMATCHED] The frequency with which each participant selected the options “I planned to do something in the future” and “I thought 
+[UNMATCHED] Prospective memory abilities PM abilities were assessed with the short version of the Meta-PM Inventory (MPMI-s; Rummel 
+[UNMATCHED] Social‑value orientation Individual diferences in socialvalue orientation were measured with the six primary items of th
+[UNMATCHED] <H2> Analysis of thought contents
+[UNMATCHED] Thought content analyses were conducted with JASP (Love et al., 2019). On average, participants responded to 23 (SD = 4.
+[UNMATCHED] For the present investigation of real-world prospective memories, future-oriented thoughts were of most interest. Only t
+[UNMATCHED] When considering each type of future thought listed in Table 1, mental simulation of future events were the most frequen
+[UNMATCHED] <H2> Analysis of predictors of successful intention completion
+[UNMATCHED] Analyses were conducted in R (R Core Team, 2021). Using the lme4 package (Bates et al., 2015), we specifed generalized l
+[UNMATCHED] <table>
+[UNMATCHED] In this model, intentions were nested in participants, so that intention characteristics varied on the within-subjects l
+[UNMATCHED] In line with the preregistration, in a stepwise fashion, we frst specifed a model that only featured intention character
+[UNMATCHED] Next, we additionally considered diferent sets of person characteristics (i.e., between-subjects factors) to test which 
+[UNMATCHED] Wald tests identifed PM ability as the only signifcant between-subjects factor in this model. Finally, we specifed a mod
+[UNMATCHED] In the fnal model, in addition to the within-subjects factors of the baseline model, we included those betweensubjects f
+[UNMATCHED] To quantify the relative importance of each predictor in the fnal model, we also conducted a dominance analysis with the
+[UNMATCHED] To quantify and illustrate the level-specific and total variance explained by the predictors included in the final model
+[UNMATCHED] <table>
+[UNMATCHED] <chart>
+[UNMATCHED] <H2> Appendix
+[UNMATCHED] <table>
+[UNMATCHED] <table>
+[UNMATCHED] Funding Open Access funding enabled and organized by Projekt DEAL. This research was fnancially supported by the Federal
+[UNMATCHED] Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, 
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[METHODS] <H2> Method
+[METHODS] Following recommendations by Simmons et al. (2012), across the subsequent Method and Results sections, we report how we 
+[METHODS] <H2> Participants
+[METHODS] In line with the preregistration, we aimed to collect data from at least 220 participants, to achieve reliable parameter
+[METHODS] <image>
+[METHODS] <H2> Procedure
+[METHODS] The study was programed in and hosted on the opensource SoSci Survey platform (Leiner, 2021). The study consisted of thr
+[RESULTS] <H2> Results
+[RESULTS] Data files and analysis codes are provided on the OSF (https://osf.io/aush2/).
+[DISCUSSION] <H2> Discussion
+[DISCUSSION] Remembering to fulfll intentions at the appropriate future moment is crucial for everyday living. It is thus important t
+[DISCUSSION] Building on previous laboratory findings, our results provide new evidence supporting the significance of most of the ca
+[DISCUSSION] Individual differences in conscientiousness and selfreported PM abilities both explained unique variance in intention fu
+[DISCUSSION] Notably, two fndings were not in line with previous research. First, the Big Five factor openness was negatively related
+[DISCUSSION] Brewer et  al. (2010) showed that working-memory capacity was not related to PM performance when the retrieval of intend
+[DISCUSSION] Another novel and interesting set of fndings refers to the nature and frequency of future-oriented thoughts recorded by 
+[DISCUSSION] McDaniel, 2019; Warden et al., 2019). Thus, our fndings are unlikely to merely be a reactive efect of the intentionlisti
+[DISCUSSION] In our analyses, we followed a preregistered analysis protocol and thus, with very few exceptions, specifed models testi
+[DISCUSSION] It is important to note that we were able to explain roughly 26% of the total variance in intention fulflment rates with
+[CONCLUSION] <H2> Conclusion
+[CONCLUSION] In line with the theoretical considerations made by McDaniel and Einstein (2000), results of the present study demonstra
+[REFERENCES] <H2> References
+[REFERENCES] <list>
+[REFERENCES] <list>
+[REFERENCES] <list>
+[REFERENCES] M<sub>e</sub>m<sub>o</sub>r<sub>y</sub> & C<sub>og</sub>niti<sub>o</sub>n i<sub>s a copy</sub>ri<sub>g</sub>ht <sub>o</s

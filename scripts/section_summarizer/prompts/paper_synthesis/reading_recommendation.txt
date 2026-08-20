@@ -1,0 +1,32 @@
+# CATEGORY FOR THIS CALL: reading_recommendation, reading_recommendation_justification
+
+Focus on: how deeply is this paper worth reading for a senior scholar?
+
+Consider:
+- Novelty: does the paper advance the field?
+- Rigor: are the methods and analyses solid?
+- Theoretical contribution: does the theory advance understanding?
+- Empirical robustness: are the findings replicable-looking or fragile?
+- Critique severity: are there high-severity concerns that undermine the contribution?
+
+Choose ONE value for reading_recommendation:
+- "read_fully" = novel contribution or high theoretical importance
+- "read_selectively" = some sections worth reading
+- "skim" = abstract and discussion sufficient
+- "reference_only" = cite if directly relevant but skip reading
+
+For reading_recommendation_justification: 1-3 sentences. If "read_selectively", specifically name which sections are worth reading. Reference critique's high-severity concerns if they influence the recommendation.
+
+Return JSON:
+{
+  "reading_recommendation": "one of four values",
+  "reading_recommendation_justification": "1-3 sentences"
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS AND CRITIQUE
+
+{content}

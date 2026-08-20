@@ -1,0 +1,8 @@
+## 4 EXPERIMENT 2
+
+Experiment 2 directly tested our hypothesis that there is an opaque-ismore bias. Participants saw colormaps that were generated from three different color scales, which were linear interpolations between black– white (analogous to Gray in Experiment 1), black–blue, and blue–white. These colormaps were presented on three possible background colors:
+
+![](images/69f811d81887f5995fa60e9873efc6c260f01294e6a472c4adc34328c2db7aa7.jpg)  
+Fig. 6. Difference in mean RTs (dark-more encoding – light-more encoding) from Figure 5 for each color scale, plotted as a function of the log Opacity Variation Index for the white (left) and black (right) backgrounds. Negative differences scores indicate that RTs were faster for dark-more encoding, consistent with a dark-is-more bias, whereas positive difference scores indicate that RTs were faster for light-more encoding. The slopes of the best-fit regression lines (black lines) are consistent with an opaque-is-more bias that operates in addition to the dark-is-more bias. Greater evidence for variations in opacity results in relatively faster RTs for dark-more encoding on white backgrounds (where dark is more opaque), and faster RTs for light-more encoding on black backgrounds (where light is more opaque).
+
+black, blue, and white. Therefore, for each color scale, there were two backgrounds on which the color scales appeared to vary in opacity, one dark and one light, and one color scale in which the color did not appear to vary in opacity (see Figure 7).

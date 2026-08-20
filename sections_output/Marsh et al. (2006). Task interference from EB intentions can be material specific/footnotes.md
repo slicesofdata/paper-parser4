@@ -1,0 +1,1 @@
+We thank Marissa D’Amelio and Ashley Hallman for their help in collecting the data. Correspondence concerning this article should be addressed to R. L. Marsh, Department of Psychology, University of Georgia, Athens, GA 30602-3013 (e-mail: rlmarsh@uga.edu).

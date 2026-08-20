@@ -1,0 +1,124 @@
+[TITLE] <H1> Investigating the subjective reports of rejection processes in the word frequency mirror effect
+[ABSTRACT] J. Thadeus Meeks <sup>a,</sup>⇑, Justin B. Knight <sup>b</sup>, Gene A. Brewer <sup>c</sup>, Gabriel I. Cook <sup>d</sup
+[INTRODUCTION] <sup>a</sup> Department of Psychology, Southern Illinois University Edwardsville, United States
+[INTRODUCTION] <sup>b</sup> BioImaging Research Center & Department of Psychology, University of Georgia, United States
+[INTRODUCTION] <sup>c</sup> Department of Psychology, Arizona State University, United States
+[INTRODUCTION] <sup>d</sup> Department of Psychology, Claremont McKenna College, United States
+[INTRODUCTION] <sup>e</sup> Department of Psychology, University of Georgia, United States
+[INTRODUCTION] <H2> 1. Introduction
+[INTRODUCTION] The investigation of determining whether an item has occurred in a particular context has a long and venerable history i
+[UNMATCHED] <H2> a r t i c l e i n f o
+[UNMATCHED] Article history: Received 15 May 2013
+[UNMATCHED] Keywords: Recognition memory Word frequency Rejection processes Remember–Know
+[UNMATCHED] <H2> a b s t r a c t
+[UNMATCHED] We sought to systematically investigate how participants subjectively classify the basis of their recognition memory jud
+[UNMATCHED] - 2014 Elsevier Inc. All rights reserved.
+[UNMATCHED] <H2> 2. The hit rate portion of the word frequency mirror effect
+[UNMATCHED] The hit rate portion of the WF mirror effect is often attributed to enhanced recollection for LWF items (thus higher hit
+[UNMATCHED] There is some debate about the use of subjective reports in measuring recollection and familiarity. For example, many cl
+[UNMATCHED] <H2> 3. The correct rejection portion of the word frequency mirror effect
+[UNMATCHED] While most studies have focused on the hit rate portion of the WF mirror effect, much less research has examined the fal
+[UNMATCHED] The idea of a memorability-based rejection process bears similarity to research on the distinctiveness heuristic. Israel
+[UNMATCHED] Ghetti (2003) focused on a rejection process similar to the distinctiveness heuristic. In particular, she evaluated the 
+[UNMATCHED] <H2> 4. The current study
+[UNMATCHED] Despite the preliminary evidence associating LWF items with an enhanced perception of memorability, it is unknown whethe
+[UNMATCHED] <H2> 5. Experiment 1
+[UNMATCHED] <H2> 5.2.1. Hit rates
+[UNMATCHED] A conventional alpha level of 5% was adopted for all statistical tests across all experiments. Refer to Table 1 for the 
+[UNMATCHED] <H2> 5.2.2. Correct rejection rates
+[UNMATCHED] While most research on the WF mirror effect has focused on the false alarm data, the correct rejection rate is simply th
+[UNMATCHED] $F ( 2 , 4 8 ) = 6 . 1 3 8 , p = . 0 0 4 , \eta _ { p } ^ { 2 } = . 2 0 4 .$. The proportion of Would Have Remembered re
+[UNMATCHED] <H2> 6. Experiment 2
+[UNMATCHED] In Experiment 2, we sought to elucidate whether similar effects would be obtained for items varying in WF when controlli
+[UNMATCHED] <H2> 6.2.1. Hit rates
+[UNMATCHED] Please refer to Table 2 for all means and standard errors from Experiment 2. We do not report the interaction effects in
+[UNMATCHED] <table>
+[UNMATCHED] <H2> 6.2.2. Correct rejection rates
+[UNMATCHED] In a similar 2 $( \mathsf { W F } ) \times 2 \ \mathrm { \Gamma } ( \mathsf { C V } )$repeated measures ANOVA on correct
+[UNMATCHED] <H2> 7. Experiment 3
+[UNMATCHED] In Experiment 3, we wanted to know whether the differences in rejection classifications would still occur when we manipu
+[UNMATCHED] 1994; Dorfman & Glanzer, 1988; Gorman, 1961; McCormack & Swenson, 1972) and the hit rate is due to recollection in both 
+[UNMATCHED] <H2> 7.2.1. Hit rates
+[UNMATCHED] Please refer to Table 3 for all means and standard errors from Experiment 3. Analyses were conducted similarly to Experi
+[UNMATCHED] <table>
+[UNMATCHED] J.T. Meeks et al. / Consciousness and Cognition 24 (2014) 57–69
+[UNMATCHED] 7.2.2. Correct rejection rates
+[UNMATCHED] In terms of correct rejections, there was a main effect of CV, $F ( 1 , 6 7 ) = 2 4 . 1 8 0 , p < . 0 0 1 , \eta _ { v }
+[UNMATCHED] <H2> 8.1. Examination of hit rate findings
+[UNMATCHED] We replicated the hit rate and recollection advantage for LWF and LCV items when these variables were manipulated within
+[UNMATCHED] <H2> 8.2. Summary of correct rejection findings
+[UNMATCHED] Our primary variable of interest in this study was the correct rejection portion of the mirror effect. In within-subject
+[UNMATCHED] We also replicated the correct rejection advantage for LWF items in pure lists (e.g., Clark & Burchett, 1994; Dorfman & 
+[UNMATCHED] <H2> 8.3. Closer examination of the correct rejection findings
+[UNMATCHED] The infrequent occurrence of LWF items makes them inherently more distinctive and more memorable than HWF words. This in
+[UNMATCHED] <H2> 8.4. The general use of subjective classification of memory processes
+[UNMATCHED] The debate about the use of subjective Remember–Know judgments to make conclusions about underlying recollection and fam
+[UNMATCHED] <H2> 8.5. Limitations, future directions, and conclusions
+[UNMATCHED] Because the study of rejection processes is somewhat exploratory, more clarification is needed. For example, there may b
+[UNMATCHED] In conclusion, our study was not only the first extensive examination of the subjective reports of rejection processes i
+[UNMATCHED] <H2> Appendix A
+[UNMATCHED] <H2> A.1. Test instructions for Experiment 1
+[UNMATCHED] You have just studied the list of words. In this next and final phase of the experiment, your memory for the words will 
+[UNMATCHED] Following your OLD or NEW response, you will be asked to make another response for each word. The instructions that foll
+[UNMATCHED] If you called the word OLD, you will asked to make another judgment between 3 choices. When people like yourself complet
+[UNMATCHED] 1. One remembers SPECIFIC DETAILS about the event or experience. One might recollect that the word came toward the begin
+[UNMATCHED] For example, you may remember that you recently saw a movie because you can recollect specific details about the event l
+[UNMATCHED] 2. One might not remember specific details, but nevertheless, the experience feels vaguely FAMILIAR. This does not mean 
+[UNMATCHED] 3. Sometimes one might have no recollective details for studying a word, nor have any familiarity for it, but neverthele
+[UNMATCHED] After considering the best way to characterize your memory for studying the word from the 3 types described above, you w
+[UNMATCHED] <H2> KR
+[UNMATCHED] <H2> G
+[UNMATCHED] You will also be asked to make one of three different judgments for NEW words. People typically claim that they have NOT
+[UNMATCHED] 1. The word did not seem or feel familiar because it lacked familiarity, thus one believes that it was not studied. 1. T
+[UNMATCHED] This is similar to telling Person X that you do not remember meeting him/her because he or she just ‘‘Does not look fami
+[UNMATCHED] 2. One may feel that they searched memory and recalled something about the study phase that lead them to believe the wor
+[UNMATCHED] For example, if the test word is TRAIN, you may search your memory of the test phase and remember that you studied PLANE
+[UNMATCHED] 3. One thinks that the word is so distinctive that if it was studied, it would have been remembered, and because it is n
+[UNMATCHED] For example, if your first name appeared on the test you might judge it as NEW because you feel that it would have been 
+[UNMATCHED] After considering the best way to characterize NOT having a memory for the word, you will press the corresponding key on
+[UNMATCHED] <H2> LFRR
+[UNMATCHED] <H2> WHR
+[UNMATCHED] For clarification, if you think that a word was studied, you will press the OLD key. You will then decide whether you (1
+[UNMATCHED] If you think that a word was not studied, you will press the NEW key. You will then decide whether you judged it as new 
+[UNMATCHED] Please ask the experimenter to clarify any questions that you have about the instructions that you just read.
+[UNMATCHED] <H2> Appendix B
+[UNMATCHED] <table>
+[UNMATCHED] <H2> Appendix C
+[UNMATCHED] <table>
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[METHODS] <H2> 5.1. Method
+[METHODS] <H2> 5.1.1. Participants
+[METHODS] Twenty-five undergraduate students from the University of Georgia participated in exchange for course credit. The partic
+[METHODS] <H2> 5.1.2. Materials and procedure
+[METHODS] We selected a total of 120 words from the Kucˆera and Francis (1967) word norms. All of the items were nouns. Sixty were
+[METHODS] As suggested by others (e.g., Migo et al., 2012), we have included our test instructions (please see Appendix A). The re
+[METHODS] If participants claimed they had not studied the item, they were also to indicate why they made this decision. If the it
+[METHODS] <table>
+[METHODS] <H2> 6.1. Method
+[METHODS] <H2> 6.1.1. Participants
+[METHODS] Thirty-five undergraduate students from the University of Georgia participated in exchange for course credit. The partic
+[METHODS] <H2> 6.1.2. Materials and procedure
+[METHODS] For this experiment, we selected items from the Steyvers and Malmberg (2003) corpus. This set of words was grouped into 
+[METHODS] <H2> 7.1. Method
+[METHODS] <H2> 7.1.1. Participants
+[METHODS] Seventy undergraduate students from the University of Georgia participated in exchange for course credit. Thirty-five pa
+[METHODS] <H2> 7.1.2. Materials and procedure
+[METHODS] As in Experiment 2, we selected items from the Steyvers and Malmberg (2003) corpus. For this experiment, however, we onl
+[RESULTS] <H2> 5.2. Results
+[RESULTS] <H2> 6.2. Results
+[RESULTS] <H2> 7.2. Results
+[DISCUSSION] <H2> 5.3. Discussion
+[DISCUSSION] We replicated the classic WF mirror effect in the hit and correct rejection rates and the finding that there are more Re
+[DISCUSSION] <H2> 6.3. Discussion
+[DISCUSSION] We replicated Cook et al. (2006) and Steyvers and Malmberg (2003) in finding mirror effects for both WF and CV separatel
+[DISCUSSION] <H2> 7.3. Discussion
+[DISCUSSION] We replicated the finding from Experiment 2 and previous studies (Cook et al., 2006; Steyvers & Malmberg, 2003) that dem
+[GENERAL_DISCUSSION] <H2> 8. General discussion
+[GENERAL_DISCUSSION] The primary goal of the current study was to provide a more extensive examination of the reported mechanisms responsible
+[REFERENCES] <H2> References
+[REFERENCES] <list>
+[REFERENCES] <list>

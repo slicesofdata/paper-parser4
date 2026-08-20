@@ -1,0 +1,120 @@
+# Results and Discussion Summary
+
+*Section: {{ section_location }}*
+
+{% if data.statistical_approach_summary -%}
+## Statistical Approach
+
+{{ data.statistical_approach_summary }}
+
+{% endif %}
+
+{% if data.key_findings -%}
+## Key Findings
+
+{% for f in data.key_findings -%}
+### {{ f.finding_statement }}
+
+- **Test:** {{ f.statistical_test }}
+{% if f.effect_type -%}
+- **Effect type:** {{ f.effect_type }}
+{% endif -%}
+{% if f.variables_in_model -%}
+- **Variables in model:** {{ f.variables_in_model | join(", ") }}
+{% endif %}
+
+**Verbatim statistical report:**
+
+> {{ f.verbatim_statistical_report }}
+
+{% if f.verbatim_descriptives -%}
+**Verbatim descriptives:**
+
+> {{ f.verbatim_descriptives }}
+
+{% endif -%}
+{% if f.citations_inline %}
+- Citations: {% for c in f.citations_inline %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.authors_interpretations -%}
+## Authors' Interpretations
+
+{% for e in data.authors_interpretations -%}
+- **{{ e.topic_label }}**
+  > {{ e.verbatim_quote }}
+{% if e.citations_inline %}
+  - Citations: {% for c in e.citations_inline %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.authors_stated_link_to_predictions -%}
+## Authors' Stated Links to Their Own Predictions
+
+{% for e in data.authors_stated_link_to_predictions -%}
+- **{{ e.topic_label }}**
+  > {{ e.verbatim_quote }}
+{% if e.citations_inline %}
+  - Citations: {% for c in e.citations_inline %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.anomalous_or_unexpected_results -%}
+## Anomalous or Unexpected Results (as characterized by authors)
+
+{% for item in data.anomalous_or_unexpected_results %}
+- {{ item }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.alternative_interpretations_discussed -%}
+## Alternative Interpretations Discussed by Authors
+
+{% for item in data.alternative_interpretations_discussed %}
+- {{ item }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.limitations_stated_by_authors -%}
+## Limitations Stated by Authors
+
+{% for item in data.limitations_stated_by_authors %}
+- {{ item }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.preview_of_next_experiment -%}
+## Preview of Next Experiment
+
+{{ data.preview_of_next_experiment }}
+
+{% endif %}
+
+{% if data.missing_or_unclear -%}
+## Missing or Unclear (Non-Statistical)
+
+{% for item in data.missing_or_unclear %}
+- {{ item }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.citations_referenced -%}
+## Citations Referenced
+
+{% for c in data.citations_referenced %}
+- **{{ c.authors }} ({{ c.year }})** — {{ c.context }}
+{% endfor %}
+
+{% endif %}

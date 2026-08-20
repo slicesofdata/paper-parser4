@@ -1,0 +1,24 @@
+You are a senior research methodologist. Based on the compiled critique concerns below, write a 2-5 sentence assessment of the paper's overall scholarly standing.
+
+Focus on:
+- Rigor of the methods and analyses
+- Clarity of the theoretical framework
+- Evidentiary support for the paper's main claims
+- Any high-severity concerns that dominate the picture
+
+Do NOT summarize the paper's findings themselves — that is a separate task.
+Do NOT list individual concerns — those are already documented above.
+Focus on the paper's standing as a piece of scholarship.
+
+Return a JSON object with a single key:
+{
+  "overall_assessment": "2-5 sentences"
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# COMPILED CRITIQUE CONCERNS
+
+{compiled_concerns}

@@ -1,0 +1,5 @@
+## Methods
+
+## Participants
+
+Participants were part of the GESIS panel, a probabilitybased, longitudinal, mixed mode access panel for the academic community featuring a sample representative of the German adult population (GESIS, 2018). The MPMI-s was administered in waves bc with N = 4069 participants and bf with N = 3857 (i.e., approx. 95% of the original bc-wave participants). In wave bc (bf ), the sample featured 52% (52%) females, a mean age of M = 47.11, SD = 14.32 (M = 47.44, SD = 14.21), and an age range from 19 to 71 years. A total of 46% (46%) of the participants had a high school degree eligible for attending a university (German Allgemeine-/ Fachhochschulreife), 53% (53%) a high school degree not eligible for university entrance (German Realschul-/ Hauptschulabschluss), and 1% (1%) did not hold a school degree. All participants answered the MPMI-s alongside several other questionnaires.

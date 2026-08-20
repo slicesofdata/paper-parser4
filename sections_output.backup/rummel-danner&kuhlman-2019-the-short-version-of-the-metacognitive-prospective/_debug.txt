@@ -1,0 +1,47 @@
+=== HEADING SCAN (raw) ===
+  L0 (no heading)  body:'VA LIDA TION O F M EA SUR EM EN T IN S TRUM EN T S  Open Access'
+  H1: 'The short version of the Metacognitive Prospective Memory Inventory (MPMI-s): factor structure, reliability, validity, and reference data'  body:'![](images/35a6d0a61174f76589ac3ead164d9ff95e434f89208b5e869d4e7e71ba5a2f39.jpg)'
+  H2: 'Abstract'  body:'Prospective memory, the ability to remember to execute an intended action at the'
+  H2: 'Introduction'  body:'Prospective memory (PM) refers to the ability to remember an intention at the ap'
+  H2: 'Methods'  body:''
+  H2: 'Participants'  body:'Participants were part of the GESIS panel, a probabilitybased, longitudinal, mix'
+  H2: 'Measures'  body:''
+  H2: 'Metacognitive Prospective Memory Inventory short version (MPMI-s)'  body:'The English item translations of the MPMI-s are presented in Table 1. The origin'
+  H2: 'Big-Five Personality Inventory short version (BFl-2S)'  body:'The German version of the BFI-2S (Rammstedt, Danner, Soto, & John, 2018; Soto & '
+  H2: 'Vacation planning'  body:'As part of one wave, the GESIS panel participants were asked several questions a'
+  H2: 'Data collection'  body:'Data collection was completed as part of three different data collection waves o'
+  H2: 'Results'  body:'The GESIS panel data is publically available. All analysis codes are provided as'
+  H2: 'Factorial structure'  body:'Based on previous research (Rummel, Kuhlmann, & Danner: A questionnaire for the '
+  H2: 'Reliability'  body:'To assess the MPMI-s’ reliability within both assessment waves, we calculated Mc'
+  H2: 'Validity'  body:'The BFI-2S domains were modeled as latent variables using exploratory structural'
+  H2: 'Age and gender differences'  body:'As evident from Table 3, there was some evidence for small age-related differenc'
+  H2: 'Reference data'  body:'Reference data separated by age and gender for all three scales are provided as '
+  H2: 'Discussion'  body:'PM abilities are crucial for mastering our daily work and life activities (Dismu'
+  H2: 'Conclusion'  body:'Taken together, the short version of the MPMI has been proven a reliable and val'
+  H2: 'Endnotes'  body:'<sup>1</sup>Items of both strategy scales were always positively formulated beca'
+  H2: 'Additional files'  body:'<sup>Additional</sup> <sup>file</sup> <sup>1:</sup> German MPMI-s items and thei'
+  H2: 'Authors’ contributions'  body:'JR and BGK developed the study idea, and DD provided critical feedback. DD condu'
+  H2: 'Funding'  body:'This research was not supported by any external funding source.'
+  H2: 'Availability of data and materials'  body:'The GESIS panel data is publically available. The questionnaire items and analys'
+  H2: 'Competing interests'  body:'The authors declare that they have no competing interests.'
+  H2: 'Author details'  body:'<sup>1</sup>Department of Psychology, Heidelberg University, Hauptstrasse 47-51,'
+  H2: 'References'  body:'Aichholzer, J. (2014). Random intercept efa of personality scales. Journal of Re'
+  H2: 'Publisher<sub>’</sub>s Note'  body:'Springer Nature remains neutral with regard to jurisdictional claims in publishe'
+  H2: 'Ready to submit your research?Choose BMC and benefit from:'  body:'• fast, convenient online submission  • thorough peer review by experienced rese'
+  H2: 'Terms and Conditions'  body:'Springer Nature journal content, brought to you courtesy of Springer Nature Cust'
+
+=== FRONTMATTER ===
+  [title] The short version of the Metacognitive Prospective Memory Inventory (MPMI-s): factor structure, reliability, validity, and reference data
+  [authors] ![](images/35a6d0a61174f76589ac3ead164d9ff95e434f89208b5e869d4e7e71ba5a2f39.jpg)  Jan Rummel<sup>1\*</sup> , Daniel Danner<sup>2</sup> and Beatrice G.
+  [abstract] ## Abstract  Prospective memory, the ability to remember to execute an intended action at the appropriate moment in the future, is frequently assessed
+  [introduction] ## Introduction  Prospective memory (PM) refers to the ability to remember an intention at the appropriate moment in the future (Cohen & Hicks, 2017).
+
+=== EXP_1 ===
+  [methods] ## Methods    ## Participants  Participants were part of the GESIS panel, a probabilitybased, longitudinal, mixed mode access panel for the academic c
+  [results] ## Results  The GESIS panel data is publically available. All analysis codes are provided as Additional file 2.  ## Factorial structure  Based on prev
+  [discussion] ## Discussion  PM abilities are crucial for mastering our daily work and life activities (Dismukes, 2012) and PM deficits accompany several clinical d
+
+=== BACKMATTER ===
+  [conclusion] ## Conclusion  Taken together, the short version of the MPMI has been proven a reliable and valid instrument for the investigation of PM abilities and
+  [references] ## References  Aichholzer, J. (2014). Random intercept efa of personality scales. Journal of Research in Personality, 53, 1–4. https://doi.org/10.1016
+  [unmatched] VA LIDA TION O F M EA SUR EM EN T IN S TRUM EN T S  Open Access  

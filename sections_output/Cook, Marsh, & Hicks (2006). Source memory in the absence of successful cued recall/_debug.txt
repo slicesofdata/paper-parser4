@@ -1,0 +1,60 @@
+[TITLE] <H1> Source Memory in the Absence of Successful Cued Recall
+[AUTHORS] Gabriel I. Cook Claremont McKenna College
+[AUTHORS] Richard L. Marsh University of Georgia
+[AUTHORS] Jason L. Hicks Louisiana State University
+[ABSTRACT] Five experiments were conducted to address the question of whether source information could be accessed in the absence o
+[KEYWORDS] Keywords: source monitoring, context memory, metacognition
+[INTRODUCTION] Information about the contextual details surrounding an event is used in a variety of everyday tasks. That information c
+[INTRODUCTION] Although we do not intend to weigh in on this debate, that theoretical issue raises an interesting question; namely, is 
+[INTRODUCTION] We assume, as have many others before us, that a memory trace is composed of a bundle of features of various types (e.g.
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[EXPERIMENT_INTROS] <H2> Experiment 1
+[EXPERIMENT_INTROS] This first experiment served as an initial investigation of whether any context information is available about a target 
+[EXPERIMENT_INTROS] <H2> Experiment 2
+[EXPERIMENT_INTROS] Jacoby and his colleagues have argued that multiple study trials increase both recollection and familiarity (e.g., Jacob
+[EXPERIMENT_INTROS] <H2> Experiments 3a and 3b
+[EXPERIMENT_INTROS] The previous experiment was informative insofar as it demonstrated that predictive source judgments can be well above ch
+[EXPERIMENT_INTROS] <H2> Experiment 4
+[EXPERIMENT_INTROS] The purpose of this final experiment was to test memory under “full disclosure” conditions of how the experiment would p
+[METHODS] <H2> Method
+[METHODS] Participants. Undergraduate students from the University of Georgia volunteered in exchange for partial credit toward a 
+[METHODS] Materials and procedure. Eighty words were identified that could be split evenly into two sets that were equated on stan
+[METHODS] At the conclusion of the study phase, a 5-min distractor task was administered. Participants were then informed of the n
+[METHODS] All instructions were displayed on the computer monitor at both study and test. After participants read those instructio
+[METHODS] <H2> Method
+[METHODS] Participants. Undergraduates from the University of Georgia volunteered in exchange for partial credit toward a course r
+[METHODS] Materials and procedure. In all of its essential properties, save one, this experiment was identical to the preceding on
+[METHODS] <H2> Method
+[METHODS] Participants. University of Georgia undergraduates volunteered in exchange for partial credit toward a course research r
+[METHODS] Materials and procedure. The software used in Experiment 2 was updated to present 40 preprocessing trials for use in Exp
+[METHODS] <H2> Method
+[METHODS] Participants. Thirty-three University of Georgia undergraduates volunteered in exchange for partial credit toward a cour
+[METHODS] Procedure. The prestudy instruction files were updated to reflect the exact procedure that would be administered after l
+[RESULTS] <H2> Results and Discussion
+[RESULTS] Unless specified otherwise with an explicit p value, statistical significance by chance does not exceed the conventional
+[RESULTS] When cued recall failed, participants tried to specify the source of the target in the absence of knowing the word, then
+[RESULTS] <table>
+[RESULTS] The data from this first experiment clearly demonstrate that the partial information retrieved when cued recall fails do
+[RESULTS] <H2> Results and Discussion
+[RESULTS] The results are summarized in the next section of Table 1. Cued recall for once-presented items was at a comparable leve
+[RESULTS] The reader should note that in all of our comparisons of oncepresented versus thrice-presented items, different numbers 
+[RESULTS] The results from this experiment indicate that contextual information may be among the partial recollective details avai
+[RESULTS] <H2> Results and Discussion
+[RESULTS] The results of each experiment are summarized in the labeled sections of Table 1. In each experiment, the data were anal
+[RESULTS] After failing to recall the target item, recognition of it was quite high given the nature of the distractor items. Howe
+[RESULTS] As the reader can see by scanning down the Predicted column of Table 1, neither preprocessing the cue–target association
+[RESULTS] <H2> Results and Discussion
+[RESULTS] The data are summarized at the bottom of Table 1. Cued-recall performance was arguably quite poor for once-presented pai
+[RESULTS] The outcomes from this experiment clearly demonstrate that participants can associate the source of targets with the cue
+[RESULTS] 3b). We now turn to considering how these results fit more broadly against the fabric of source monitoring and item memo
+[GENERAL_DISCUSSION] <H2> General Discussion
+[GENERAL_DISCUSSION] The empirical outcomes of this study are straightforward to summarize. Partial information about a target memory that ca
+[GENERAL_DISCUSSION] Another implication of the results is that item information is an extraordinarily important mediator of being able to re
+[GENERAL_DISCUSSION] The importance of item information in retrieving source information is a point that has been overlooked in the sourcemon
+[GENERAL_DISCUSSION] The foregoing argument highlights one interim answer to our question; namely, is context information among the informati
+[GENERAL_DISCUSSION] Finally, the results of this study are consistent with models of memory that argue that memory traces are bundles of fea
+[REFERENCES] <H2> References
+[REFERENCES] <list>

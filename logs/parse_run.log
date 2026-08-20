@@ -1,0 +1,157 @@
+2026-06-30 18:56:51,680 [INFO] Found 1 PDFs in C:\Users\gcook\projects\paper-parser4\pdfs_input
+2026-06-30 18:56:51,680 [INFO] Output → C:\Users\gcook\projects\paper-parser4\markdown_output
+2026-06-30 18:56:51,684 [INFO] [1/1] test.pdf (346 KB)
+2026-06-30 18:56:51,684 [INFO] CMD: mineru -p C:\Users\gcook\projects\paper-parser4\pdfs_input\test.pdf -o C:\Users\gcook\projects\paper-parser4\markdown_output -b pipeline -m auto -l en
+2026-06-30 18:57:41,158 [ERROR] mineru exited 1
+2026-06-30 18:57:41,158 [ERROR] stderr (tail): :\Users\gcook\AppData\Roaming\uv\python\cpython-3.12-windows-x86_64-none\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             |        |            -> None
+             |        -> None
+             -> None
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\cli\common.py", line 717, in do_parse
+    _process_pipeline(
+    -> <function _process_pipeline at 0x00000205E25D53A0>
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\cli\common.py", line 370, in _process_pipeline
+    from mineru.backend.pipeline.pipeline_analyze import doc_analyze_streaming as pipeline_doc_analyze_streaming
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\backend\pipeline\pipeline_analyze.py", line 11, in <module>
+    from .model_init import MineruPipelineModel, PIPELINE_MODEL_INIT_LOCK
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\backend\pipeline\model_init.py", line 9, in <module>
+    from ...model.layout.pp_doclayoutv2 import PPDocLayoutV2LayoutModel
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\layout\pp_doclayoutv2.py", line 19, in <module>
+    from transformers import AutoConfig
+
+[31m[1mModuleNotFoundError[0m:[1m No module named 'transformers'[0m
+Error: 1 task(s) failed while processing documents:
+- task#1 (test): Task 2d77c4ea-7f33-427d-a2e0-cdb0febc96ed failed for task#1 [test]: {"task_id": "2d77c4ea-7f33-427d-a2e0-cdb0febc96ed", "status": "failed", "backend": "pipeline", "file_names": ["test"], "created_at": "2026-07-01T01:57:19.462125+00:00", "started_at": "2026-07-01T01:57:19.463121+00:00", "completed_at": "2026-07-01T01:57:29.003316+00:00", "error": "No module named 'transformers'", "status_url": "http://127.0.0.1:60538/tasks/2d77c4ea-7f33-427d-a2e0-cdb0febc96ed", "result_url": "http://127.0.0.1:60538/tasks/2d77c4ea-7f33-427d-a2e0-cdb0febc96ed/result", "queued_ahead": 0}
+
+2026-06-30 18:57:41,158 [ERROR]   FAILED
+2026-06-30 18:57:41,158 [INFO] Summary: done=0 skipped=0 failed=1 total=1
+2026-06-30 18:58:13,272 [INFO] Found 1 PDFs in C:\Users\gcook\projects\paper-parser4\pdfs_input
+2026-06-30 18:58:13,272 [INFO] Output → C:\Users\gcook\projects\paper-parser4\markdown_output
+2026-06-30 18:58:13,272 [INFO] [1/1] test.pdf (346 KB)
+2026-06-30 18:58:13,288 [INFO] CMD: mineru -p C:\Users\gcook\projects\paper-parser4\pdfs_input\test.pdf -o C:\Users\gcook\projects\paper-parser4\markdown_output -b pipeline -m auto -l en
+2026-06-30 18:58:42,282 [ERROR] mineru exited 1
+2026-06-30 18:58:42,282 [ERROR] stderr (tail):           |        |            -> None
+             |        -> None
+             -> None
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\cli\common.py", line 717, in do_parse
+    _process_pipeline(
+    -> <function _process_pipeline at 0x00000253126CF560>
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\cli\common.py", line 370, in _process_pipeline
+    from mineru.backend.pipeline.pipeline_analyze import doc_analyze_streaming as pipeline_doc_analyze_streaming
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\backend\pipeline\pipeline_analyze.py", line 11, in <module>
+    from .model_init import MineruPipelineModel, PIPELINE_MODEL_INIT_LOCK
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\backend\pipeline\model_init.py", line 12, in <module>
+    from mineru.model.ocr.pytorch_paddle import PytorchPaddleOCR
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\ocr\pytorch_paddle.py", line 13, in <module>
+    from mineru.model.ocr.seal_crop import CropByPolys, SortPolyBoxes
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\ocr\seal_crop.py", line 21, in <module>
+    from shapely.geometry import Polygon
+
+[31m[1mModuleNotFoundError[0m:[1m No module named 'shapely'[0m
+Error: 1 task(s) failed while processing documents:
+- task#1 (test): Task 3c156462-1699-434b-aa6f-d87175102ddb failed for task#1 [test]: {"task_id": "3c156462-1699-434b-aa6f-d87175102ddb", "status": "failed", "backend": "pipeline", "file_names": ["test"], "created_at": "2026-07-01T01:58:22.638474+00:00", "started_at": "2026-07-01T01:58:22.638474+00:00", "completed_at": "2026-07-01T01:58:30.211357+00:00", "error": "No module named 'shapely'", "status_url": "http://127.0.0.1:59431/tasks/3c156462-1699-434b-aa6f-d87175102ddb", "result_url": "http://127.0.0.1:59431/tasks/3c156462-1699-434b-aa6f-d87175102ddb/result", "queued_ahead": 0}
+
+2026-06-30 18:58:42,282 [ERROR]   FAILED
+2026-06-30 18:58:42,282 [INFO] Summary: done=0 skipped=0 failed=1 total=1
+2026-06-30 18:59:14,653 [INFO] Found 1 PDFs in C:\Users\gcook\projects\paper-parser4\pdfs_input
+2026-06-30 18:59:14,654 [INFO] Output → C:\Users\gcook\projects\paper-parser4\markdown_output
+2026-06-30 18:59:14,654 [INFO] [1/1] test.pdf (346 KB)
+2026-06-30 18:59:14,655 [INFO] CMD: mineru -p C:\Users\gcook\projects\paper-parser4\pdfs_input\test.pdf -o C:\Users\gcook\projects\paper-parser4\markdown_output -b pipeline -m auto -l en
+2026-06-30 18:59:42,818 [ERROR] mineru exited 1
+2026-06-30 18:59:42,818 [ERROR] stderr (tail): CK
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\backend\pipeline\model_init.py", line 12, in <module>
+    from mineru.model.ocr.pytorch_paddle import PytorchPaddleOCR
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\ocr\pytorch_paddle.py", line 26, in <module>
+    from mineru.model.utils.tools.infer.predict_system import TextSystem
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\utils\tools\infer\predict_system.py", line 7, in <module>
+    from . import  predict_det
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\utils\tools\infer\predict_det.py", line 11, in <module>
+    from ...pytorchocr.data import create_operators, transform
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\utils\pytorchocr\data\__init__.py", line 7, in <module>
+    from .imaug import transform, create_operators
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\utils\pytorchocr\data\imaug\__init__.py", line 14, in <module>
+    from .operators import *
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\utils\pytorchocr\data\imaug\operators.py", line 23, in <module>
+    import six
+
+[31m[1mModuleNotFoundError[0m:[1m No module named 'six'[0m
+Error: 1 task(s) failed while processing documents:
+- task#1 (test): Task 6144575e-bf58-470b-9b04-abac5430638e failed for task#1 [test]: {"task_id": "6144575e-bf58-470b-9b04-abac5430638e", "status": "failed", "backend": "pipeline", "file_names": ["test"], "created_at": "2026-07-01T01:59:25.181438+00:00", "started_at": "2026-07-01T01:59:25.182434+00:00", "completed_at": "2026-07-01T01:59:30.919186+00:00", "error": "No module named 'six'", "status_url": "http://127.0.0.1:59332/tasks/6144575e-bf58-470b-9b04-abac5430638e", "result_url": "http://127.0.0.1:59332/tasks/6144575e-bf58-470b-9b04-abac5430638e/result", "queued_ahead": 0}
+
+2026-06-30 18:59:42,818 [ERROR]   FAILED
+2026-06-30 18:59:42,818 [INFO] Summary: done=0 skipped=0 failed=1 total=1
+2026-06-30 19:00:21,816 [INFO] Found 1 PDFs in C:\Users\gcook\projects\paper-parser4\pdfs_input
+2026-06-30 19:00:21,816 [INFO] Output → C:\Users\gcook\projects\paper-parser4\markdown_output
+2026-06-30 19:00:21,816 [INFO] [1/1] test.pdf (346 KB)
+2026-06-30 19:00:21,816 [INFO] CMD: mineru -p C:\Users\gcook\projects\paper-parser4\pdfs_input\test.pdf -o C:\Users\gcook\projects\paper-parser4\markdown_output -b pipeline -m auto -l en
+2026-06-30 19:00:54,887 [ERROR] mineru exited 1
+2026-06-30 19:00:54,887 [ERROR] stderr (tail): Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\mfr\unimernet\Unimernet.py", line 28, in __init__
+    from .unimernet_hf import UnimernetModel
+                              -> <class 'mineru.model.mfr.unimernet.Unimernet.UnimernetModel'>
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\mfr\unimernet\unimernet_hf\__init__.py", line 2, in <module>
+    from .unimer_swin import UnimerSwinConfig, UnimerSwinModel, UnimerSwinImageProcessor
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\mfr\unimernet\unimernet_hf\unimer_swin\__init__.py", line 3, in <module>
+    from .modeling_unimer_swin import UnimerSwinModel
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\mfr\unimernet\unimernet_hf\unimer_swin\modeling_unimer_swin.py", line 31, in <module>
+    from transformers.pytorch_utils import find_pruneable_heads_and_indices, meshgrid, prune_linear_layer
+
+[31m[1mImportError[0m:[1m cannot import name 'find_pruneable_heads_and_indices' from 'transformers.pytorch_utils' (C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\transformers\pytorch_utils.py)[0m
+Error: 1 task(s) failed while processing documents:
+- task#1 (test): Task 34cb650e-bfb7-4861-ac60-b00b83ad6cfa failed for task#1 [test]: {"task_id": "34cb650e-bfb7-4861-ac60-b00b83ad6cfa", "status": "failed", "backend": "pipeline", "file_names": ["test"], "created_at": "2026-07-01T02:00:31.213386+00:00", "started_at": "2026-07-01T02:00:31.213386+00:00", "completed_at": "2026-07-01T02:00:43.213475+00:00", "error": "cannot import name 'find_pruneable_heads_and_indices' from 'transformers.pytorch_utils' (C:\\Users\\gcook\\projects\\paper-parser4\\.venv\\Lib\\site-packages\\transformers\\pytorch_utils.py)", "status_url": "http://127.0.0.1:54253/tasks/34cb650e-bfb7-4861-ac60-b00b83ad6cfa", "result_url": "http://127.0.0.1:54253/tasks/34cb650e-bfb7-4861-ac60-b00b83ad6cfa/result", "queued_ahead": 0}
+
+2026-06-30 19:00:54,887 [ERROR]   FAILED
+2026-06-30 19:00:54,887 [INFO] Summary: done=0 skipped=0 failed=1 total=1
+2026-06-30 19:02:05,210 [INFO] Found 1 PDFs in C:\Users\gcook\projects\paper-parser4\pdfs_input
+2026-06-30 19:02:05,210 [INFO] Output → C:\Users\gcook\projects\paper-parser4\markdown_output
+2026-06-30 19:02:05,210 [INFO] [1/1] test.pdf (346 KB)
+2026-06-30 19:02:05,210 [INFO] CMD: mineru -p C:\Users\gcook\projects\paper-parser4\pdfs_input\test.pdf -o C:\Users\gcook\projects\paper-parser4\markdown_output -b pipeline -m auto -l en
+2026-06-30 19:02:43,317 [ERROR] mineru exited 1
+2026-06-30 19:02:43,317 [ERROR] stderr (tail): Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\mfr\unimernet\Unimernet.py", line 28, in __init__
+    from .unimernet_hf import UnimernetModel
+                              -> <class 'mineru.model.mfr.unimernet.Unimernet.UnimernetModel'>
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\mfr\unimernet\unimernet_hf\__init__.py", line 2, in <module>
+    from .unimer_swin import UnimerSwinConfig, UnimerSwinModel, UnimerSwinImageProcessor
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\mfr\unimernet\unimernet_hf\unimer_swin\__init__.py", line 3, in <module>
+    from .modeling_unimer_swin import UnimerSwinModel
+  File "C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\mineru\model\mfr\unimernet\unimernet_hf\unimer_swin\modeling_unimer_swin.py", line 31, in <module>
+    from transformers.pytorch_utils import find_pruneable_heads_and_indices, meshgrid, prune_linear_layer
+
+[31m[1mImportError[0m:[1m cannot import name 'find_pruneable_heads_and_indices' from 'transformers.pytorch_utils' (C:\Users\gcook\projects\paper-parser4\.venv\Lib\site-packages\transformers\pytorch_utils.py)[0m
+Error: 1 task(s) failed while processing documents:
+- task#1 (test): Task 8073bd48-9afb-4f50-a17f-27eb885bb473 failed for task#1 [test]: {"task_id": "8073bd48-9afb-4f50-a17f-27eb885bb473", "status": "failed", "backend": "pipeline", "file_names": ["test"], "created_at": "2026-07-01T02:02:16.417997+00:00", "started_at": "2026-07-01T02:02:16.419005+00:00", "completed_at": "2026-07-01T02:02:30.872143+00:00", "error": "cannot import name 'find_pruneable_heads_and_indices' from 'transformers.pytorch_utils' (C:\\Users\\gcook\\projects\\paper-parser4\\.venv\\Lib\\site-packages\\transformers\\pytorch_utils.py)", "status_url": "http://127.0.0.1:59114/tasks/8073bd48-9afb-4f50-a17f-27eb885bb473", "result_url": "http://127.0.0.1:59114/tasks/8073bd48-9afb-4f50-a17f-27eb885bb473/result", "queued_ahead": 0}
+
+2026-06-30 19:02:43,318 [ERROR]   FAILED
+2026-06-30 19:02:43,318 [INFO] Summary: done=0 skipped=0 failed=1 total=1
+2026-06-30 19:07:25,742 [INFO] Found 1 PDFs in C:\Users\gcook\projects\paper-parser4\pdfs_input
+2026-06-30 19:07:25,742 [INFO] Output → C:\Users\gcook\projects\paper-parser4\markdown_output
+2026-06-30 19:07:25,742 [INFO] [1/1] test.pdf (346 KB)
+2026-06-30 19:07:25,742 [INFO] CMD: mineru -p C:\Users\gcook\projects\paper-parser4\pdfs_input\test.pdf -o C:\Users\gcook\projects\paper-parser4\markdown_output -b pipeline -m auto -l en
+2026-06-30 19:09:10,700 [INFO]   DONE
+2026-06-30 19:09:10,700 [INFO] Summary: done=1 skipped=0 failed=0 total=1
+2026-06-30 20:57:38,116 [INFO] Found 8 PDFs in C:\Users\gcook\projects\paper-parser4\pdfs_input
+2026-06-30 20:57:38,116 [INFO] Output → C:\Users\gcook\projects\paper-parser4\markdown_output
+2026-06-30 20:57:38,119 [INFO] [1/8] Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall.pdf (59 KB)
+2026-06-30 20:57:38,119 [INFO] CMD: mineru -p C:\Users\gcook\projects\paper-parser4\pdfs_input\Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall.pdf -o C:\Users\gcook\projects\paper-parser4\markdown_output -b pipeline -m auto -l en
+2026-06-30 20:59:08,543 [INFO]   DONE
+2026-06-30 20:59:08,543 [INFO] [2/8] Marsh et al. (2006). Task interference from EB intentions can be material specific.pdf (133 KB)
+2026-06-30 20:59:08,545 [INFO] CMD: mineru -p C:\Users\gcook\projects\paper-parser4\pdfs_input\Marsh et al. (2006). Task interference from EB intentions can be material specific.pdf -o C:\Users\gcook\projects\paper-parser4\markdown_output -b pipeline -m auto -l en
+2026-06-30 21:00:32,134 [INFO]   DONE
+2026-06-30 21:00:32,136 [INFO] [3/8] Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect.pdf (346 KB)
+2026-06-30 21:00:32,136 [INFO] CMD: mineru -p C:\Users\gcook\projects\paper-parser4\pdfs_input\Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect.pdf -o C:\Users\gcook\projects\paper-parser4\markdown_output -b pipeline -m auto -l en
+2026-06-30 21:02:20,929 [INFO]   DONE
+2026-06-30 21:02:20,929 [INFO] [4/8] test.pdf (346 KB)
+2026-06-30 21:02:20,929 [INFO]   SKIP (already parsed)
+2026-06-30 21:02:20,929 [INFO] [5/8] Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1.pdf (400 KB)
+2026-06-30 21:02:20,933 [INFO] CMD: mineru -p C:\Users\gcook\projects\paper-parser4\pdfs_input\Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1.pdf -o C:\Users\gcook\projects\paper-parser4\markdown_output -b pipeline -m auto -l en
+2026-06-30 21:04:20,317 [INFO]   DONE
+2026-06-30 21:04:20,317 [INFO] [6/8] kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on.pdf (502 KB)
+2026-06-30 21:04:20,317 [INFO] CMD: mineru -p C:\Users\gcook\projects\paper-parser4\pdfs_input\kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on.pdf -o C:\Users\gcook\projects\paper-parser4\markdown_output -b pipeline -m auto -l en
+2026-06-30 21:06:17,417 [INFO]   DONE
+2026-06-30 21:06:17,417 [INFO] [7/8] rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective.pdf (665 KB)
+2026-06-30 21:06:17,417 [INFO] CMD: mineru -p C:\Users\gcook\projects\paper-parser4\pdfs_input\rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective.pdf -o C:\Users\gcook\projects\paper-parser4\markdown_output -b pipeline -m auto -l en
+2026-06-30 21:07:49,229 [INFO]   DONE
+2026-06-30 21:07:49,229 [INFO] [8/8] Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments.pdf (893 KB)
+2026-06-30 21:07:49,229 [INFO] CMD: mineru -p C:\Users\gcook\projects\paper-parser4\pdfs_input\Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments.pdf -o C:\Users\gcook\projects\paper-parser4\markdown_output -b pipeline -m auto -l en
+2026-06-30 21:09:31,346 [INFO]   DONE
+2026-06-30 21:09:31,346 [INFO] Summary: done=7 skipped=1 failed=0 total=8

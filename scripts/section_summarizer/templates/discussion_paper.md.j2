@@ -1,0 +1,135 @@
+# Discussion Summary (Paper-Level)
+
+*Section: {{ section_location }}*
+
+{% if data.summary_of_findings -%}
+## Summary of Findings
+
+{{ data.summary_of_findings }}
+
+{% endif %}
+
+{% if data.theoretical_conclusions -%}
+## Theoretical Conclusions
+
+{% for e in data.theoretical_conclusions -%}
+- **{{ e.topic_label }}**
+  > {{ e.verbatim_quote }}
+{% if e.citations_inline %}
+  - Citations: {% for c in e.citations_inline %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.cross_experiment_integration -%}
+## Cross-Experiment Integration
+
+{% for e in data.cross_experiment_integration -%}
+- **{{ e.topic_label }}**
+  > {{ e.verbatim_quote }}
+{% if e.citations_inline %}
+  - Citations: {% for c in e.citations_inline %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.results_stated_to_support_theory -%}
+## Results Authors State Support Their Theory
+
+{% for e in data.results_stated_to_support_theory -%}
+- **{{ e.topic_label }}**
+  > {{ e.verbatim_quote }}
+{% if e.citations_inline %}
+  - Citations: {% for c in e.citations_inline %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.results_stated_to_challenge_theory -%}
+## Results Authors State Challenge a Theory
+
+{% for e in data.results_stated_to_challenge_theory -%}
+- **{{ e.topic_label }}**
+  > {{ e.verbatim_quote }}
+{% if e.citations_inline %}
+  - Citations: {% for c in e.citations_inline %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.alternative_accounts_addressed -%}
+## Alternative Accounts Addressed by Authors
+
+{% for a in data.alternative_accounts_addressed %}
+### {{ a.label }}{% if a.is_named_theory %} *(named theory){% else %} *(ad-hoc alternative){% endif %}*
+
+- **Description:** {{ a.description }}
+- **How authors addressed it:** {{ a.how_authors_addressed_it }}
+{% if a.citations %}
+- **Citations:** {% for c in a.citations %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.implications_for_field -%}
+## Implications for the Field
+
+{% for e in data.implications_for_field -%}
+- **{{ e.topic_label }}**
+  > {{ e.verbatim_quote }}
+{% if e.citations_inline %}
+  - Citations: {% for c in e.citations_inline %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.applied_implications -%}
+## Applied Implications Stated by Authors
+
+{% for item in data.applied_implications %}
+- {{ item }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.limitations_stated_by_authors -%}
+## Limitations Stated by Authors
+
+{% for item in data.limitations_stated_by_authors %}
+- {{ item }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.future_directions -%}
+## Future Directions Proposed by Authors
+
+{% for item in data.future_directions %}
+- {{ item }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.missing_or_unclear -%}
+## Missing or Unclear
+
+{% for item in data.missing_or_unclear %}
+- {{ item }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.citations_referenced -%}
+## Citations Referenced
+
+{% for c in data.citations_referenced %}
+- **{{ c.authors }} ({{ c.year }})** — {{ c.context }}
+{% endfor %}
+
+{% endif %}

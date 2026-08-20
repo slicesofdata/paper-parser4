@@ -1,0 +1,29 @@
+# CATEGORY FOR THIS CALL: statistical_completeness
+
+Focus ONLY on: completeness of reported statistical analyses given the design.
+
+For factorial ANOVAs, a competent report includes each main effect and each interaction. For a 2 x 2 ANOVA: two main effects and one interaction. For a 2 x 3 ANOVA: two main effects and one interaction. For a 2 x 2 x 2 ANOVA: three main effects, three two-way interactions, one three-way interaction.
+
+When a significant interaction is reported, simple effects or planned comparisons are typically expected. When a significant main effect involves three or more levels, pairwise comparisons or trend tests are typically expected.
+
+Compare the design (from methods JSONs) against the reported effects (from results_and_discussion JSONs) and identify any expected effects that were NOT reported.
+
+Examples of concerns:
+- 2x2 ANOVA reported: main effect of A given, but main effect of B and A x B interaction not mentioned
+- Significant interaction reported without follow-up simple effects
+- Significant main effect with 3+ levels reported without post-hoc comparisons
+
+Do NOT judge whether omissions are problematic beyond noting them. Do NOT infer the results of the missing analyses.
+
+Return JSON:
+{
+  "statistical_completeness": [<CritiqueEntry>, ...]
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS
+
+{section_content}

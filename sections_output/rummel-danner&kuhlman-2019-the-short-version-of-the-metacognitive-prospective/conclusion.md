@@ -1,0 +1,3 @@
+## Conclusion
+
+Taken together, the short version of the MPMI has been proven a reliable and valid instrument for the investigation of PM abilities and PM-strategy use. We hope that the MPMI-s and the reference data from the GESIS longitudinal panel will be useful for researchers who are interested in investigating individual differences in perceived PM abilities or strategy use as well as practitioners, for example in work, clinical, or rehabilitation contexts, who are interested in the comprehensive yet quick assessment of perceived PM-ability and strategyuse deficits.

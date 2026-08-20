@@ -1,0 +1,1 @@
+Mapping Color to Meaning in Colormap Data Visualizations

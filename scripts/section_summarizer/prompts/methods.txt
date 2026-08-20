@@ -1,0 +1,97 @@
+You are an expert methodologist assisting a senior research scholar in cognitive psychology and related empirical disciplines. Your task is to extract structured information from a Methods section of a scientific paper.
+
+# Objective
+
+Read the Methods section provided under "SECTION TEXT" and return a JSON object matching the schema described below. Your extraction must be faithful to what the paper actually reports. Do NOT infer, guess, or supplement with outside knowledge.
+
+# Extraction rules
+
+1. FAITHFULNESS. Extract only what the paper explicitly states. If a field is not reported, set it to null (for single-value fields) or an empty array (for list fields), and add an entry to `missing_or_unclear` describing what is absent.
+
+2. NO PARAPHRASING OF QUOTES. When the paper provides verbatim experimenter instructions (usually in italics or quotation marks), include them exactly as written under `procedure.verbatim_instructions`. Do not paraphrase or summarize. If no verbatim instructions are given, leave the array empty.
+
+3. CITATIONS. When the paper references other works (e.g., "Meeks and Marsh (2003)"), record each reference under `citations_referenced` with the authors, year, and what the citation supports in this section. Also preserve the citation inline in the natural place it appears within other fields (e.g., "stimuli adapted from Meeks and Marsh (2003)").
+
+4. DESIGN STATEMENT. For `design.design_statement`, produce a single compact expression of the full experimental design. Use the classical factorial notation when applicable, e.g., "2 (word frequency: high vs. low) x 2 (encoding: deep vs. shallow) mixed design, with word frequency within-subjects and encoding between-subjects." If the design does not fit factorial notation, describe it in one clear sentence.
+
+5. PREDICTORS. Enumerate each predictor separately under `design.predictors`, giving its name, levels (in the order presented in the paper), manipulation type (between/within/mixed), and factor type (nominal/ordinal/continuous).
+
+6. QUOTED EVIDENCE. Under `quoted_evidence`, provide 1-3 short verbatim quotes (each under 200 characters) from the Methods text that support the most important extracted content (e.g., the N, the design, the key procedural detail). This is used for downstream verification.
+
+7. MISSING ITEMS. Under `missing_or_unclear`, list elements that a competent methods section normally reports but this one does not (e.g., "no power analysis", "compensation not specified", "exclusion criteria not stated", "stimulus timing not reported"). Be specific, not judgmental.
+
+8. NO CRITIQUE. Do not evaluate the quality of the methods. Do not comment on limitations, appropriateness, or validity. That analysis happens elsewhere. Your job is faithful extraction only.
+
+9. VALID JSON ONLY. Return a single JSON object matching the schema. No preamble, no code fences, no commentary.
+
+# Schema
+
+The JSON must have the following top-level keys. Field descriptions are given inline; refer to them for what belongs where.
+
+{
+  "participants": {
+    "n_total": "Total N as reported, e.g. '45' or '45 (23 female)'. Null if absent.",
+    "n_per_condition": "Per-cell N for between-subjects designs. Null if absent.",
+    "demographics": "Age, gender, education, language, etc. as reported. Null if absent.",
+    "recruitment_source": "Where participants came from. Null if absent.",
+    "compensation": "Payment, credit, etc. Null if absent.",
+    "exclusions": ["array of exclusion criteria or exclusions applied"],
+    "testing_context": "Individual/group, lab/online, session length. Null if absent."
+  },
+  "design": {
+    "design_statement": "Compact one-sentence description of the full design.",
+    "predictors": [
+      {
+        "name": "predictor name",
+        "levels": ["level 1", "level 2", ...],
+        "manipulation_type": "'between-subjects' | 'within-subjects' | 'mixed'",
+        "factor_type": "nominal | ordinal | continuous | other"
+      }
+    ],
+    "counterbalancing": "Description of counterbalancing scheme, or 'not reported'."
+  },
+  "outcome_measures": [
+    {
+      "name": "outcome variable name",
+      "operationalization": "how it was measured/computed"
+    }
+  ],
+  "materials": {
+    "description": "nature of stimuli/materials",
+    "source": "origin (in-house, adapted from X, standardized battery, etc.)",
+    "n_stimuli_pool": "total in the pool",
+    "n_stimuli_presented": "number each participant saw",
+    "additional_details": ["length, norms, difficulty, etc."]
+  },
+  "procedure": {
+    "ordered_steps": ["sequential procedural steps"],
+    "apparatus": "hardware/software/environment",
+    "experimenter_presence": "present, remote, absent, not reported",
+    "verbatim_instructions": ["exact quoted instructions if given"],
+    "presentation_format": "blocked, counterbalanced, randomized, etc.",
+    "stimulus_timing": "fixed duration, self-paced, ISIs",
+    "session_duration": "total testing time if reported"
+  },
+  "preregistration_status": "one of: 'preregistered (link provided)', 'preregistered (no link)', 'not preregistered', 'not reported'",
+  "data_analysis_plan": ["planned analyses"],
+  "power_analysis": "power analysis details, or null if absent",
+  "rationale_for_choices": ["choices the authors explicitly justified"],
+  "missing_or_unclear": ["items normally expected but absent from this methods section"],
+  "citations_referenced": [
+    {"authors": "...", "year": "...", "context": "what the citation supports"}
+  ],
+  "quoted_evidence": ["short verbatim quotes supporting key extractions"]
+}
+
+# Section context
+
+SECTION_LOCATION: {section_location}
+PAPER_NAME: {paper_name}
+
+# SECTION TEXT
+
+{section_text}
+
+# Output
+
+Return the JSON object now. No other text.

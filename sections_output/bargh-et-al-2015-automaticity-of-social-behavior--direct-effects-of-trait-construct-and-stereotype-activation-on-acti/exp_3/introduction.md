@@ -1,0 +1,5 @@
+## Experiment 3: Behavioral Effects of the African American Stereotype
+
+The results of Experiment 2 showed that the automatic activation of the elderly stereotype has direct and nonconscious effects on behavior in line with the content of the stereotype. Experiment 3 was intended to assess the generality of these results to an entirely different stereotype—that for African Americans. As discussed above, Devine (1989) already showed that this stereotype becomes active automatically to influence perceptions of a target's hostility. Therefore, according to the present model, this automatic activation should also produce a tendency toward hostile behavior in the perceiver.
+
+Another important change in procedure from Experiment 2 was that the priming stimuli were presented subliminally, completely ruling out experimenter demand or other explanations of our results in terms of conscious, strategic processes.

@@ -1,0 +1,28 @@
+# CATEGORY FOR THIS CALL: executive_summary
+
+Focus on: a 2-3 sentence high-level statement of what the paper does and what it found.
+
+This is the reader's FIRST impression. It should:
+- Name the specific phenomenon or question studied
+- Compress the main finding into one sentence
+- Note the paper's theoretical contribution or lack thereof (if relevant)
+
+Do NOT include:
+- Methodological details
+- Critique
+- Filler language ("this important study...")
+
+Use the completed synthesis pieces provided as context to ensure your summary is consistent with the rest of the overview.
+
+Return JSON:
+{
+  "executive_summary": "2-3 sentences"
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# COMPLETED SYNTHESIS PIECES AND SOURCE EXTRACTIONS
+
+{content}

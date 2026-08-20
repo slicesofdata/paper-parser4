@@ -1,0 +1,71 @@
+# Critique (Paper-Level)
+
+*Paper: {{ paper_name }}*
+
+{% if data.overall_assessment -%}
+## Overall Assessment
+
+{{ data.overall_assessment }}
+
+{% endif %}
+
+{% macro render_entry(entry) %}
+- **{{ entry.concern }}**
+  - Severity: **{{ entry.severity }}**
+  - Justification: {{ entry.justification }}
+{% if entry.supporting_evidence %}
+  - Evidence:
+{% for ev in entry.supporting_evidence %}
+    - `{{ ev.section }}`{% if ev.experiment %}/`{{ ev.experiment }}`{% endif %}{% if ev.field %} — field `{{ ev.field }}`{% endif %}: {{ ev.detail }}
+{% endfor %}
+{% endif %}
+{% endmacro %}
+
+{% if data.design_theory_alignment -%}
+## 1. Design–Theory Alignment
+
+{% for e in data.design_theory_alignment %}{{ render_entry(e) }}
+{% endfor %}
+{% endif %}
+
+{% if data.evidence_theory_alignment -%}
+## 2. Evidence–Theory Alignment
+
+{% for e in data.evidence_theory_alignment %}{{ render_entry(e) }}
+{% endfor %}
+{% endif %}
+
+{% if data.internal_consistency -%}
+## 3. Internal Consistency
+
+{% for e in data.internal_consistency %}{{ render_entry(e) }}
+{% endfor %}
+{% endif %}
+
+{% if data.alternative_accounts -%}
+## 4. Alternative Accounts
+
+{% for e in data.alternative_accounts %}{{ render_entry(e) }}
+{% endfor %}
+{% endif %}
+
+{% if data.statistical_completeness -%}
+## 5. Statistical Completeness
+
+{% for e in data.statistical_completeness %}{{ render_entry(e) }}
+{% endfor %}
+{% endif %}
+
+{% if data.methodological_concerns -%}
+## 6. Methodological Concerns
+
+{% for e in data.methodological_concerns %}{{ render_entry(e) }}
+{% endfor %}
+{% endif %}
+
+{% if data.statistical_robustness -%}
+## 7. Statistical Robustness
+
+{% for e in data.statistical_robustness %}{{ render_entry(e) }}
+{% endfor %}
+{% endif %}

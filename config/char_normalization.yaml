@@ -1,0 +1,75 @@
+# ---------------------------------------------------------------------------
+# Character normalization for MinerU output
+# ---------------------------------------------------------------------------
+# This config drives post-processing of MinerU's markdown to produce cleaner
+# input for the splitter and downstream stages.
+#
+# Two sections:
+#   1. `char_substitutions`: single-character replacements
+#   2. `pattern_substitutions`: multi-character/regex-style replacements
+#
+# Rules:
+# - Keys are the source characters/patterns
+# - Values are the replacement text (empty string = delete)
+# - To preserve a character unchanged, do NOT list it here
+# - Comments recommended for maintainability
+
+# ---------------------------------------------------------------------------
+# Single-character substitutions
+# ---------------------------------------------------------------------------
+# Applied as string-replace (not regex). Fastest.
+
+char_substitutions:
+
+  # --- Whitespace ---
+  "\u00a0": " "         # non-breaking space -> regular space
+
+  # --- Punctuation ---
+  "\u2010": "-"         # hyphen (U+2010) -> ASCII hyphen
+  "\u2011": "-"         # non-breaking hyphen -> ASCII hyphen
+  # em-dash (U+2014), en-dash (U+2013), ellipsis (U+2026) — pass through
+  # (PDF layer handles them via _PDF_CHAR_MAP)
+
+  # --- Publisher artifacts ---
+  # Uncomment to strip. Leave commented to preserve.
+  # "\u21d1": ""       # corresponding-author marker (up-arrow variant)
+  # "\u2020": ""       # dagger
+
+# ---------------------------------------------------------------------------
+# Multi-character / regex substitutions
+# ---------------------------------------------------------------------------
+# Applied AFTER single-character substitutions.
+# Keys are regex patterns; values are replacements.
+# Use raw strings if you need backreferences: e.g. "\\1" for group 1.
+
+pattern_substitutions:
+
+  # ---------------------------------------------------------------------
+  # OCR errors in Greek subscripts
+  # ---------------------------------------------------------------------
+  # MinerU sometimes misreads the letter 'p' in \eta_p^2 (partial eta
+  # squared) as other letters, depending on italic typography rendering.
+  # Known OCR variants observed in this corpus: v, o.
+  # Add more variants here as you encounter them.
+
+  # \eta _ { v } ^ { 2 }  -> \eta _ { p } ^ { 2 }
+  "\\\\eta\\s*_\\s*\\{\\s*v\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}": "\\eta _ { p } ^ { 2 }"
+
+  # \eta _ { o } ^ { 2 }  -> \eta _ { p } ^ { 2 }
+  "\\\\eta\\s*_\\s*\\{\\s*o\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}": "\\eta _ { p } ^ { 2 }"
+
+  # Invisible soft hyphen used as line-break hint. Safe to always remove.
+  "\u00ad": ""
+
+  # OCR: Kucˆera -> Kučera (Bitstream Vera can't render č so we keep circumflex)
+  # Safer option: just fix the letter order
+  #"Kuc\u02c6era": "Kučera"
+
+  # OCR: F followed by ð...Þ pattern in statistical reports.
+  # Highly specific — only matches when clearly a statistical result.
+  # Format: Fð<digits>;\s*<digits>Þ  ->  F(<digits>, <digits>)
+  #"F\u00f0(\\d+);\\s*(\\d+)\u00de": "F(\\1, \\2)"
+
+  # OCR in same statistical context: ¼ used as =
+  # Only match when surrounded by whitespace and a digit or letter
+  # Would be too aggressive as a broad rule; leave alone unless you find more

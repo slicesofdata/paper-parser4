@@ -1,0 +1,18 @@
+[project]
+name = "paper-parser4"
+version = "0.1.0"
+description = "Batch scientific PDF to markdown via MinerU"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "mineru[pipeline]",
+    "transformers>=4.57.3,<5.0.0", # needed for mineru
+    "six",                         # needed for mineru
+    "openai>=1.50",                # OpenAI-compatible client works for Venice, OpenRouter, Ollama, etc.
+    "pydantic>=2.0",               # schema validation for LLM JSON outputs
+    "jinja2>=3.1",                 # markdown rendering from JSON
+    "pyyaml>=6.0",                 # config file parsing
+    "tenacity>=8.0",               # retry logic for API calls
+    "python-dotenv>=1.2.2",
+    "markdown",
+    "xhtml2pdf",
+]

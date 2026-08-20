@@ -1,0 +1,3 @@
+## EXPERIMENT 1A: PROPORTIONAL JUDGMENT
+
+We first replicated Cleveland & McGill’s seminal study [7] on Mechanical Turk. Their study was among the first to rank visual variables empirically by their effectiveness for conveying quantitative values. It also has influenced the design of automated presentation techniques [21, 22] and been successfully extended by others (e.g., [36]). As such, it is a natural experiment to replicate to assess crowdsourcing.

@@ -1,0 +1,140 @@
+[TITLE] <H1> On the Nature of Everyday Prospection: A Review and Theoretical Integration of Research on Mind-Wandering, Future Thinking, and Prospective Memory
+[AUTHORS] Lia Kvavilashvili<sup>1</sup> and Jan Rummel<sup>2</sup>
+[INTRODUCTION] <list>
+[UNMATCHED] <H2> Abstract
+[UNMATCHED] The ability to imagine and simulate events that may happen in the future has been studied in several related but indepen
+[UNMATCHED] <H2> Keywords
+[UNMATCHED] episodic future thinking, prospection, prospective memory, mind-wandering, spontaneous cognition
+[UNMATCHED] The human ability to imagine and plan for the future has been investigated in different subdomains of cognitive psycholo
+[UNMATCHED] Based on these inclusion criteria, the review of studies on mind-wandering and spontaneous future thinking (see Table 1)
+[UNMATCHED] Table 1. Glossary of key terms used in the article.
+[UNMATCHED] Episodic future thinking: Refers to our ability to mentally imagine and simulate experiences and events that might take 
+[UNMATCHED] important and frequent form of episodic future thinking in the service of accomplishing one’s immediate needs and goals 
+[UNMATCHED] <H2> The Study of Prospective Thought in Future Thinking and Mind-Wandering Research
+[UNMATCHED] Human beings have a remarkable ability to transcend the constraints of the current environment and activities, and menta
+[UNMATCHED] However, according to the taxonomy proposed by Szpunar et al. (2014), the great variety with which prospective thought m
+[UNMATCHED] Nevertheless, the vast majority of cognitive and neuroscience research on future thinking has been focused predominantly
+[UNMATCHED] The research on mental simulation has been extremely important in enhancing our understanding of the phenomenology and b
+[UNMATCHED] Research on spontaneous future thinking (for reviews, see Berntsen, 2019; Cole & Kvavilashvili, 2019) has been primarily
+[UNMATCHED] A general finding that has emerged from these studies is that participants’ reports of mind-wandering are more future- t
+[UNMATCHED] <image>
+[UNMATCHED] More recent findings have started to question the generality of this assumption, however, by showing that even when usin
+[UNMATCHED] <H2> Different Phases of Prospective Memory and How They Relate to Future Thinking
+[UNMATCHED] Prospective memory involves the remembering of an intended action at an appropriate moment in the future (e.g., remember
+[UNMATCHED] Prospective memory has been referred to as “memory for future intentions” (Ellis, 1988; Hitch & Ferguson, 1991), and it 
+[UNMATCHED] Like in many other areas of cognitive psychology, most research on prospective memory is conducted in the laboratory, us
+[UNMATCHED] Asking this question is important not only for establishing the generalizability of laboratory findings on prospective m
+[UNMATCHED] <H2> How Often Do We Think About the Future in Everyday Life?
+[UNMATCHED] Before addressing a question about the nature of naturally occurring prospective thinking, it is first necessary to asse
+[UNMATCHED] Finnbogadóttir and Berntsen (2013) used a similar recording method over a 1-day period and showed that participants reco
+[UNMATCHED] Finally, in the naturalistic experience sampling study by Gardner and Ascoli (2015), participants had to indicate on a d
+[UNMATCHED] Notably, the studies by D’Argembeau et al. (2011) and Gardner and Ascoli (2015) did not ask participants to report wheth
+[UNMATCHED] <H2> What Is the Content of Thoughts About the Future in Everyday Life?
+[UNMATCHED] Most research on mind-wandering (both in and outside the laboratory) is based on participants’ responses to questions wi
+[UNMATCHED] (2014), equally often in everyday life or whether certain types of prospection occur more frequently than others. In thi
+[UNMATCHED] <H2> The Content of Future Thoughts: Findings From Questionnaire Studies
+[UNMATCHED] The very first study that demonstrated that people tend to engage in realistic and planful thoughts rather than in entir
+[UNMATCHED] In a more recent study by Berthié et al. (2015), 128 drivers completed a questionnaire relating to their most recent car
+[UNMATCHED] Although the findings from these two questionnaire studies are interesting, they should be interpreted with caution as p
+[UNMATCHED] Table 2. Brief description of methods used in papers in which participants’ future thoughts occurred naturally (i.e., wi
+[UNMATCHED] <sub>pant</sub> i<sub>ntended/p</sub>l<sub>anned</sub> <sub>t</sub>o <sup>ac</sup> <sub>a</sub> <sub>part</sub>i<sub>cu<
+[UNMATCHED] <sub>out</sub> <sub>fa</sub>mili<sup>ar</sup> <sup>dr</sup>i<sup>v</sup>i<sup>ng</sup> <sup>routes</sup> <sup>rather</su
+[UNMATCHED] <sub>reate</sub> <sub>an</sub> ill<sub>us</sub>i<sub>on</sub> <sub>of</sub> m<sup>o</sup> <sub>n</sub> <sub>the</sub> <s
+[UNMATCHED] <sub>ent,</sub> <sub>future)</sub> <sub>and</sub> <sub>rat</sub>i<sub>ng</sub> <sub>the</sub>m <sup>on</sup> <sup>var</s
+[UNMATCHED] <sub>e.</sub> <sub>Part</sub>i<sub>c</sub>i<sub>pants</sub> <sub>were</sub> <sub>random</sub>l<sub>y</sub> <sub>stopp</s
+[UNMATCHED] <sub>nta</sub>i<sub>ned</sub> <sub>an</sub> i<sub>rre</sub>l<sub>evant</sub> w<sup>ord</sup> <sup>phrase</sup> i<sup>n</
+[UNMATCHED] <sub>a</sub>l<sub>,</sub> <sub>whether</sub> <sub>short</sub><sup>-</sup> <sup>or</sup> l<sup>ong</sup> <sup>term),</sup
+[UNMATCHED] <sub>nd</sub> <sub>to</sub> <sub>descr</sub>i<sub>be</sub> <sub>what</sub> <sub>ar</sub><sup>e</sup> <sup>the</sup> <sup
+[UNMATCHED] <sub>p</sub>l<sub>oy</sub>m<sup>en</sup> <sub>c</sub>i<sub>pants</sub> <sub>h</sub>a<sup>d</sup> <sup>started</sup> <sub
+[UNMATCHED] <sub>graduates</sub> <sub>at</sub> <sub>a</sub> <sub>U</sub>.<sup>K.</sup> <sup>un</sup>i<sup>v</sup> <sub>h</sub> <sub>
+[UNMATCHED] <sub>the</sub> <sub>number</sub> <sub>and</sub> <sub>the</sub> <sub>type</sub> <sup>of</sup> i<sup>rre</sup>l<sup>evant<
+[UNMATCHED] <sub>of</sub> <sub>th</sub><sup>e</sup> <sup>thoughts</sup> <sup>dur</sup>i<sup>ng</sup> <sup>th</sup> <sub>n</sub> <sub
+[UNMATCHED] <sub>r,</sub> <sub>a</sub> <sub>daydream</sub> <sup>w</sup>i<sup>th</sup> <sup>no</sup> <sup>obv</sup>i<sup>ous</sup> <s
+[UNMATCHED] <table>
+[UNMATCHED] <sub>or</sub> <sub>monet</sub>a<sup>ry</sup> <sup>compens</sup> l<sub>eted</sub> <sub>the</sub> <sub>study</sub> <sub>f<
+[UNMATCHED] <sub>as</sub> <sub>se</sub>l<sub>f-</sub>i<sub>n</sub>i<sub>t</sub>i<sub>ated</sub> <sub>(</sub>i<sub>.e.,</sub> <sub>th
+[UNMATCHED] <sub>fere</sub> wi<sup>th</sup> <sup>keep</sup>i<sup>ng</sup> <sup>a</sup> <sup>d</sup> i<sub>ght</sub> <sub>prob</sub>l
+[UNMATCHED] i<sub>ar</sub>y<sup>.</sup> <sub>s</sub> i<sub>n</sub> <sub>record</sub>i<sub>n</sub><sup>g</sup> <sup>thought</sup> i <
+[UNMATCHED] l<sub>e</sub> 1 <sub>=</sub> <sub>not</sub> <sub>concentr</sub><sup>ating</sup> <sup>at</sup> <sup>all,</sup> <sup>5</su
+[UNMATCHED] <sub>res</sub> <sub>were</sub> <sub>comp</sub>l<sub>e</sub>t<sup>ed</sup> <sup>w</sup>i<sup>th</sup>i<sup>n</sup> <sup>3
+[UNMATCHED] <H2> The Content of Future Thoughts: Findings From Laboratory Studies
+[UNMATCHED] Because the primary focus of the present review is on naturally occurring future thoughts, here, we review findings from
+[UNMATCHED] There was a strong prospective bias with a large proportion of thoughts being coded as future- (M = 0.43) than present- 
+[UNMATCHED] Using a similar methodology, Stawarczyk et al. (2011) investigated the temporal focus, phenomenology, and possible funct
+[UNMATCHED] The main hypotheses tested by Stawarczyk et al. (2011, experiment 2), was that if the primary function of mindwandering 
+[UNMATCHED] These findings were replicated and extended in a followup study by Stawarczyk et al. (2013), using similar method and ra
+[UNMATCHED] Interestingly, the analyses of phenomenological qualities showed that future-oriented task-unrelated thoughts were rated
+[UNMATCHED] Although participants in the experiments of Stawarczyk and colleagues provided the descriptions of their thoughts in res
+[UNMATCHED] For example, Liefgreen et al. (2020) used a novel ongoing task in which participants watched moving dots on the screen t
+[UNMATCHED] Plimpton et al. (2015) conducted a study about spontaneous past and future thinking in which participants were engaged i
+[UNMATCHED] The thematic content analysis (Smith, 2000) of spontaneous task-unrelated thoughts, classed as future thoughts by partic
+[UNMATCHED] Results showed that, in young nondysphoric participants, the majority of spontaneous future thoughts (60%) referred to i
+[UNMATCHED] Recently, Mazzoni (2019) replicated and extended these findings using a considerably shorter (5 min) version of the vigi
+[UNMATCHED] In the main experiment, Mazzoni (2019) investigated the effects of cognitive/perceptual load on spontaneous thoughts abo
+[UNMATCHED] Results again showed that participants were more likely to report thinking about future plans than future scenarios, and
+[UNMATCHED] The conclusion that spontaneous thoughts about future plans, captured during laboratory thought sampling procedures, are
+[UNMATCHED] <H2> The Content of Future Thoughts: Findings From Diary and Experience Sampling Studies
+[UNMATCHED] Although the findings of Plimpton et al. (2015) and Mazzoni (2019) provide the most direct evidence that future-oriented
+[UNMATCHED] Because participants in the study by D’Argembeau et al. (2011) were free to choose which future thought to record in the
+[UNMATCHED] In two studies reported by Anderson and McDaniel (2019), young undergraduate participants had the option of categorizing
+[UNMATCHED] Taken together, the results of naturalistic studies by D’Argembeau et al. (2011), Baumeister et al. (2020), and Anderson
+[UNMATCHED] To address these issues, Warden et al. (2019, Study 2) conducted an experience sampling study over the period of a singl
+[UNMATCHED] Initial coding of participants’ thought descriptions in terms of whether they were related to the task at hand or task-u
+[UNMATCHED] In summary, evidence reviewed in this section provides strong initial empirical support for the following conclusions. F
+[UNMATCHED] <H2> What Is the Adaptive Value of Thoughts About the Future in Everyday Life?
+[UNMATCHED] Although laboratory experiments on episodic future thinking have demonstrated that people are quite good at simulating a
+[UNMATCHED] There is general agreement that the representations of unfulfilled intentions are more strongly activated and easily acc
+[UNMATCHED] Positive effects of intention rehearsal during the retrieval phase have been found in most laboratory studies of prospec
+[UNMATCHED] One of the first studies of this kind involved asking participants to make a phone call at a prearranged time (e.g., at 
+[UNMATCHED] These results were replicated and extended by Szarras and Niedźwieńska (2011) who investigated the relationship between 
+[UNMATCHED] Importantly, Szarras and Niedźwieńska (2011) compared the number of completed and unfulfilled intentions (as reported by
+[UNMATCHED] Finally, in a series of studies by Mason and Reinholtz (2015), participants had to form an intention to contact the rese
+[UNMATCHED] In summary, the evidence reviewed in this section, provides strong initial support for the adaptive significance of futu
+[UNMATCHED] Theoretically, the findings reviewed in this section suggest that an efficient reminder system may exist, which ensures 
+[UNMATCHED] However, more systematic research is needed to investigate this question as well as the functional significance of spont
+[UNMATCHED] <H2> The Taxonomy of Prospective Thought and Theoretical Considerations
+[UNMATCHED] The aim of the present review was to examine the nature of prospective thought in everyday life. We wanted to find out w
+[UNMATCHED] Taken together, the pattern of findings provides strong support for the pragmatic theory of prospection proposed by Baum
+[UNMATCHED] However, the pragmatic theory of prospection has been predominantly focussed on deliberate, wilful construction of futur
+[UNMATCHED] In an attempt to integrate research from prospective memory with the research on prospection from other areas, we believ
+[UNMATCHED] To account for these diverse processes involved in future thinking, Cole and Kvavilashvili (2020) recently proposed a du
+[UNMATCHED] <H2> Toward an Integrative View on Prospective Thought: The Pragmatic Dual Process Account
+[UNMATCHED] Based on the dual process account of future thinking, here, we sketch out a theoretical framework that, in our opinion, 
+[UNMATCHED] In line with pragmatic theory of prospection (Baumeister et al., 2016, 2018), our approach assumes that the most frequen
+[UNMATCHED] <image>
+[UNMATCHED] Y” format) to be performed in the future (e.g., meeting a friend for lunch after finishing a class next Tuesday, paying 
+[UNMATCHED] The formation of an intention to do something in the future can also be considered a “memory of the future” (Cole & Kvav
+[UNMATCHED] The framework presented in Figure 2 does not rule out that effortful future thinking can occur in the retention and/ or 
+[UNMATCHED] In summary, the proposed pragmatic dual process model may provide a useful initial framework for studying the nature and
+[UNMATCHED] <H2> Conclusion and Future Directions
+[UNMATCHED] The review of several diary and experience sampling studies, reported in this article, shows that when people think abou
+[UNMATCHED] The analysis of the contents of such thoughts further suggest that thoughts about the future often involve upcoming inte
+[UNMATCHED] These findings and the pragmatic dual process account, proposed in this article, emphasize the importance of studying pr
+[UNMATCHED] As the first step in this direction, more studies need to be conducted that examine the precise content of participants 
+[UNMATCHED] In relation to studies of prospective memory, reviewed in this article, future research will need to determine whether t
+[UNMATCHED] Another important and related question concerns the representational format of deliberate and spontaneous future thinkin
+[UNMATCHED] Consequently, future studies need to investigate the extent to which future thinking involves imagining the perceptual/c
+[UNMATCHED] In summary, the review of a small, but growing number of studies from diverse fields of enquiry, presented in this artic
+[UNMATCHED] <H2> Declaration of Conflicting Interests
+[UNMATCHED] The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication o
+[UNMATCHED] <H2> Funding
+[UNMATCHED] The author(s) received no financial support for the research, authorship, and/or publication of this article.
+[UNMATCHED] <H2> ORCID iD
+[UNMATCHED] Lia Kvavilashvili https://orcid.org/0000-0002-5133-7741
+[UNMATCHED] <H2> Notes
+[UNMATCHED] <list>
+[UNMATCHED] (at least partially) due to the fact that researchers have not distinguished spontaneous (unintentional) mind-wandering 
+[UNMATCHED] It is important to note that the prospective bias has not been uniformly found in all studies, with some studies finding
+[UNMATCHED] 3. Although no significant age effects were found in Study 2 in terms of the number of recorded thoughts or prospective 
+[UNMATCHED] 4. Note that Kvavilashvili and Fisher (2007) did not ask participants to record instances of deliberate thoughts of pros
+[UNMATCHED] 5. Moreover, success rates can be further increased by forming implementation intentions (Gollwitzer & Sheeran, 2006; Mc
+[UNMATCHED] 6. Although such spontaneous rehearsals may be less effective when facing obstacles or more difficult goals (e.g., feeli
+[UNMATCHED] 7. In addition, there may be important differences between the general population and some clinical conditions. For exam
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[REFERENCES] <H2> References
+[REFERENCES] <list>
+[REFERENCES] <list>
+[REFERENCES] <list>
+[REFERENCES] <list>
+[REFERENCES] <list>

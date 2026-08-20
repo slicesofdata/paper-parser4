@@ -1,0 +1,1 @@
+Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design

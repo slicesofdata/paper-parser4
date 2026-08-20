@@ -1,0 +1,76 @@
+=== HEADING SCAN (raw) ===
+  H1: 'Investigating the subjective reports of rejection processes in the word frequency mirror effect'  body:'J. Thadeus Meeks <sup>a,</sup>⇑, Justin B. Knight <sup>b</sup>, Gene A. Brewer <'
+  H2: 'a r t i c l e i n f o'  body:'Article history: Received 15 May 2013  Keywords: Recognition memory Word frequen'
+  H2: 'a b s t r a c t'  body:'We sought to systematically investigate how participants subjectively classify t'
+  H2: '1. Introduction'  body:'The investigation of determining whether an item has occurred in a particular co'
+  H2: '2. The hit rate portion of the word frequency mirror effect'  body:'The hit rate portion of the WF mirror effect is often attributed to enhanced rec'
+  H2: '3. The correct rejection portion of the word frequency mirror effect'  body:'While most studies have focused on the hit rate portion of the WF mirror effect,'
+  H2: '4. The current study'  body:'Despite the preliminary evidence associating LWF items with an enhanced percepti'
+  H2: '5. Experiment 1'  body:''
+  H2: '5.1. Method'  body:''
+  H2: '5.1.1. Participants'  body:'Twenty-five undergraduate students from the University of Georgia participated i'
+  H2: '5.1.2. Materials and procedure'  body:'We selected a total of 120 words from the Kucˆera and Francis (1967) word norms.'
+  H2: '5.2. Results'  body:''
+  H2: '5.2.1. Hit rates'  body:'A conventional alpha level of 5% was adopted for all statistical tests across al'
+  H2: '5.2.2. Correct rejection rates'  body:'While most research on the WF mirror effect has focused on the false alarm data,'
+  H2: '5.3. Discussion'  body:'We replicated the classic WF mirror effect in the hit and correct rejection rate'
+  H2: '6. Experiment 2'  body:'In Experiment 2, we sought to elucidate whether similar effects would be obtaine'
+  H2: '6.1. Method'  body:''
+  H2: '6.1.1. Participants'  body:'Thirty-five undergraduate students from the University of Georgia participated i'
+  H2: '6.1.2. Materials and procedure'  body:'For this experiment, we selected items from the Steyvers and Malmberg (2003) cor'
+  H2: '6.2. Results'  body:''
+  H2: '6.2.1. Hit rates'  body:'Please refer to Table 2 for all means and standard errors from Experiment 2. We '
+  H2: '6.2.2. Correct rejection rates'  body:'In a similar 2 $( \\mathsf { W F } ) \\times 2 \\ \\mathrm { \\Gamma } ( \\mathsf { C '
+  H2: '6.3. Discussion'  body:'We replicated Cook et al. (2006) and Steyvers and Malmberg (2003) in finding mir'
+  H2: '7. Experiment 3'  body:'In Experiment 3, we wanted to know whether the differences in rejection classifi'
+  H2: '7.1. Method'  body:''
+  H2: '7.1.1. Participants'  body:'Seventy undergraduate students from the University of Georgia participated in ex'
+  H2: '7.1.2. Materials and procedure'  body:'As in Experiment 2, we selected items from the Steyvers and Malmberg (2003) corp'
+  H2: '7.2. Results'  body:''
+  H2: '7.2.1. Hit rates'  body:'Please refer to Table 3 for all means and standard errors from Experiment 3. Ana'
+  H2: '7.3. Discussion'  body:'We replicated the finding from Experiment 2 and previous studies (Cook et al., 2'
+  H2: '8. General discussion'  body:'The primary goal of the current study was to provide a more extensive examinatio'
+  H2: '8.1. Examination of hit rate findings'  body:'We replicated the hit rate and recollection advantage for LWF and LCV items when'
+  H2: '8.2. Summary of correct rejection findings'  body:'Our primary variable of interest in this study was the correct rejection portion'
+  H2: '8.3. Closer examination of the correct rejection findings'  body:'The infrequent occurrence of LWF items makes them inherently more distinctive an'
+  H2: '8.4. The general use of subjective classification of memory processes'  body:'The debate about the use of subjective Remember–Know judgments to make conclusio'
+  H2: '8.5. Limitations, future directions, and conclusions'  body:'Because the study of rejection processes is somewhat exploratory, more clarifica'
+  H2: 'Appendix A'  body:''
+  H2: 'A.1. Test instructions for Experiment 1'  body:'You have just studied the list of words. In this next and final phase of the exp'
+  H2: 'KR'  body:''
+  H2: 'G'  body:'You will also be asked to make one of three different judgments for NEW words. P'
+  H2: 'LFRR'  body:''
+  H2: 'WHR'  body:'For clarification, if you think that a word was studied, you will press the OLD '
+  H2: 'Appendix B'  body:'Experiment 1 (WF manipulated within-subjects): Overall miss rates and the subjec'
+  H2: 'Appendix C'  body:'Experiment 2 (CV and WF manipulated within-subjects) and Experiment 3 (WF manipu'
+  H2: 'References'  body:'Arndt, J., & Reder, L. M. (2002). Word frequency and receiver operating characte'
+
+=== FRONTMATTER ===
+  [title] Investigating the subjective reports of rejection processes in the word frequency mirror effect
+  [abstract] J. Thadeus Meeks <sup>a,</sup>⇑, Justin B. Knight <sup>b</sup>, Gene A. Brewer <sup>c</sup>, Gabriel I. Cook <sup>d</sup>, Richard L. Marsh <sup>e</su
+  [keywords] Keywords: Recognition memory Word frequency Rejection processes Remember–Know
+  [article_info] ## a r t i c l e i n f o  Article history: Received 15 May 2013  Keywords: Recognition memory Word frequency Rejection processes Remember–Know
+  [introduction] <sup>a</sup> Department of Psychology, Southern Illinois University Edwardsville, United States  <sup>b</sup> BioImaging Research Center & Department 
+
+=== EXP_1 ===
+  [introduction] ## 5. Experiment 1  
+  [methods] ## 5.1. Method    ## 5.1.1. Participants  Twenty-five undergraduate students from the University of Georgia participated in exchange for course credit
+  [results] ## 5.2. Results    ## 5.2.1. Hit rates  A conventional alpha level of 5% was adopted for all statistical tests across all experiments. Refer to Table 
+  [discussion] ## 5.3. Discussion  We replicated the classic WF mirror effect in the hit and correct rejection rates and the finding that there are more Remember res
+
+=== EXP_2 ===
+  [introduction] ## 6. Experiment 2  In Experiment 2, we sought to elucidate whether similar effects would be obtained for items varying in WF when controlling for con
+  [methods] ## 6.1. Method    ## 6.1.1. Participants  Thirty-five undergraduate students from the University of Georgia participated in exchange for course credit
+  [results] ## 6.2. Results    ## 6.2.1. Hit rates  Please refer to Table 2 for all means and standard errors from Experiment 2. We do not report the interaction 
+  [discussion] ## 6.3. Discussion  We replicated Cook et al. (2006) and Steyvers and Malmberg (2003) in finding mirror effects for both WF and CV separately (margina
+
+=== EXP_3 ===
+  [introduction] ## 7. Experiment 3  In Experiment 3, we wanted to know whether the differences in rejection classifications would still occur when we manipulated WF b
+  [methods] ## 7.1. Method    ## 7.1.1. Participants  Seventy undergraduate students from the University of Georgia participated in exchange for course credit. Th
+  [results] ## 7.2. Results    ## 7.2.1. Hit rates  Please refer to Table 3 for all means and standard errors from Experiment 3. Analyses were conducted similarly
+  [discussion] ## 7.3. Discussion  We replicated the finding from Experiment 2 and previous studies (Cook et al., 2006; Steyvers & Malmberg, 2003) that demonstrates 
+
+=== BACKMATTER ===
+  [general_discussion] ## 8. General discussion  The primary goal of the current study was to provide a more extensive examination of the reported mechanisms responsible for
+  [references] ## References  Arndt, J., & Reder, L. M. (2002). Word frequency and receiver operating characteristic curves in recognition memory: Evidence for a dua
+  [appendix] ## Appendix A    ## A.1. Test instructions for Experiment 1  You have just studied the list of words. In this next and final phase of the experiment, 

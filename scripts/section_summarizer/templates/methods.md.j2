@@ -1,0 +1,167 @@
+# Methods Summary
+
+{% if section_location -%}
+*Section: {{ section_location }}*
+{% endif %}
+
+## Participants
+
+{% if data.participants.n_total -%}
+- **N:** {{ data.participants.n_total }}
+{% endif %}
+{%- if data.participants.n_per_condition %}
+- **N per condition:** {{ data.participants.n_per_condition }}
+{% endif %}
+{%- if data.participants.demographics %}
+- **Demographics:** {{ data.participants.demographics }}
+{% endif %}
+{%- if data.participants.recruitment_source %}
+- **Recruitment:** {{ data.participants.recruitment_source }}
+{% endif %}
+{%- if data.participants.compensation %}
+- **Compensation:** {{ data.participants.compensation }}
+{% endif %}
+{%- if data.participants.testing_context %}
+- **Testing context:** {{ data.participants.testing_context }}
+{% endif %}
+{%- if data.participants.exclusions %}
+- **Exclusions:**
+{% for item in data.participants.exclusions %}
+  - {{ item }}
+{% endfor %}
+{% endif %}
+
+## Design
+
+{% if data.design.design_statement -%}
+**Design statement:** {{ data.design.design_statement }}
+{% endif %}
+
+{% if data.design.predictors -%}
+**Predictors:**
+
+{% for p in data.design.predictors %}
+- **{{ p.name }}**
+  - Levels: {{ p.levels | join(", ") if p.levels else "not reported" }}
+  - Manipulation: {{ p.manipulation_type or "not reported" }}
+  - Factor type: {{ p.factor_type or "not reported" }}
+{% endfor %}
+{% endif %}
+
+{% if data.design.counterbalancing -%}
+**Counterbalancing:** {{ data.design.counterbalancing }}
+{% endif %}
+
+## Outcome Measures
+
+{% if data.outcome_measures -%}
+{% for m in data.outcome_measures %}
+- **{{ m.name }}:** {{ m.operationalization }}
+{% endfor %}
+{% else -%}
+*None extracted*
+{% endif %}
+
+## Materials
+
+{% if data.materials.description -%}
+- **Description:** {{ data.materials.description }}
+{% endif %}
+{%- if data.materials.source %}
+- **Source:** {{ data.materials.source }}
+{% endif %}
+{%- if data.materials.n_stimuli_pool %}
+- **Stimulus pool size:** {{ data.materials.n_stimuli_pool }}
+{% endif %}
+{%- if data.materials.n_stimuli_presented %}
+- **Stimuli presented per participant:** {{ data.materials.n_stimuli_presented }}
+{% endif %}
+{%- if data.materials.additional_details %}
+- **Additional details:**
+{% for d in data.materials.additional_details %}
+  - {{ d }}
+{% endfor %}
+{% endif %}
+
+## Procedure
+
+{% if data.procedure.ordered_steps -%}
+**Ordered steps:**
+
+{% for step in data.procedure.ordered_steps %}
+{{ loop.index }}. {{ step }}
+{% endfor %}
+{% endif %}
+
+{% if data.procedure.apparatus -%}
+- **Apparatus:** {{ data.procedure.apparatus }}
+{% endif %}
+{%- if data.procedure.experimenter_presence %}
+- **Experimenter presence:** {{ data.procedure.experimenter_presence }}
+{% endif %}
+{%- if data.procedure.presentation_format %}
+- **Presentation format:** {{ data.procedure.presentation_format }}
+{% endif %}
+{%- if data.procedure.stimulus_timing %}
+- **Stimulus timing:** {{ data.procedure.stimulus_timing }}
+{% endif %}
+{%- if data.procedure.session_duration %}
+- **Session duration:** {{ data.procedure.session_duration }}
+{% endif %}
+
+{% if data.procedure.verbatim_instructions -%}
+**Verbatim instructions (as quoted in the paper):**
+
+{% for q in data.procedure.verbatim_instructions %}
+> {{ q }}
+
+{% endfor %}
+{% endif %}
+
+## Preregistration and Analysis Plan
+
+- **Preregistration:** {{ data.preregistration_status or "not reported" }}
+{% if data.power_analysis -%}
+- **Power analysis:** {{ data.power_analysis }}
+{% endif %}
+
+{% if data.data_analysis_plan -%}
+**Data analysis plan:**
+
+{% for step in data.data_analysis_plan %}
+- {{ step }}
+{% endfor %}
+{% endif %}
+
+{% if data.rationale_for_choices -%}
+## Author-Provided Rationale for Methodological Choices
+
+{% for r in data.rationale_for_choices %}
+- {{ r }}
+{% endfor %}
+{% endif %}
+
+{% if data.missing_or_unclear -%}
+## Missing or Unclear
+
+{% for item in data.missing_or_unclear %}
+- {{ item }}
+{% endfor %}
+{% endif %}
+
+{% if data.citations_referenced -%}
+## Citations Referenced in This Section
+
+{% for c in data.citations_referenced %}
+- **{{ c.authors }} ({{ c.year }})** — {{ c.context }}
+{% endfor %}
+{% endif %}
+
+{% if data.quoted_evidence -%}
+## Quoted Evidence from Source
+
+{% for q in data.quoted_evidence %}
+> {{ q }}
+
+{% endfor %}
+{% endif %}

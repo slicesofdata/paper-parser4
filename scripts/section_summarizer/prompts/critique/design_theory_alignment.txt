@@ -1,0 +1,22 @@
+# CATEGORY FOR THIS CALL: design_theory_alignment
+
+Focus ONLY on: whether the predictor variable, outcome variable, and materials/stimuli are appropriate operationalizations of what the theory claims. Consider whether the study design actually enables a test of the theoretical mechanism.
+
+Examples of concerns in this category:
+- The predictor variable operationalizes only part of the theoretical construct
+- The outcome measure conflates multiple theoretical constructs
+- The stimuli are not representative of the population the theory addresses
+- The design cannot distinguish between the focal theory and a plausible alternative because the manipulation confounds them
+
+Return JSON:
+{
+  "design_theory_alignment": [<CritiqueEntry>, ...]
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS
+
+{section_content}

@@ -1,0 +1,10 @@
+## Results
+
+To analyze responses, we replicated Cleveland & McGill’s data exploration, using their log absolute error measure of accuracy: log<sub>2</sub>(|judged percent - true percent| + <sup>1</sup> ). We first computed the midmeans of log absolute errors<sup>1</sup> for each chart (Figure 3). The new results are similar (though not identical) to the originals: the rough shape and ranking of judgment types by accuracy (T1-5) are preserved, supporting the validity of the crowdsourced study.
+
+Next we computed the log absolute error means and 95% confidence intervals for each judgment type using bootstrapping (c.f., [7]). The ranking of types by accuracy is consistent between the two experiments (Figure 4). Types 1 and 2 are closer in the crowdsourced study; this may be a result of a smaller display mitigating the effect of distance. Types 4 and 5 are more accurate than in the original study, but position encoding still significantly outperformed length encoding.
+
+We also introduced two new judgment types to evaluate angle and circular area encodings. Cleveland & McGill conducted a separate position-angle experiment; however, they used a different task format, making it difficult to compare the results for the position-angle experiment to those for the position-length experiment. By designing judgment types 6 and 7 to adhere to the same format as the others, the results should be more apt for comparison. Indeed, the new results match expectations: psychophysical theory [7, 34] predicts area to perform worse than angle, and both to be significantly worse than position. Theory also suggests that angle should perform worse than length, but the results do not support this. Cleveland & McGill also did not find angle to perform worse than length, but as stated their position-angle results are not directly comparable to their position-length results.
+
+![](images/e561dccd869013ad4baed7d65033b53401fd18520329cddb11344c3a8e0a9b73.jpg)  
+Figure 3: Midmeans of log absolute errors against true percentages for each proportional judgment type; superimposed are curves computed with lowess.

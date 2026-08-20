@@ -1,0 +1,37 @@
+# CATEGORY FOR THIS CALL: theories_discussed, theoretical_stance, theoretical_stance_justification
+
+Focus on: the theoretical landscape of the paper.
+
+For theories_discussed:
+- List every theory or explanatory account mentioned in the paper (intro, per-experiment intros, and discussion).
+- Tag each with role:
+  - "focal" = the paper's own theoretical position
+  - "alternative" = a competing account the paper discusses
+  - "background" = a theory cited but not centrally engaged
+- Include unnamed theories (use short descriptors).
+
+For theoretical_stance, judge the paper's overall theoretical consistency:
+- "consistent_theoretical" = theory present in intro and discussion, aligned
+- "theory_abandoned" = intro theoretical, discussion drops it or contradicts it
+- "post_hoc_theorizing" = intro atheoretical, discussion advances theory
+- "consistently_atheoretical" = no theoretical content anywhere
+- "ambiguous" = hedged throughout, or insufficient content
+
+For theoretical_stance_justification: 1-3 sentences citing specific alignments or divergences between intro and discussion content.
+
+Return JSON:
+{
+  "theories_discussed": [
+    {"name": "...", "role": "focal|alternative|background", "description": "..."}
+  ],
+  "theoretical_stance": "one of the five values",
+  "theoretical_stance_justification": "1-3 sentences"
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS AND CRITIQUE
+
+{content}

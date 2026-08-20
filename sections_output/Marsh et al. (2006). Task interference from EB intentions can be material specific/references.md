@@ -1,0 +1,26 @@
+## REFERENCES
+
+- Cook, G. I., Marsh, R. L., & Hicks, J. L. (2005). Associating a timebased prospective memory task with an expected context can improve or impair intention completion. Applied Cognitive Psychology, 19, 345-360.
+- Einstein, G. O., McDaniel, M. A., Smith, R. E., & Shaw, P. (1998). Habitual prospective memory and aging: Remembering intentions and forgetting actions. Psychological Science, 9, 284-289.
+- Einstein, G. O., McDaniel, M. A., Thomas, R., Mayfield, S., Shank, H., Morrisette, N., & Breneiser, J. (2005). Multiple processes in prospective memory retrieval: Factors determining monitoring versus spontaneous retrieval. Journal of Experimental Psychology: General, 134, 327-342.
+- Guynn, M. J. (2003). A two-process model of strategic monitoring in event-based prospective memory: Activation/retrieval mode and checking. International Journal of Psychology, 38, 245-256.
+- Guynn, M. J., McDaniel, M. A., & Einstein, G. O. (1998). Prospective memory: When reminders fail. Memory & Cognition, 26, 287-298.
+- Hicks, J. L., Marsh, R. L., & Cook, G. I. (2005). Task interference in time-based, event-based, and dual intention prospective memory conditions. Journal of Memory & Language, 53, 430-444.
+- Marsh, R. L., Hancock, T. W., & Hicks, J. L. (2002). The demands of an ongoing activity influence the success of event-based prospective memory. Psychonomic Bulletin & Review, 9, 604-610.
+- Marsh, R. L., Hicks, J. L., & Cook, G. I. (2005). On the relationship between effort toward an ongoing task and cue detection in event-based prospective memory. Journal of Experimental Psychology: Learning, Memory, & Cognition, 31, 68-75.
+- Marsh, R. L., Hicks, J. L., & Cook, G. I. (2006). Task interference from prospective memories covaries with contextual associations of fulfilling them. Memory & Cognition, 34, 1037-1045.
+- Marsh, R. L., Hicks, J. L., & Cook, G. I. (in press). On beginning to understand the role of context in prospective memory. To appear in M. Kliegel, M. A. McDaniel, & G. O. Einstein (Eds.), Prospective memory: Cognitive, neuroscience, developmental, and applied perspectives. Mahwah, NJ: Erlbaum.
+- Marsh, R. L., Hicks, J. L., Cook, G. I., Hansen, J. S., & Pallos, A. L. (2003). Interference to ongoing activities covaries with the characteristics of an event-based intention. Journal of Experimental Psychology: Learning, Memory, & Cognition, 29, 861-870.
+- Marsh, R. L., Hicks, J. L., Cook, G. I., & Mayhorn, C. B. (in press). Comparing older and younger adults in an event-based prospective memory paradigm containing an output monitoring component. Aging, Neuropsychology, & Cognition.
+- Marsh, R. L., Hicks, J. L., Hancock, T. W., & Munsayac, K. (2002). Investigating the output monitoring component of event-based prospective memory performance. Memory & Cognition, 30, 302-311.
+- Marsh, R. L., Hicks, J. L., & Watson, V. (2002). The dynamics of intention retrieval and coordination of action in event-based prospective memory. Journal of Experimental Psychology: Learning, Memory, & Cognition, 28, 652-659.
+- McDaniel, M. A., & Einstein, G. O. (2000). Strategic and automatic processes in prospective memory retrieval: A multiprocess framework. Applied Cognitive Psychology, 14, S127-S144.
+- McDaniel, M. A., Guynn, M. J., Einstein, G. O., & Breneiser, J. (2004). Cue-focused and reflexive-associative processes in prospective memory retrieval. Journal of Experimental Psychology: Learning, Memory, & Cognition, 30, 605-614.
+- McDaniel, M. A., Robinson-Riegler, B., & Einstein, G. O. (1998). Prospective remembering: Perceptually driven or conceptually driven processes? Memory & Cognition, 26, 121-134.
+- Nowinski, J. L., & Dismukes, R. K. (2005). Effects of ongoing task context and target typicality on prospective memory performance: The importance of associative cueing. Memory, 13, 649-657.
+- Reese, C. M., & Cherry, K. E. (2002). The effects of age, ability, and memory monitoring on prospective memory task performance. Aging, Neuropsychology, & Cognition, 9, 98-113.
+- Smith, R. E. (2003). The cost of remembering to remember in eventbased prospective memory: Investigating the capacity demands of delayed intention performance. Journal of Experimental Psychology: Learning, Memory, & Cognition, 29, 347-361.
+- Smith, R. E., & Bayen, U. J. (2004). A multinomial model of eventbased prospective memory. Journal of Experimental Psychology: Learning, Memory, & Cognition, 30, 756-777.
+- Snodgrass, J. G., & Vanderwart, M. (1980). A standardized set of 260 pictures: Norms for name agreement, image agreement, familiarity, and visual complexity. Journal of Experimental Psychology: Human Learning & Memory, 6, 174-215.
+- West, R., & Craik, F. I. M. (1999). Age-related decline in prospective memory: The roles of cue accessibility and cue sensitivity. Psychology & Aging, 14, 264-272.
+- West, R., Krompinger, J., & Bowry, R. (2005). Disruptions of preparatory attention contribute to failures of prospective memory. Psychonomic Bulletin & Review, 12, 502-507.

@@ -1,0 +1,33 @@
+# CATEGORY FOR THIS CALL: key_references
+
+Focus on: the 5-15 references most central to the paper.
+
+Draw from citations_referenced across all sections. Include references that are:
+- Foundational to the focal theory
+- Primary methodological precedents
+- Key competing theoretical accounts
+- Central empirical precedents
+
+Do NOT list every reference — only the ones that carry conceptual weight.
+
+For role, use specific descriptions like:
+- "foundational theory"
+- "primary methodological precedent"
+- "competing theoretical account"
+- "key empirical precedent"
+- "prior evidence for the same effect"
+
+Return JSON:
+{
+  "key_references": [
+    {"authors": "...", "year": "...", "role": "..."}
+  ]
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS AND CRITIQUE
+
+{content}

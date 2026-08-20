@@ -1,0 +1,24 @@
+# CATEGORY FOR THIS CALL: study_design
+
+Focus on: the paper's empirical strategy. Compact facts, not narrative.
+
+Draw from methods JSONs and per-experiment introductions.
+
+Return JSON:
+{
+  "study_design": {
+    "n_experiments": integer,
+    "predictors_examined": ["predictor 1", "predictor 2"],
+    "outcomes_examined": ["outcome 1", "outcome 2"],
+    "materials_summary": "brief description of stimuli/materials",
+    "design_types": ["exp_1: within-subjects 2x2", "exp_2: mixed 2x2x3"]
+  }
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS AND CRITIQUE
+
+{content}

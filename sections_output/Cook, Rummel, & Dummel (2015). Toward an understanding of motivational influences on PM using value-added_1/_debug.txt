@@ -1,0 +1,116 @@
+[TITLE] <H1> Toward an understanding of motivational influences on prospective memory using value-added intentions
+[AUTHORS] Gabriel I. Cook<sup>1</sup>, Jan Rummel<sup>2</sup>* and Sebastian Dummel<sup>2</sup>
+[AUTHORS] <sup>1</sup> Department of Psychology, Claremont McKenna College, Claremont, CA, USA, <sup>2</sup> Department of Psychol
+[AUTHORS] OPEN ACCESS
+[AUTHORS] Edited by: Matthias Kliegel, University of Geneva, Switzerland
+[AUTHORS] Reviewed by: Sam Gilbert, University College London, UK Andreas Ihle, University of Geneva, Switzerland
+[ABSTRACT] This study examined value-added intentions by manipulating the cognitive frame associated with monetary contingencies fo
+[INTRODUCTION] *Correspondence: Jan Rummel, Department of Psychology, Heidelberg University, Hauptstrasse 47-51 D-69117 Heidelberg, Ger
+[INTRODUCTION] <index>
+[INTRODUCTION] <list>
+[INTRODUCTION] <H2> Introduction
+[INTRODUCTION] Prospective memory (PM) is a cognitive ability which enables individuals to remember to execute an intended action plan 
+[INTRODUCTION] Einstein and McDaniel (1990) introduced a task set that allows studying PM in the laboratory. At the outset of the task,
+[INTRODUCTION] Whereas there is a large body of empirical studies investigating the cognitive processes underlying PM, only few studies
+[INTRODUCTION] In an attempt to link motivational and cognitive PM processing, Penningroth and Scott (2007) recently suggested a goal-b
+[INTRODUCTION] Further, the goal-based motivational-cognitive model suggests that personal relevance of an intention can affect intenti
+[INTRODUCTION] Empirical support for the assumptions that cues for goalrelevant intentions are highly accessible comes from findings th
+[INTRODUCTION] The assumption that strategy use can indeed change later PM processing is supported by research on implementationintenti
+[INTRODUCTION] In sum, according to the goal-based motivational-cognitive model suggested by Penningroth and Scott (2007), successful P
+[INTRODUCTION] Since Penningroth and Scott (2007) introduced their model, unfortunately very little experimental research has set out t
+[INTRODUCTION] There are also a few studies that have tested whether the effects of rewards on some cognitive domains generalize to PM 
+[INTRODUCTION] We assume that there are many reasons that motivate individuals to come up with a certain intention in the first place (
+[INTRODUCTION] Scholars of PM have not yet developed any working theories regarding the motivation involved in how we execute intention
+[INTRODUCTION] In the laboratory, value-added intentions may be defined as intentions that possess some value over and above the value 
+[INTRODUCTION] We believe that value-added intentions can be distinguished from standard intentions that are generally associated with 
+[INTRODUCTION] Our goal of this set of experiments was to investigate how individuals remember value-added intentions, which we chose t
+[KEYWORDS] Keywords: prospective memory, intention, motivation, value-added, loss, reward
+[EXPERIMENT_INTROS] <H2> Experiment 1
+[EXPERIMENT_INTROS] Previous research has revealed favorable benefits of monetary gains on PM for groups of participants with cognitive impa
+[EXPERIMENT_INTROS] As an overview of the methodology, we used a standard laboratory PM task setting with a lexical-decision task as ongoing
+[EXPERIMENT_INTROS] We can use the cognitive pathways outlined in the motivational-cognitive model (cf. Penningroth and Scott, 2007, Figure 
+[EXPERIMENT_INTROS] <H2> Experiment 2
+[EXPERIMENT_INTROS] Experiment 1 revealed that framing PM forgetting in terms of a loss increased PM performance, but this benefit was not o
+[EXPERIMENT_INTROS] <table>
+[EXPERIMENT_INTROS] In order to better understand how individuals fulfill valueadded intentions, we decided to broaden our frame manipulatio
+[EXPERIMENT_INTROS] Beyond these applied implications, a basic question concerning the role of effortful PM processing for valueadded intent
+[EXPERIMENT_INTROS] One potential limitation of Experiment 1 is that participants in the no-frame condition could have interpreted the payme
+[EXPERIMENT_INTROS] Evidence against the criticism just raised is that several participants of Experiment 1 also told the experimenter after
+[EXPERIMENT_INTROS] Furthermore, we made three experimental changes to this experiment. Two additional tasks were applied after the PM task 
+[METHODS] <H2> Method
+[METHODS] <H2> Materials and Procedure
+[METHODS] For an ongoing lexical-decision task, 240 words of medium length and frequency were taken from a word-norm German databa
+[METHODS] Both experiments reported here were conducted in accordance with national ethical guidelines. We recruited participants 
+[METHODS] Next, all participants received instructions for the ongoing lexical-decision task asking them to press the J-key for wo
+[METHODS] After the baseline block, participants received instructions on the screen that they would perform another block of the 
+[METHODS] Participants of both conditions then answered trivia questions for 4 min to delay the PM task. After this filler task, p
+[METHODS] After the PM block, participants’ memory for the PM cues (syllable ung) and the PM key (hyphen-key) was probed. Finally,
+[METHODS] <H2> Method
+[METHODS] <H2> Materials and Procedure
+[METHODS] Materials were the same as in Experiment 1. Participants were again recruited on campus. This time, however, participant
+[METHODS] As in Experiment 1, participants provided informed consent and then received lexical-decision task instructions and perf
+[METHODS] After finishing the PM block, participants were presented with a surprise recognition test for ongoing-task items. For t
+[METHODS] All participants also performed a Go/No-Go task in which the 12 PM cues and 12 neutral ongoing-task items from the PM bl
+[METHODS] After the Go/No-Go task, participants had to recall the PM cue and the PM key and were asked to indicate (on a scale fro
+[UNMATCHED] <H2> Participants and Design
+[UNMATCHED] We recruited 66 student participants from Heidelberg University (mean age: 22.77; range: 18–35; 79% female) who were all
+[UNMATCHED] All participants received 4e starting money. In one condition (loss-frame condition; n = 32), participants lost a certai
+[UNMATCHED] <H2> Prospective-Memory Performance and Intention Memory
+[UNMATCHED] The proportion of correct responses to PM cues was used to assess PM performance. Any hyphen-key press between PM cue on
+[UNMATCHED] An independent-samples t-test was used to compare PM performance between the loss-frame and the no-frame condition. This
+[UNMATCHED] All participants were able to recall the PM key after the experiment. Only two participants were unable to recall the PM
+[UNMATCHED] <H2> Ongoing-Task Performance
+[UNMATCHED] Lexical-decision error-rates and response times (RTs) were used to assess ongoing task performance (see Table 1 for mean
+[UNMATCHED] Error rates were submitted to ${ \mathfrak { a } } 2 \times 2$mixed-model analysis of variance (ANOVA) with the between-
+[UNMATCHED] RT analyses were confined to correct responses and the first four trials as well as the four trials after a PM trial wer
+[UNMATCHED] The only other significant result was a main effect of item type, $F _ { ( 1 , 6 2 ) } = 2 8 . 2 3 , f _ { z } = 0 . 2 6
+[UNMATCHED] In sum, results of Experiment 1 are the first demonstration that monetary punishment of PM failures is effective in impr
+[UNMATCHED] <H2> Participants and Design
+[UNMATCHED] Eighty-five students from Heidelberg University (mean age: 22.60; range: 18–32; 79% female) who were all native speakers
+[UNMATCHED] As in Experiment 1, all participants performed two blocks (baseline, PM block) of an ongoing task and the betweensubject
+[UNMATCHED] $1 - \beta \ = \ 0 . 5 0$. The statistical power to detect medium-sized differences in ongoing-task performance changes 
+[UNMATCHED] <H2> Prospective-Memory Performance and Intention Memory
+[UNMATCHED] As evident from Table 2, PM performance of Experiment 2 was generally better than Experiment 1. This benefit might be du
+[UNMATCHED] All participants apart from one excluded person (see above) were able to recall the PM-cue syllable and the PM key in th
+[UNMATCHED] <H2> Ongoing-Task Performance
+[UNMATCHED] Mean error rates and RTs (trimmed as before) are displayed in Table 2. For accuracy, the 3 × 2 mixed-model ANOVA with th
+[UNMATCHED] For RTs, the $3 \ \times \ 2 \ \times \ 2$mixed-model ANOVA with the between-subjects factor condition (loss, gain, no-f
+[UNMATCHED] <table>
+[UNMATCHED] <table>
+[UNMATCHED] <H2> Ongoing-Task-Item Recognition
+[UNMATCHED] To assess retrospective memory for items that previously occurred during the PM block of the ongoing task, we calculated
+[UNMATCHED] The analysis of Pr only revealed a significant effect of item type, $F _ { ( 1 , 8 0 ) } = 2 2 . 9 3 , f _ { z } = 0 . 2
+[UNMATCHED] <H2> Go/No-Go Performance
+[UNMATCHED] Only very few participants made errors in the Go/No-Go task and therefore we refrained from analyzing error rates of thi
+[UNMATCHED] <H2> Perceived Task Importance
+[UNMATCHED] Absolute importance estimates for the ongoing task and the PM task as well as estimates of the importance of the PM task
+[UNMATCHED] In sum, these results imply that PM-performance improvements due to monetary punishments were not associated with change
+[UNMATCHED] <H2> Author and Contributors
+[UNMATCHED] The first two authors contributed equally to the present research. All three authors contributed substantially to the co
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[RESULTS] <H2> Results and Discussion
+[RESULTS] We set an alpha-level to 0.05 for all analyses. We further report Bayes factors (BF) for those results that are most cri
+[RESULTS] <H2> Results and Discussion
+[GENERAL_DISCUSSION] <H2> General Discussion
+[GENERAL_DISCUSSION] In two experiments, we manipulated cognitive frames related specifically to the value of fulfilling an event-based inten
+[GENERAL_DISCUSSION] The finding that value-added intentions have a higher likelihood of being fulfilled than regular intentions is of high p
+[GENERAL_DISCUSSION] The present findings of value-induced PM improvements in a fairly demanding PM task (syllable intention) that were accom
+[GENERAL_DISCUSSION] Nevertheless, we find the goal-based motivational-cognitive model to be a fruitful perspective on studying the dynamics 
+[GENERAL_DISCUSSION] Even though there might have been some changes in the recruitment of attentional resources for words processed in the fr
+[GENERAL_DISCUSSION] The foregoing analysis highlights the possibility that certain value-added intentions may motivate participants to alloc
+[GENERAL_DISCUSSION] A limited understanding of motivational influences on PM warrants connecting our results with other research areas that 
+[GENERAL_DISCUSSION] An attentional shift and activation of the components of an intention may be vital for responding to PM cues (West and C
+[GENERAL_DISCUSSION] Motivation appears to influence the completion of intentions in various ways. We used the goal-based motivational-cognit
+[REFERENCES] <H2> References
+[REFERENCES] <list>
+[REFERENCES] the study, the data analysis, and interpretation of the data. SD supervised data collection. JR and GC drafted the manus
+[ACKNOWLEDGMENTS] <H2> Acknowledgments
+[ACKNOWLEDGMENTS] We thank Sebastyen Bokor, Amelie Haindl, Juliane Jakobs, Angelika Miller, and Joschka Zierke for help with data collecti
+[ACKNOWLEDGMENTS] <list>
+[ACKNOWLEDGMENTS] <list>
+[ACKNOWLEDGMENTS] <list>
+[ACKNOWLEDGMENTS] Conflict of Interest Statement: The authors declare that the research was conducted in the absence of any commercial or 
+[ACKNOWLEDGMENTS] Copyright © 2015 Cook, Rummel and Dummel. This is an open-access article distributed under the terms of the Creative Com

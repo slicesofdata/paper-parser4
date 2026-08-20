@@ -1,0 +1,130 @@
+==============================================================================
+HEADING SCAN (raw)
+==============================================================================
+  H1: 'Mapping Color to Meaning in Colormap Data Visualizations'  body:'Karen B. Schloss, Connor C. Gramazio, Allison T. Silverman, Madeline L. Parker, '
+  H2: '1 INTRODUCTION'  body:'When people interpret colormap data visualizations, they are faced with a task o'
+  H2: '2 RELATED WORK'  body:'In this section, we first discuss related work on colormaps, followed by the mot'
+  H2: '2.1 Colormap Data Visualizations'  body:'Previous work on colormap data visualizations can be grouped into three main typ'
+  H2: '2.1.1 Designing color scales for colormaps'  body:'Extensive research has focused on defining the properties of color scales that r'
+  H2: '2.1.2 Selecting color scales according to data and task'  body:'Different color scales are more or less effective, depending on the properties o'
+  H2: '2.1.3 Encoding semantics in colormap visualizations'  body:'Once one selects a well-designed scale that is appropriate for the task and data'
+  H2: '2.2 Motivating Our Approach'  body:'We discuss three factors that motivated our approach for designing the experimen'
+  H2: '2.2.1 Measuring inferred mappings'  body:'Inferred mappings between perceptual features and concepts are typically measure'
+  H2: '2.2.2 Using synthetic data to construct visualizations'  body:'Following prior literature [15, 17, 19], we used synthetic data to construct the'
+  H2: '2.2.3 Specifying colors to produce colormaps'  body:'In laboratory experiments where the goal is to display colors that other researc'
+  H2: '3 EXPERIMENT 1'  body:'In Experiment 1, we evaluated how the background color influenced inferred mappi'
+  H2: '3.1 Methods'  body:''
+  H2: '3.1.1 Participants'  body:'There were 30 participants (mean age = 22), who were undergraduates or members o'
+  H2: '3.1.2 Design and displays'  body:'The display for each trial contained a colormap data visualization with a legend'
+  H2: '3.1.3 Procedure'  body:'Participants were told that they would see colormaps representing the amount of '
+  H2: '3.2 Results and Discussion'  body:'To prepare the RTs for analysis, we first eliminated trials with errors (mean ac'
+  H2: '4 EXPERIMENT 2'  body:'Experiment 2 directly tested our hypothesis that there is an opaque-ismore bias.'
+  H2: '4.1 Methods'  body:''
+  H2: '4.1.1 Participants'  body:'There were 36 participants (mean age = 18.9), who were undergraduates at the Uni'
+  H2: '4.1.2 Design and displays'  body:'The design and displays in Experiment 2 were similar to Experiment 1, except we '
+  H2: '4.1.3 Procedure'  body:'The procedure was the same as in Experiment 1, except there were 72 trials per b'
+  H2: '4.2 Results and Discussion'  body:'As in Experiment 1, we prepared the RTs for analysis by first eliminating trials'
+  H2: '5 GENERAL DISCUSSION'  body:'The goal of this study was to understand the conditions under which people’s inf'
+  H2: '5.1 Open questions'  body:'We now consider open questions to be addressed in future research.'
+  H2: '5.1.1 Explanation for dark-is-more and opaque-is-more biases'  body:'A fundamental question is why there are dark-is-more and opaque-ismore biases. I'
+  H2: '5.1.2 Opacity Variation Index'  body:'We defined the Opacity Variation Index for a given color scale and background as'
+  H2: '5.1.3 Spatial configuration'  body:'Another question concerns how inferred mappings are influenced by the spatial or'
+  H2: '5.1.4 Semantic context'  body:'In the present study, we explicitly used fictitious data about alien animals to '
+  H2: '5.1.5 Dark-is-more beyond colormaps'  body:'The present work contributes to a body of evidence that there is a darkis-more b'
+  H2: '6 CONCLUSION'  body:'We investigated how visual features in colormap data visualization influence peo'
+  H2: 'ACKNOWLEDGMENTS'  body:'The authors thank Laurent Lessard, Morton Gersbacher, Stephen Palmer, Bas Rokers'
+  H2: 'REFERENCES'  body:'[1] J. R. Antes and K.-T. Chang. An empirical analysis of the design principles '
+
+==============================================================================
+ROUTING DECISIONS
+==============================================================================
+  POS 01 | H1: 'Mapping Color to Meaning in Colormap Data Visualizations'
+         -> frontmatter.title  (H1 = paper title)
+  POS 02 | H2: '1 INTRODUCTION'
+         -> frontmatter.introduction  (matched canonical (introduction))
+  POS 03 | H2: '2 RELATED WORK'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 04 | H2: '2.1 Colormap Data Visualizations'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 05 | H2: '2.1.1 Designing color scales for colormaps'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 06 | H2: '2.1.2 Selecting color scales according to data and task'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 07 | H2: '2.1.3 Encoding semantics in colormap visualizations'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 08 | H2: '2.2 Motivating Our Approach'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 09 | H2: '2.2.1 Measuring inferred mappings'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 10 | H2: '2.2.2 Using synthetic data to construct visualizations'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 11 | H2: '2.2.3 Specifying colors to produce colormaps'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 12 | H2: '3 EXPERIMENT 1'
+         -> experiments.exp_1.introduction  (experiment heading matched)
+  POS 13 | H2: '3.1 Methods'
+         -> experiments.exp_1.methods  (matched canonical (methods))
+  POS 14 | H2: '3.1.1 Participants'
+         -> experiments.exp_1.methods  (matched canonical (methods))
+  POS 15 | H2: '3.1.2 Design and displays'
+         -> experiments.exp_1.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 16 | H2: '3.1.3 Procedure'
+         -> experiments.exp_1.methods  (matched canonical (methods))
+  POS 17 | H2: '3.2 Results and Discussion'
+         -> experiments.exp_1.results_and_discussion  (matched canonical (results_and_discussion))
+  POS 18 | H2: '4 EXPERIMENT 2'
+         -> experiments.exp_2.introduction  (experiment heading matched)
+  POS 19 | H2: '4.1 Methods'
+         -> experiments.exp_2.methods  (matched canonical (methods))
+  POS 20 | H2: '4.1.1 Participants'
+         -> experiments.exp_2.methods  (matched canonical (methods))
+  POS 21 | H2: '4.1.2 Design and displays'
+         -> experiments.exp_2.methods  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 22 | H2: '4.1.3 Procedure'
+         -> experiments.exp_2.methods  (matched canonical (methods))
+  POS 23 | H2: '4.2 Results and Discussion'
+         -> experiments.exp_2.results_and_discussion  (matched canonical (results_and_discussion))
+  POS 24 | H2: '5 GENERAL DISCUSSION'
+         -> backmatter.general_discussion  (matched canonical (general_discussion))
+  POS 25 | H2: '5.1 Open questions'
+         -> backmatter.general_discussion  (unmatched; merged into current backmatter section)  [ROUTED-UNMATCHED]
+  POS 26 | H2: '5.1.1 Explanation for dark-is-more and opaque-is-more biases'
+         -> backmatter.general_discussion  (unmatched; merged into current backmatter section)  [ROUTED-UNMATCHED]
+  POS 27 | H2: '5.1.2 Opacity Variation Index'
+         -> backmatter.general_discussion  (unmatched; merged into current backmatter section)  [ROUTED-UNMATCHED]
+  POS 28 | H2: '5.1.3 Spatial configuration'
+         -> backmatter.general_discussion  (unmatched; merged into current backmatter section)  [ROUTED-UNMATCHED]
+  POS 29 | H2: '5.1.4 Semantic context'
+         -> backmatter.general_discussion  (unmatched; merged into current backmatter section)  [ROUTED-UNMATCHED]
+  POS 30 | H2: '5.1.5 Dark-is-more beyond colormaps'
+         -> backmatter.general_discussion  (unmatched; merged into current backmatter section)  [ROUTED-UNMATCHED]
+  POS 31 | H2: '6 CONCLUSION'
+         -> backmatter.conclusion  (matched canonical (conclusion))
+  POS 32 | H2: 'ACKNOWLEDGMENTS'
+         -> backmatter.acknowledgments  (matched canonical (acknowledgments))
+  POS 33 | H2: 'REFERENCES'
+         -> backmatter.references  (matched canonical (references))
+
+==============================================================================
+FRONTMATTER SUMMARY
+==============================================================================
+  [title] Mapping Color to Meaning in Colormap Data Visualizations
+  [authors] Karen B. Schloss, Connor C. Gramazio, Allison T. Silverman, Madeline L. Parker, Audrey S. Wang  Index Terms—Visual Reasoning, Visual Communication, Co
+  [abstract] ![](images/1e3d78b4bb57ba50a4c9ebc74fe3598f03d3bca5efaa2736da35e07cd976e3da.jpg)   Fig. 1. Example trial in which participants reported whether there 
+  [introduction] ## 1 INTRODUCTION  When people interpret colormap data visualizations, they are faced with a task of visual reasoning—forming conceptual inferences fr
+
+=== EXP_1 ===
+  [introduction] ## 3 EXPERIMENT 1  In Experiment 1, we evaluated how the background color influenced inferred mappings when colormaps were constructed using various c
+  [methods] ## 3.1 Methods    ## 3.1.1 Participants  There were 30 participants (mean age = 22), who were undergraduates or members of the community at Brown Univ
+  [results_and_discussion] ## 3.2 Results and Discussion  To prepare the RTs for analysis, we first eliminated trials with errors (mean accuracy was 97%; range of accuracy acros
+
+=== EXP_2 ===
+  [introduction] ## 4 EXPERIMENT 2  Experiment 2 directly tested our hypothesis that there is an opaque-ismore bias. Participants saw colormaps that were generated fro
+  [methods] ## 4.1 Methods    ## 4.1.1 Participants  There were 36 participants (mean age = 18.9), who were undergraduates at the University of Wisconsin–Madison 
+  [results_and_discussion] ## 4.2 Results and Discussion  As in Experiment 1, we prepared the RTs for analysis by first eliminating trials with errors (mean accuracy was 97%; ra
+
+=== BACKMATTER ===
+  [general_discussion] ## 5 GENERAL DISCUSSION  The goal of this study was to understand the conditions under which people’s inferred color-quantity mappings for colormap da
+  [conclusion] ## 6 CONCLUSION  We investigated how visual features in colormap data visualization influence people’s inferred color-quantity mappings. We report evi
+  [references] ## REFERENCES  [1] J. R. Antes and K.-T. Chang. An empirical analysis of the design principles for quantitative and qualitative area symbols. Cartogra
+  [acknowledgments] ## ACKNOWLEDGMENTS  The authors thank Laurent Lessard, Morton Gersbacher, Stephen Palmer, Bas Rokers, David Laidlaw, Chris Racey, and anonymous review

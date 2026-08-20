@@ -1,0 +1,34 @@
+## References
+
+- Anisfeld, M., & Knapp, M. (1968). Association, synonymity, and directionality in false recognition. Journal of Experimental Psychology, 77, 171–179.
+- Bower, G. H. (1967). A multi-component theory of the memory trace. In K. W. Spence & J. T. Spence (Eds.), The psychology of learning and motivation (Vol. 1, pp. 229 –325). New York: Academic Press.
+- Chalfonte, B. L., & Johnson, M. K. (1996). Feature memory and binding in young and older adults. Memory & Cognition, 24, 403– 416.
+- D’Argembeau, A., & Van der Linden, M. (2004). Influence of affective meaning on memory for contextual information. Emotion, 4, 173–188.
+- Dodson, C. S., Holland, P. W., & Shimamura, A. P. (1998). On the recollection of specific- and partial-source information. Journal of Experimental Psychology: Learning, Memory, and Cognition, 24, 1121– 1136.
+- Dunlosky, J., & Nelson, T. O. (1992). Importance of the kind of cue for judgments of learning (JOL) and the delayed-JOL effect. Memory & Cognition, 20, 374–380.
+- Gruppuso, V., Lindsay, D. S., & Kelley, C. M. (1997). The processdissociation procedure and similarity: Defining and estimating recollection and familiarity in recognition memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 23, 259 –278.
+- Guttentag, R., & Carroll, D. (1997). Recollection-based recognition: Word frequency effects. Journal of Memory & Language, 37, 502–516.
+- Hart, J. T. (1967). Memory and the memory-monitoring process. Journal of Verbal Learning & Verbal Behavior, 6, 685–691.
+- Hicks, J. L., & Marsh, R. L. (2002). On predicting the future states of awareness for recognition of unrecallable items. Memory & Cognition, 30, 60 – 66.
+- Hicks, J. L., Marsh, R. L., & Ritschel, L. (2002). The role of recollection and partial information in source monitoring. Journal of Experimental Psychology: Learning, Memory, and Cognition, 28, 503–508.
+- Jacoby, L. L. (1999). Ironic effects of repetition: Measuring age-related differences in memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 25, 3–22.
+- Jacoby, L. L., Jones, T. C., & Dolan, P. O. (1998). Two effects of repetition: Support for a dual-process model of know judgments and exclusion errors. Psychonomic Bulletin & Review, 5, 705–709.
+- Jameson, K. A., Narens, L., Goldfarb, K., & Nelson, T. O. (1990). The influence of near-threshold priming on metamemory and recall. Acta Psychologica, 73, 55– 68.
+- Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. Psychological Bulletin, 114, 3–28.
+- Johnson, M. K., & Raye, C. L. (1981). Reality monitoring. Psychological Review, 88, 67–85.
+- Koriat, A. (1993). How do we know that we know? The accessibility model of the feeling of knowing. Psychological Review, 100, 609 – 639.
+- Koriat, A. (1995). Dissociation knowing and the feeling of knowing: Further evidence for the accessibility model. Journal of Experimental Psychology, General, 124, 311–333.
+- Koriat, A., & Levy-Sadot, R. (2001). The combined contributions of the cue familiarity and accessibility heuristics to feeling of knowing. Journal of Experimental Psychology: Learning, Memory & Cognition, 27, 34–53.
+- Koriat, A., Levy-Sadot, R., Edry, E. & de Marcas, S. (2003). What do we know about what we cannot remember? Accessing the semantic attributes of words that cannot be recalled. Journal of Experimental Psychology: Learning, Memory, and Cognition, 29, 1095–1105.
+- Maki, R. H. (1999). The roles of competition, target accessibility, and cue familiarity in metamemory for word pairs. Journal of Experimental Psychology: Learning, Memory, and Cognition, 25, 1011–1023.
+- Marsh, R. L., Hicks, J. L., & Cook, G. I. (2003). The role of “incidental” attributes in recovering source-monitoring information. Unpublished manuscript.
+- Nelson, T. O. (1984). A comparison of current measures of the accuracy of feeling-of-knowing predictions. Psychological Bulletin, 95, 109 –133.
+- Qin, J., Raye, C. L., Johnson, M. K., & Mitchell, K. J. (2001). Source ROCs are (typically) curvilinear: Comment on Yonelinas (1999). Journal of Experimental Psychology: Learning, Memory, and Cognition, 27, 1110–1115.
+- Quamme, J. R., Frederick, C., Kroll, N. E. A., Yonelinas, A. P., & Dobbins, I. G. (2002). Recognition memory for source and occurrence: The importance of recollection. Memory & Cognition, 30, 893–907.
+- Schacter, D. L., & Worling, J. R. (1985). Attribute information and the feeling-of-knowing. Canadian Journal of Psychology, 39, 467– 475.
+- Schreiber, T. A. (1998). Effects of target set size on feelings of knowing and cued recall: Implications for the cue effectiveness and partialretrieval hypotheses. Memory & Cognition, 26, 553–571.
+- Slotnick, S. D., & Dodson, C. S. (2005). Support for a continuous (singleprocess) model of recognition memory and source memory. Memory & Cognition, 33, 151–170.
+- Smith, E. E., Shoben, E. J., & Rips, L. J. (1974). Structure and process in semantic memory: A featural model for semantic decisions. Psychological Review, 81, 214–241.
+- Tulving, E., & Pearlstone, Z. (1966). Availability versus accessibility of information in memory for words. Journal of Verbal Learning and Verbal Behavior, 5, 381–391.
+- Yonelinas, A. (1999). The contribution of recollection and familiarity to recognition and source memory judgments: A formal dual-process model and an ROC analysis. Journal of Experimental Psychology: Learning, Memory, and Cognition, 25, 1415–1434.
+- Yonelinas, A. P., & Jacoby, L. L. (1996). Noncriterial recollection: Familiarity as automatic, irrelevant recollection. Consciousness and Cognition, 5, 131–141.

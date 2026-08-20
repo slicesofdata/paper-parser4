@@ -1,0 +1,116 @@
+==============================================================================
+HEADING SCAN (raw)
+==============================================================================
+  H1: 'Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design'  body:'Jeffrey Heer and Michael Bostock  Computer Science Department  Stanford Universi'
+  H2: 'ABSTRACT'  body:'Understanding perception is critical to effective visualization design. With its'
+  H2: 'INTRODUCTION'  body:'“Crowdsourcing” is a relatively new phenomenon in which web workers complete one'
+  H2: 'GRAPHICAL PERCEPTION'  body:'A great deal of prior research has investigated how visual variables such as pos'
+  H2: 'WEB-BASED EXPERIMENTS AND MECHANICAL TURK'  body:'The web is increasingly being used for experimentation and research. For example'
+  H2: 'RESEARCH GOALS'  body:'Our first research goal was to assess the viability of crowdsourced graphical pe'
+  H2: 'EXPERIMENT 1A: PROPORTIONAL JUDGMENT'  body:'We first replicated Cleveland & McGill’s seminal study [7] on Mechanical Turk. T'
+  H2: 'Method'  body:'Seven judgment types, each corresponding to a visual encoding (such as position '
+  H2: 'Results'  body:'To analyze responses, we replicated Cleveland & McGill’s data exploration, using'
+  H2: 'EXPERIMENT 1B: RECTANGULAR AREA JUDGMENTS'  body:'After successfully replicating Cleveland & McGill’s results, we further extended'
+  H2: 'Method'  body:'We again used Cleveland & McGill’s proportional judgment task: subjects were ask'
+  H2: 'Results'  body:'To facilitate comparison across studies, we used Cleveland & McGill’s log absolu'
+  H2: 'EXPERIMENT 2: GRIDLINE ALPHA CONTRAST'  body:'The previous experiments examined spatial encodings using black and white images'
+  H2: 'Method'  body:'We asked users to parameterize the display of chart gridlines drawn over a plott'
+  H2: 'Results'  body:'We analyzed 60×24 = 1,440 responses to task L, and 1,126 responses to task D. Th'
+  H2: 'EXPERIMENT 3: CHART SIZE AND GRIDLINE SPACING'  body:'Our next experiment focuses on a design variable that is difficult to control in'
+  H2: 'Method'  body:'Subjects were shown a chart and asked to first indicate which marked element (th'
+  H2: 'Results'  body:'We analyzed a total of 2,880 responses from the two experimental runs. We omitte'
+  H2: 'MECHANICAL TURK: PERFORMANCE AND COST'  body:'In this section, we analyze subject performance and experimental costs across ou'
+  H2: 'Turkers Overlap Across Studies'  body:'A total of 186 different Turkers participated in our experiments. Experiment 1A '
+  H2: 'HIT Completion Rates: “Samplers” and “Streakers”'  body:'Do Turkers randomly sample tasks across HIT groups, or do they plow through ever'
+  H2: 'Standard HITs Frustrate Fine-Grained Timing'  body:'Although we found crowdsourcing to provide high-quality responses, the standard '
+  H2: 'Reward Level Affects Study Completion Time'  body:'How long does it take to run an MTurk study? Are completion time or result quali'
+  H2: 'Crowdsourcing Reduces Money and Time Costs'  body:'The total expenditure for our crowdsourced experiments was \\$367.77. Had we inst'
+  H2: 'FINDINGS AND FUTURE WORK'  body:'The results from Mechanical Turk demonstrate that crowdsourced graphical percept'
+  H2: 'REFERENCES'  body:'1. V. Beattie and M. J. Jones. The impact of graph slope on rate of change judge'
+
+==============================================================================
+ROUTING DECISIONS
+==============================================================================
+  POS 01 | H1: 'Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design'
+         -> frontmatter.title  (H1 = paper title)
+  POS 02 | H2: 'ABSTRACT'
+         -> frontmatter.abstract  (matched canonical (abstract))
+  POS 03 | H2: 'INTRODUCTION'
+         -> frontmatter.introduction  (matched canonical (introduction))
+  POS 04 | H2: 'GRAPHICAL PERCEPTION'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 05 | H2: 'WEB-BASED EXPERIMENTS AND MECHANICAL TURK'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 06 | H2: 'RESEARCH GOALS'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 07 | H2: 'EXPERIMENT 1A: PROPORTIONAL JUDGMENT'
+         -> experiments.exp_1a.introduction  (experiment heading matched)
+  POS 08 | H2: 'Method'
+         -> experiments.exp_1a.methods  (matched canonical (methods))
+  POS 09 | H2: 'Results'
+         -> experiments.exp_1a.results  (matched canonical (results))
+  POS 10 | H2: 'EXPERIMENT 1B: RECTANGULAR AREA JUDGMENTS'
+         -> experiments.exp_1b.introduction  (experiment heading matched)
+  POS 11 | H2: 'Method'
+         -> experiments.exp_1b.methods  (matched canonical (methods))
+  POS 12 | H2: 'Results'
+         -> experiments.exp_1b.results  (matched canonical (results))
+  POS 13 | H2: 'EXPERIMENT 2: GRIDLINE ALPHA CONTRAST'
+         -> experiments.exp_2.introduction  (experiment heading matched)
+  POS 14 | H2: 'Method'
+         -> experiments.exp_2.methods  (matched canonical (methods))
+  POS 15 | H2: 'Results'
+         -> experiments.exp_2.results  (matched canonical (results))
+  POS 16 | H2: 'EXPERIMENT 3: CHART SIZE AND GRIDLINE SPACING'
+         -> experiments.exp_3.introduction  (experiment heading matched)
+  POS 17 | H2: 'Method'
+         -> experiments.exp_3.methods  (matched canonical (methods))
+  POS 18 | H2: 'Results'
+         -> experiments.exp_3.results  (matched canonical (results))
+  POS 19 | H2: 'MECHANICAL TURK: PERFORMANCE AND COST'
+         -> experiments.exp_3.results  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 20 | H2: 'Turkers Overlap Across Studies'
+         -> experiments.exp_3.results  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 21 | H2: 'HIT Completion Rates: “Samplers” and “Streakers”'
+         -> experiments.exp_3.results  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 22 | H2: 'Standard HITs Frustrate Fine-Grained Timing'
+         -> experiments.exp_3.results  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 23 | H2: 'Reward Level Affects Study Completion Time'
+         -> experiments.exp_3.results  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 24 | H2: 'Crowdsourcing Reduces Money and Time Costs'
+         -> experiments.exp_3.results  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 25 | H2: 'FINDINGS AND FUTURE WORK'
+         -> experiments.exp_3.results  (unmatched; merged into current experiment section)  [ROUTED-UNMATCHED]
+  POS 26 | H2: 'REFERENCES'
+         -> backmatter.references  (matched canonical (references))
+
+==============================================================================
+FRONTMATTER SUMMARY
+==============================================================================
+  [title] Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design
+  [authors] Jeffrey Heer and Michael Bostock  Computer Science Department  Stanford University  {jheer, mbostock}@cs.stanford.edu
+  [abstract] Understanding perception is critical to effective visualization design. With its low cost and scalability, crowdsourcing presents an attractive option
+  [introduction] ## INTRODUCTION  “Crowdsourcing” is a relatively new phenomenon in which web workers complete one or more small tasks, often for micro-payments on the
+
+=== EXP_1A ===
+  [introduction] ## EXPERIMENT 1A: PROPORTIONAL JUDGMENT  We first replicated Cleveland & McGill’s seminal study [7] on Mechanical Turk. Their study was among the firs
+  [methods] ## Method  Seven judgment types, each corresponding to a visual encoding (such as position or angle) were tested. The first five correspond to Clevela
+  [results] ## Results  To analyze responses, we replicated Cleveland & McGill’s data exploration, using their log absolute error measure of accuracy: log<sub>2</
+
+=== EXP_1B ===
+  [introduction] ## EXPERIMENT 1B: RECTANGULAR AREA JUDGMENTS  After successfully replicating Cleveland & McGill’s results, we further extended the experiment to more 
+  [methods] ## Method  We again used Cleveland & McGill’s proportional judgment task: subjects were asked to identify which of two rectangles (marked A or B) was 
+  [results] ## Results  To facilitate comparison across studies, we used Cleveland & McGill’s log absolute error measure. We omitted 16 responses (0.62%), for whi
+
+=== EXP_2 ===
+  [introduction] ## EXPERIMENT 2: GRIDLINE ALPHA CONTRAST  The previous experiments examined spatial encodings using black and white images. We now turn to a different
+  [methods] ## Method  We asked users to parameterize the display of chart gridlines drawn over a plotting area. In task L, we asked subjects, “Adjust the grid so
+  [results] ## Results  We analyzed 60×24 = 1,440 responses to task L, and 1,126 responses to task D. The missing responses (∼22%) to task D were due to the expir
+
+=== EXP_3 ===
+  [introduction] ## EXPERIMENT 3: CHART SIZE AND GRIDLINE SPACING  Our next experiment focuses on a design variable that is difficult to control in a crowdsourced stud
+  [methods] ## Method  Subjects were shown a chart and asked to first indicate which marked element (the left or the right) was smaller and then estimate the diff
+  [results] ## Results  We analyzed a total of 2,880 responses from the two experimental runs. We omitted 46 responses (1.60%) with error > 40. We then ran an ANO
+
+=== BACKMATTER ===
+  [references] ## REFERENCES  1. V. Beattie and M. J. Jones. The impact of graph slope on rate of change judgements in corporate reports. ABACUS, 38:177–199, 2002.  

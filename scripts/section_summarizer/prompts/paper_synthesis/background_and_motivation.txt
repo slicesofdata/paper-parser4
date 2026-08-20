@@ -1,0 +1,22 @@
+# CATEGORY FOR THIS CALL: background_and_motivation
+
+Focus on: the research gap the paper addresses and the key prior work motivating the study.
+
+Draw primarily from:
+- introduction.json — research_gap, background_research_summary, key_terminology
+- general_discussion.json — where relevant
+
+Write 2-4 sentences. Name the specific gap. Cite the most influential 2-4 prior works by author/year.
+
+Return JSON:
+{
+  "background_and_motivation": "2-4 sentence synthesis"
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS AND CRITIQUE
+
+{content}

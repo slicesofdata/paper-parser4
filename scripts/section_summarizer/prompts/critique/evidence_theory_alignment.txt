@@ -1,0 +1,22 @@
+# CATEGORY FOR THIS CALL: evidence_theory_alignment
+
+Focus ONLY on: whether the results actually support the theoretical claims the paper advances. Look for overreach in the discussion, selective emphasis, results that contradict claims but are not integrated, and theoretical stretches.
+
+Examples of concerns in this category:
+- Discussion claims the theory is supported, but the reported results are ambiguous or null on the key measure
+- Non-significant effects central to the theory are downplayed or omitted from the discussion
+- Directional finding is interpreted as causal evidence when the design does not support causal inference
+- Discussion generalizes beyond the population, stimuli, or conditions actually tested
+
+Return JSON:
+{
+  "evidence_theory_alignment": [<CritiqueEntry>, ...]
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS
+
+{section_content}

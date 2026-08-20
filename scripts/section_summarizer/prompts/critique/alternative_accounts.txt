@@ -1,0 +1,22 @@
+# CATEGORY FOR THIS CALL: alternative_accounts
+
+Focus ONLY on: alternative theoretical accounts. Are there plausible competing explanations the authors did not consider or dismissed too quickly? Were alternatives raised in the introduction addressed adequately by the results and discussion?
+
+Examples of concerns in this category:
+- A well-established competing account in the literature is not mentioned
+- Authors raise an alternative in the intro but do not evaluate it against the results
+- Authors dismiss an alternative without providing a compelling empirical or theoretical argument
+- The design cannot distinguish the focal theory from an unaddressed alternative
+
+Return JSON:
+{
+  "alternative_accounts": [<CritiqueEntry>, ...]
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS
+
+{section_content}

@@ -1,0 +1,81 @@
+==============================================================================
+HEADING SCAN (raw)
+==============================================================================
+  H1: 'Stereotypes and Prejudice: Their Automatic and Controlled Components'  body:'Patricia G. Devine University of Wisconsin—Madison  Three studies tested basic a'
+  H2: 'Automatic and Controlled Processes: Implications for Activation of Stereotypes and Personal Beliefs'  body:'The dissociation of automatic and controlled processes may provide some theoreti'
+  H2: 'Study 1: Stereotype Content and Prejudice Level'  body:'Historically, little attention has focused on individual differences in prejudic'
+  H2: 'Method'  body:'Subjects and procedure. Forty White introductory psychology students participate'
+  H2: 'Results and Discussion'  body:'The coding scheme, based primarily on the previous stereotype assessment literat'
+  H2: 'Study 2: Automatic Priming, Prejudice Level, and Social Judgment'  body:'Study 1 showed that prejudice has little effect on direct reports of stereotype '
+  H2: 'Method'  body:'Subjects and selection criteria¿Data were collected over two academic quarters. '
+  H2: 'Results'  body:"Several checks on subjects' awareness of the content of primes were included in "
+  H2: 'Discussion'  body:'Study 2 examined the effects of prejudice and automatic stereotype priming on su'
+  H2: 'Study 3: Controlled Processes and Prejudice Level'  body:'The present model suggests that one feature that differentiates low- from high-p'
+  H2: 'Method'  body:'Subjects. Subjects were 67 White introductory psychology students who participat'
+  H2: 'Results'  body:'Coding scheme. On the basis of a pilot study⁵ a scheme for coding the types of t'
+  H2: 'Discussion'  body:'Taken together, these sets of analyses indicate that high- and low-prejudice sub'
+  H2: 'General Discussion'  body:'The model examined in these studies makes a clear distinction between knowledge '
+  H2: 'References'  body:'Allport, G. W. (1954). The nature of prejudice. Reading, MA: Addison-Wesley.  As'
+
+==============================================================================
+ROUTING DECISIONS
+==============================================================================
+  POS 01 | H1: 'Stereotypes and Prejudice: Their Automatic and Controlled Components'
+         -> frontmatter.title  (H1 = paper title)
+  POS 02 | H2: 'Automatic and Controlled Processes: Implications for Activation of Stereotypes and Personal Beliefs'
+         -> frontmatter.introduction  (unmatched; merged into introduction (pre-experiment stage))  [ROUTED-UNMATCHED]
+  POS 03 | H2: 'Study 1: Stereotype Content and Prejudice Level'
+         -> experiments.exp_1.introduction  (experiment heading matched)
+  POS 04 | H2: 'Method'
+         -> experiments.exp_1.methods  (matched canonical (methods))
+  POS 05 | H2: 'Results and Discussion'
+         -> experiments.exp_1.results_and_discussion  (matched canonical (results_and_discussion))
+  POS 06 | H2: 'Study 2: Automatic Priming, Prejudice Level, and Social Judgment'
+         -> experiments.exp_2.introduction  (experiment heading matched)
+  POS 07 | H2: 'Method'
+         -> experiments.exp_2.methods  (matched canonical (methods))
+  POS 08 | H2: 'Results'
+         -> experiments.exp_2.results  (matched canonical (results))
+  POS 09 | H2: 'Discussion'
+         -> experiments.exp_2.discussion  (matched canonical (discussion))
+  POS 10 | H2: 'Study 3: Controlled Processes and Prejudice Level'
+         -> experiments.exp_3.introduction  (experiment heading matched)
+  POS 11 | H2: 'Method'
+         -> experiments.exp_3.methods  (matched canonical (methods))
+  POS 12 | H2: 'Results'
+         -> experiments.exp_3.results  (matched canonical (results))
+  POS 13 | H2: 'Discussion'
+         -> experiments.exp_3.discussion  (matched canonical (discussion))
+  POS 14 | H2: 'General Discussion'
+         -> backmatter.general_discussion  (matched canonical (general_discussion))
+  POS 15 | H2: 'References'
+         -> backmatter.references  (matched canonical (references))
+
+==============================================================================
+FRONTMATTER SUMMARY
+==============================================================================
+  [title] Stereotypes and Prejudice: Their Automatic and Controlled Components
+  [authors] Patricia G. Devine University of Wisconsin—Madison
+  [abstract] Three studies tested basic assumptions derived from a theoretical model based on the dissociation of automatic and controlled processes involved in pr
+  [introduction] ## Automatic and Controlled Processes: Implications for Activation of Stereotypes and Personal Beliefs  The dissociation of automatic and controlled p
+
+=== EXP_1 ===
+  [introduction] ## Study 1: Stereotype Content and Prejudice Level  Historically, little attention has focused on individual differences in prejudice when assessing t
+  [methods] ## Method  Subjects and procedure. Forty White introductory psychology students participated in groups of 4-6 for course credit. To ensure anonymity, 
+  [results_and_discussion] ## Results and Discussion  The coding scheme, based primarily on the previous stereotype assessment literature, included traits such as lazy, poor, at
+
+=== EXP_2 ===
+  [introduction] ## Study 2: Automatic Priming, Prejudice Level, and Social Judgment  Study 1 showed that prejudice has little effect on direct reports of stereotype c
+  [methods] ## Method  Subjects and selection criteria¿Data were collected over two academic quarters. Introductory psychology students were pretested on the seve
+  [results] ## Results  Several checks on subjects' awareness of the content of primes were included in this study. Attentionless processing should allow detectio
+  [discussion] ## Discussion  Study 2 examined the effects of prejudice and automatic stereotype priming on subjects' evaluations of ambiguous stereotype-related beh
+
+=== EXP_3 ===
+  [introduction] ## Study 3: Controlled Processes and Prejudice Level  The present model suggests that one feature that differentiates low- from high-prejudice persons
+  [methods] ## Method  Subjects. Subjects were 67 White introductory psychology students who participated for course credit.ª Subjects were run in groups of 3–6 a
+  [results] ## Results  Coding scheme. On the basis of a pilot study⁵ a scheme for coding the types of thoughts generated was developed. Two judges, blind to subj
+  [discussion] ## Discussion  Taken together, these sets of analyses indicate that high- and low-prejudice subjects were willing to report different thoughts about B
+
+=== BACKMATTER ===
+  [general_discussion] ## General Discussion  The model examined in these studies makes a clear distinction between knowledge of the racial stereotype, which Study 1 suggest
+  [references] ## References  Allport, G. W. (1954). The nature of prejudice. Reading, MA: Addison-Wesley.  Ashmore, R. D., & Del Boca, F. K. (1981). Conceptual appr

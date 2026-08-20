@@ -1,0 +1,30 @@
+# CATEGORY FOR THIS CALL: evidence_claim_alignment
+
+Focus on: where the paper's evidence supports its claims and where it does not.
+
+Draw from:
+- introduction (what the paper claims to test)
+- results_and_discussion (what was actually found)
+- general_discussion (what the paper concludes)
+- critique's evidence_theory_alignment entries (already-identified misalignments)
+
+For supported_claims: claims well-supported by evidence, naming both claim and support.
+For unsupported_or_weakly_supported_claims: claims where evidence is ambiguous or partly null.
+For contradictions_or_tensions: internal inconsistencies between prediction, finding, and conclusion.
+
+Return JSON:
+{
+  "evidence_claim_alignment": {
+    "supported_claims": ["...", "..."],
+    "unsupported_or_weakly_supported_claims": ["...", "..."],
+    "contradictions_or_tensions": ["...", "..."]
+  }
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS AND CRITIQUE
+
+{content}

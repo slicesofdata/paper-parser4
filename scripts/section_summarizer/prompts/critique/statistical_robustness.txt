@@ -1,0 +1,23 @@
+# CATEGORY FOR THIS CALL: statistical_robustness
+
+Focus ONLY on: how reported statistics were interpreted or framed. Marginal effects treated as significant, missing multiple-comparison corrections, missing effect sizes or CIs, small effects over-interpreted.
+
+Examples of concerns:
+- Marginal effect (p between .05 and .10) treated as evidence for the hypothesis
+- Multiple pairwise comparisons reported without Bonferroni or similar correction
+- Effect sizes not reported alongside p-values
+- Small effect (e.g., partial eta squared under .05) framed as strong evidence
+- Confidence intervals not reported for key comparisons
+
+Return JSON:
+{
+  "statistical_robustness": [<CritiqueEntry>, ...]
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS
+
+{section_content}

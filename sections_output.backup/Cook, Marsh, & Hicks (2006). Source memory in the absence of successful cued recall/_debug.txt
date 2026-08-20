@@ -1,0 +1,46 @@
+=== HEADING SCAN (raw) ===
+  H1: 'Source Memory in the Absence of Successful Cued Recall'  body:'Gabriel I. Cook Claremont McKenna College  Richard L. Marsh University of Georgi'
+  H2: 'Experiment 1'  body:'This first experiment served as an initial investigation of whether any context '
+  H2: 'Method'  body:'Participants. Undergraduate students from the University of Georgia volunteered '
+  H2: 'Results and Discussion'  body:'Unless specified otherwise with an explicit p value, statistical significance by'
+  H2: 'Experiment 2'  body:'Jacoby and his colleagues have argued that multiple study trials increase both r'
+  H2: 'Method'  body:'Participants. Undergraduates from the University of Georgia volunteered in excha'
+  H2: 'Results and Discussion'  body:'The results are summarized in the next section of Table 1. Cued recall for once-'
+  H2: 'Experiments 3a and 3b'  body:'The previous experiment was informative insofar as it demonstrated that predicti'
+  H2: 'Method'  body:'Participants. University of Georgia undergraduates volunteered in exchange for p'
+  H2: 'Results and Discussion'  body:'The results of each experiment are summarized in the labeled sections of Table 1'
+  H2: 'Experiment 4'  body:'The purpose of this final experiment was to test memory under “full disclosure” '
+  H2: 'Method'  body:'Participants. Thirty-three University of Georgia undergraduates volunteered in e'
+  H2: 'Results and Discussion'  body:'The data are summarized at the bottom of Table 1. Cued-recall performance was ar'
+  H2: 'General Discussion'  body:'The empirical outcomes of this study are straightforward to summarize. Partial i'
+  H2: 'References'  body:'Anisfeld, M., & Knapp, M. (1968). Association, synonymity, and directionality in'
+
+=== FRONTMATTER ===
+  [title] Source Memory in the Absence of Successful Cued Recall
+  [authors] Gabriel I. Cook Claremont McKenna College  Richard L. Marsh University of Georgia  Jason L. Hicks Louisiana State University
+  [abstract] Five experiments were conducted to address the question of whether source information could be accessed in the absence of being able to recall an item
+  [introduction] Keywords: source monitoring, context memory, metacognition  Information about the contextual details surrounding an event is used in a variety of ever
+
+=== EXP_1 ===
+  [introduction] ## Experiment 1  This first experiment served as an initial investigation of whether any context information is available about a target word that can
+  [methods] ## Method  Participants. Undergraduate students from the University of Georgia volunteered in exchange for partial credit toward a course research req
+  [results_and_discussion] ## Results and Discussion  Unless specified otherwise with an explicit p value, statistical significance by chance does not exceed the conventional Ty
+
+=== EXP_2 ===
+  [introduction] ## Experiment 2  Jacoby and his colleagues have argued that multiple study trials increase both recollection and familiarity (e.g., Jacoby, 1999; Jaco
+  [methods] ## Method  Participants. Undergraduates from the University of Georgia volunteered in exchange for partial credit toward a course requirement. Each pa
+  [results_and_discussion] ## Results and Discussion  The results are summarized in the next section of Table 1. Cued recall for once-presented items was at a comparable level t
+
+=== EXP_3A_AND_3B ===
+  [introduction] ## Experiments 3a and 3b  The previous experiment was informative insofar as it demonstrated that predictive source judgments can be well above chance
+  [methods] ## Method  Participants. University of Georgia undergraduates volunteered in exchange for partial credit toward a course research requirement. Each pa
+  [results_and_discussion] ## Results and Discussion  The results of each experiment are summarized in the labeled sections of Table 1. In each experiment, the data were analyze
+
+=== EXP_4 ===
+  [introduction] ## Experiment 4  The purpose of this final experiment was to test memory under “full disclosure” conditions of how the experiment would proceed. In ot
+  [methods] ## Method  Participants. Thirty-three University of Georgia undergraduates volunteered in exchange for partial credit toward a course research require
+  [results_and_discussion] ## Results and Discussion  The data are summarized at the bottom of Table 1. Cued-recall performance was arguably quite poor for once-presented pairs 
+
+=== BACKMATTER ===
+  [general_discussion] ## General Discussion  The empirical outcomes of this study are straightforward to summarize. Partial information about a target memory that cannot be
+  [references] ## References  Anisfeld, M., & Knapp, M. (1968). Association, synonymity, and directionality in false recognition. Journal of Experimental Psychology,

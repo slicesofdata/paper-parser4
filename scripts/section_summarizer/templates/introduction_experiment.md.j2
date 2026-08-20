@@ -1,0 +1,94 @@
+# Experiment Introduction Summary
+
+*Section: {{ section_location }}*
+
+{% if data.rationale_for_this_experiment -%}
+## Rationale for This Experiment
+
+{{ data.rationale_for_this_experiment }}
+
+{% endif %}
+
+{% if data.relation_to_prior_experiments -%}
+## Relation to Prior Experiments
+
+{{ data.relation_to_prior_experiments }}
+
+{% endif %}
+
+{% if data.specific_predictions -%}
+## Specific Predictions
+
+{% for e in data.specific_predictions -%}
+- **{{ e.topic_label }}**
+  > {{ e.verbatim_quote }}
+{% if e.citations_inline %}
+  - Citations: {% for c in e.citations_inline %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.theoretical_refinements -%}
+## Theoretical Refinements (relative to paper-level intro)
+
+{% for e in data.theoretical_refinements -%}
+- **{{ e.topic_label }}**
+  > {{ e.verbatim_quote }}
+{% if e.citations_inline %}
+  - Citations: {% for c in e.citations_inline %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.new_alternative_theories -%}
+## New Alternative Theories Introduced
+
+{% for a in data.new_alternative_theories %}
+### {{ a.name }}
+
+- **Description:** {{ a.description }}
+- **Difference from focal theory:** {{ a.difference_from_focal_theory }}
+{% if a.citations %}
+- **Citations:** {% for c in a.citations %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.new_elements_introduced -%}
+## New Elements Introduced
+
+{% for n in data.new_elements_introduced %}
+- {{ n }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.constraints_addressed -%}
+## Constraints Addressed
+
+{% for c in data.constraints_addressed %}
+- {{ c }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.missing_or_unclear -%}
+## Missing or Unclear
+
+{% for item in data.missing_or_unclear %}
+- {{ item }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.citations_referenced -%}
+## Citations Referenced
+
+{% for c in data.citations_referenced %}
+- **{{ c.authors }} ({{ c.year }})** — {{ c.context }}
+{% endfor %}
+
+{% endif %}

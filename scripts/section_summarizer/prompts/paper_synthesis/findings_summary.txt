@@ -1,0 +1,26 @@
+# CATEGORY FOR THIS CALL: findings_summary
+
+Focus on: cross-experiment synthesis of the key findings. Integrate, don't list.
+
+Draw from results_and_discussion JSONs across all experiments and the general_discussion JSON's cross_experiment_integration field.
+
+Guidance:
+- 3-6 sentences
+- Note where experiments converge on a finding and where they diverge
+- Preserve specificity about variables and directions of effects
+- Do NOT list every reported statistic
+- Do NOT include interpretation beyond what the authors state
+- Note null or unexpected findings if central to the paper's story
+
+Return JSON:
+{
+  "findings_summary": "3-6 sentence synthesis"
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS AND CRITIQUE
+
+{content}

@@ -1,0 +1,58 @@
+=== HEADING SCAN (raw) ===
+  H1: 'Automaticity of Social Behavior: Direct Effects of Trait Construct and Stereotype Activation on Action'  body:'John A. Bargh, Mark Chen, and Lara BurrowsNew York University  Previous research'
+  H2: 'Automaticity in Attitudes and Social Cognition'  body:"The extent to which one's own thought and behavior are or are not under one's ow"
+  H2: 'The Case for Automatic Social Behavior'  body:'We propose that social behavior is often triggered automatically on the mere pre'
+  H2: 'Behavioral Responses Can Be Associated With Situational Features'  body:'Social–behavioral responses are represented mentally just as are trait concepts '
+  H2: 'The Principle of Ideomotor Action'  body:'William James held that the mere act of thinking about a behavior increased the '
+  H2: 'The Perception-Behavior Link'  body:'Just as the accessibility or likelihood of use of a concept increases no matter '
+  H2: 'The Present Experiments'  body:'From the various streams of evidence reviewed above, several principles can be d'
+  H2: 'Experiment 1: Behavioral Consequences of Trait Construct Priming'  body:''
+  H2: 'Method'  body:'Participants. A total of 34 students at New York University who were enrolled in'
+  H2: 'Results'  body:'Our primary dependent variable was the number of seconds the participants waited'
+  H2: 'Discussion'  body:'In this first experimental test of whether trait construct priming would produce'
+  H2: 'Experiments 2a and 2b: Behavioral Effects of Activating the Elderly Stereotype'  body:''
+  H2: 'Method'  body:'Overview. The method and procedure for Experiments 2a and 2b are identical and s'
+  H2: 'Results'  body:'Experiment 2a. A t test was computed to ascertain the effect of the priming mani'
+  H2: 'Discussion'  body:'The results of the present experiments suggest that exposing individuals to a se'
+  H2: 'Awareness Check Study'  body:'The crucial factor in concluding that these results show automatic effects on be'
+  H2: 'Does Mood Mediate the Effect of Priming on Walking Speed?'  body:'One alternative explanation that can be offered for the effect of the elderly-st'
+  H2: 'Experiment 3: Behavioral Effects of the African American Stereotype'  body:'The results of Experiment 2 showed that the automatic activation of the elderly '
+  H2: 'Method'  body:'Overview. The present experiment was designed to study the effect of activation '
+  H2: 'Results'  body:"We conducted a MANOVA using an average of the experimenter's hostility ratings a"
+  H2: 'General Discussion'  body:'Across three experiments, the activation of a trait construct or a stereotype in'
+  H2: 'Under What Conditions Will Behavior Be Automatic?'  body:'To many, we presume, the present findings conjure up images of the old sublimina'
+  H2: 'Relative Strength of Priming Effects on Behaviors Versus Impressions'  body:'The limited range of behavioral options that participants had in our experimenta'
+  H2: 'Does Social Perception Always Mediate Social Behavior?'  body:'However, the greater variability and freedom that people have in perceiving othe'
+  H2: 'Can Automatic Behavior Be Controlled?'  body:'If, as the ideomotor principle has it, the mere thought of behaving in a certain'
+  H2: 'Implications for Stereotype Confirmation and Empathic Reactions'  body:'One important message to be taken from the results of Experiments 2 and 3 is tha'
+  H2: 'Conclusions'  body:'Our central message is that social behavior can be triggered automatically by fe'
+  H2: 'References'  body:'Ansfield, M., & Wegner, D. M. (1996). The feeling of doing. In P. M. Gollwitzer '
+
+=== FRONTMATTER ===
+  [title] Automaticity of Social Behavior: Direct Effects of Trait Construct and Stereotype Activation on Action
+  [authors] John A. Bargh, Mark Chen, and Lara BurrowsNew York University
+  [abstract] Previous research has shown that trait concepts and stereotypes become active automatically in the presence of relevant behavior or stereotyped-group 
+  [introduction] For many years, social psychologists have studied the effects of priming on the individual's subsequent impressions of others. Priming refers to the i
+
+=== EXP_1 ===
+  [introduction] ## Experiment 1: Behavioral Consequences of Trait Construct Priming  
+  [methods] ## Method  Participants. A total of 34 students at New York University who were enrolled in the Introductory Psychology course participated in the exp
+  [results] ## Results  Our primary dependent variable was the number of seconds the participants waited before interrupting the experimenter. A one-way analysis 
+  [discussion] ## Discussion  In this first experimental test of whether trait construct priming would produce differences in behavior as it has been shown to do for
+
+=== EXP_2A_AND_2B ===
+  [introduction] ## Experiments 2a and 2b: Behavioral Effects of Activating the Elderly Stereotype  
+  [methods] ## Method  Overview. The method and procedure for Experiments 2a and 2b are identical and so are described together. Experiment 2b is a replication of
+  [results] ## Results  Experiment 2a. A t test was computed to ascertain the effect of the priming manipulation on walking speed. Participants in the elderly pri
+  [discussion] ## Discussion  The results of the present experiments suggest that exposing individuals to a series of words linked to a particular stereotype influen
+
+=== EXP_3 ===
+  [introduction] ## Experiment 3: Behavioral Effects of the African American Stereotype  The results of Experiment 2 showed that the automatic activation of the elderl
+  [methods] ## Method  Overview. The present experiment was designed to study the effect of activation of an African American stereotype on social behavior. Parti
+  [results] ## Results  We conducted a MANOVA using an average of the experimenter's hostility ratings across the four trait scales and an average of the two vide
+
+=== BACKMATTER ===
+  [general_discussion] ## General Discussion  Across three experiments, the activation of a trait construct or a stereotype in one context resulted in behavior consistent wi
+  [conclusion] ## Conclusions  Our central message is that social behavior can be triggered automatically by features of the environment. In Experiment 1, the same t
+  [references] ## References  Ansfield, M., & Wegner, D. M. (1996). The feeling of doing. In P. M. Gollwitzer & J. A. Bargh (Eds.), The psychology of action (pp. 482
+  [unmatched] ## Automaticity in Attitudes and Social Cognition  The extent to which one's own thought and behavior are or are not under one's own intentional contr

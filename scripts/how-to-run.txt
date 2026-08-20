@@ -1,0 +1,14 @@
+cd C:\paper-parser4
+
+
+uv run --no-sync python -m scripts.section_summarizer.run_pipeline --all
+
+uv run --no-sync python -m scripts.section_summarizer.run_pipeline --all --stages report --force
+
+
+
+# process the files
+uv run python scripts/parse_batch.py
+
+# then split the sections		
+uv run python scripts/split_sections_of_mineru_md.py

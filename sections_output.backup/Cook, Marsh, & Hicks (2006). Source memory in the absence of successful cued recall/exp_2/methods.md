@@ -1,0 +1,5 @@
+## Method
+
+Participants. Undergraduates from the University of Georgia volunteered in exchange for partial credit toward a course requirement. Each participant was tested individually in sessions that lasted approximately 30 min. Participants were quasi-randomly assigned to either the intentional or incidental learning conditions on the basis of their arrival time at the laboratory. There were 34 volunteers in each condition. Two participants were replaced for the same reasons described earlier.
+
+Materials and procedure. In all of its essential properties, save one, this experiment was identical to the preceding one. The critical difference was that the software was revised to present half (20) of the pairs three times during learning, whereas the other half received only a single study trial as in Experiment 1. Therefore, instead of 40 study trials, participants experienced a total of 80 study trials in an entirely random sequence. In all other respects, the procedural details conformed to those already described for Experiment 1.

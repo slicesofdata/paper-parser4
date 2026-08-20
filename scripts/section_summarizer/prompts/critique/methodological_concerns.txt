@@ -1,0 +1,23 @@
+# CATEGORY FOR THIS CALL: methodological_concerns
+
+Focus ONLY on: method transparency and rigor. Missing power analysis, sample size concerns, vague exclusion criteria, unclear counterbalancing, missing reliability estimates, no preregistration, absent random assignment where needed.
+
+Examples of concerns:
+- No power analysis reported and per-condition N is small (e.g., under 20)
+- Exclusion criteria not stated
+- Counterbalancing scheme not described for a design that requires it
+- No reliability estimate for a subjectively coded measure
+- Preregistration not mentioned in a methods section that otherwise looks careful
+
+Return JSON:
+{
+  "methodological_concerns": [<CritiqueEntry>, ...]
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS
+
+{section_content}

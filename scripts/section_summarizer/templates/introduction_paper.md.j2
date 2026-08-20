@@ -1,0 +1,142 @@
+# Introduction Summary (Paper-Level)
+
+*Section: {{ section_location }}*
+
+{% if data.research_gap -%}
+## Research Gap / Motivation
+
+{{ data.research_gap }}
+
+{% endif %}
+
+{% if data.theoretical_framework -%}
+## Theoretical Framework
+
+{% for e in data.theoretical_framework -%}
+- **{{ e.topic_label }}**
+  > {{ e.verbatim_quote }}
+{% if e.citations_inline %}
+  - Citations: {% for c in e.citations_inline %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.specific_hypotheses -%}
+## Specific Hypotheses / Predictions
+
+{% for e in data.specific_hypotheses -%}
+- **{{ e.topic_label }}**
+  > {{ e.verbatim_quote }}
+{% if e.citations_inline %}
+  - Citations: {% for c in e.citations_inline %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.mechanistic_claims -%}
+## Mechanistic Claims
+
+{% for e in data.mechanistic_claims -%}
+- **{{ e.topic_label }}**
+  > {{ e.verbatim_quote }}
+{% if e.citations_inline %}
+  - Citations: {% for c in e.citations_inline %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.constructs_of_interest -%}
+## Constructs of Interest
+
+{% for c in data.constructs_of_interest %}
+- **{{ c.name }}** *({{ c.role }})*: {{ c.definition }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.rationale_for_predictor -%}
+## Rationale for Predictor
+
+{{ data.rationale_for_predictor }}
+
+{% endif %}
+
+{% if data.rationale_for_outcome -%}
+## Rationale for Outcome
+
+{{ data.rationale_for_outcome }}
+
+{% endif %}
+
+{% if data.key_terminology -%}
+## Key Terminology
+
+{% for t in data.key_terminology %}
+- **{{ t.term }}:** {{ t.definition }}
+{% if t.verbatim_definition %}
+  > {{ t.verbatim_definition }}
+{% endif %}
+{% endfor %}
+
+{% endif %}
+
+{% if data.background_research_summary -%}
+## Background Research
+
+{% for b in data.background_research_summary %}
+- {{ b }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.alternative_theories -%}
+## Alternative Theories Discussed
+
+{% for a in data.alternative_theories %}
+### {{ a.name }}
+
+- **Description:** {{ a.description }}
+- **Difference from focal theory:** {{ a.difference_from_focal_theory }}
+{% if a.citations %}
+- **Citations:** {% for c in a.citations %}{{ c.authors }} ({{ c.year }}){% if not loop.last %}; {% endif %}{% endfor %}
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% if data.overview_of_studies -%}
+## Overview of Studies
+
+{{ data.overview_of_studies }}
+
+{% endif %}
+
+{% if data.missing_or_unclear -%}
+## Missing or Unclear
+
+{% for item in data.missing_or_unclear %}
+- {{ item }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.citations_referenced -%}
+## All Citations Referenced
+
+{% for c in data.citations_referenced %}
+- **{{ c.authors }} ({{ c.year }})** — {{ c.context }}
+{% endfor %}
+
+{% endif %}
+
+{% if data.quoted_evidence -%}
+## Additional Quoted Evidence
+
+{% for q in data.quoted_evidence %}
+> {{ q }}
+
+{% endfor %}
+{% endif %}

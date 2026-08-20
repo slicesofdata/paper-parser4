@@ -1,0 +1,5 @@
+## Method
+
+Participants. Thirty-three University of Georgia undergraduates volunteered in exchange for partial credit toward a course research requirement. Each participant was tested individually in sessions that lasted approximately 30 min.
+
+Procedure. The prestudy instruction files were updated to reflect the exact procedure that would be administered after learning. Participants were informed that the cue–target association was important for being able to recall the target in the presence of the cue. However, they were informed that if they could not recall the target, we would be asking them to make a prediction of which voice, male or female, spoke the target during learning. They were also informed that postrecall or postrecognition they would also be asked to specify the speaker of the target item. The software from Experiment 2 was modified to accommodate these changes. However, the once versus thrice study manipulation from that experiment was retained. Thus, participants saw the cue and heard the target once for half (20) of the studied items and three times for the other half of the studied items.

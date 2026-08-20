@@ -1,0 +1,27 @@
+# CATEGORY FOR THIS CALL: strengths, weaknesses_and_concerns
+
+Focus on: what the paper does well AND its most consequential shortcomings.
+
+For strengths:
+- 3-8 items. Be specific.
+- Categories to consider: methodological rigor, theoretical clarity, novel contribution, clean experimental design, thoughtful discussion of alternatives, converging evidence across experiments, transparent reporting.
+- Do NOT invent strengths — draw from what the extractions show.
+
+For weaknesses_and_concerns:
+- 3-8 items. Synthesize and prioritize the critique JSON — do NOT copy every critique entry.
+- Focus on the HIGH and MODERATE severity concerns most likely to affect the paper's contribution.
+- Group related concerns when possible.
+
+Return JSON:
+{
+  "strengths": ["...", "..."],
+  "weaknesses_and_concerns": ["...", "..."]
+}
+
+# PAPER
+
+PAPER_NAME: {paper_name}
+
+# SECTION EXTRACTIONS AND CRITIQUE
+
+{content}

@@ -1,0 +1,60 @@
+[TITLE] <H1> Task interference from event-based intentions can be material specific
+[AUTHORS] RICHARD L. MARSH University of Georgia, Athens, Georgia
+[AUTHORS] GABRIEL I. COOK Claremont McKenna College, Claremont, California
+[AUTHORS] and
+[AUTHORS] JASON L. HICKS Louisiana State University, Baton Rouge, Louisiana
+[ABSTRACT] Task interference occurs in prospective memory tasks when an intention deleteriously affects performance on an ongoing a
+[INTRODUCTION] Studies concerned with the issues of how people remember to fulfill their intentions use the umbrella term prospective m
+[INTRODUCTION] One issue that has arisen concerning event-based prospective memory is a debate about the degree to which detecting a cu
+[INTRODUCTION] The issue that transcends the question of which theory (multiprocess vs. PAM) is more accurate concerns specifying the c
+[INTRODUCTION] Guynn (2003) also believes that task interference may have two components. In her work, she cued participants with the n
+[INTRODUCTION] The question that we specifically addressed in this study was whether task interference is a relatively constant cost to
+[INTRODUCTION] On the basis of the results of Marsh, Hancock, and Hicks (2002), it may be asking too much of prospective memory process
+[FOOTNOTES] <page_footnote>
+[EXPERIMENT_INTROS] <H2> EXPERIMENTS 1A AND 1B
+[EXPERIMENT_INTROS] <H2> EXPERIMENT 2
+[EXPERIMENT_INTROS] The results of Experiments 1A and 1B suggest that when people can predict what type of material is going to be processed
+[EXPERIMENT_INTROS] <H2> EXPERIMENT 3
+[EXPERIMENT_INTROS] The results of Experiments 1B and 2 suggest that under certain circumstances participants can adjust their attentional a
+[EXPERIMENT_INTROS] Because all stimuli were presented in either a red or green font, this new design had a different sort of baseline— name
+[METHODS] <H2> Method
+[METHODS] Participants. Undergraduate students from the University of Georgia volunteered in exchange for partial credit toward a 
+[METHODS] Materials and Procedure. The ongoing activity in these two experiments was a naming task. Either a picture or a word app
+[METHODS] The 180-trial experimental sequence was divided into two phases of 90 trials each. The first 90 trials served as a basel
+[METHODS] Some readers may be concerned that the task interference effect from having an intention in the second phase of the expe
+[METHODS] Each trial began with a message that read waiting. Participants were instructed to press the “N” key (for next) to indic
+[METHODS] <table>
+[METHODS] <H2> Method
+[METHODS] Participants. Undergraduates from the University of Georgia volunteered in exchange for partial credit toward a course r
+[METHODS] Materials and Procedure. The procedural details of this experiment were identical to those in Experiment 1A in every man
+[METHODS] <H2> Method
+[METHODS] Participants. University of Georgia undergraduates volunteered in exchange for partial credit toward a course research r
+[METHODS] Materials and Procedure. The parameters of the lexical decision task conformed closely to our many previous uses of it i
+[METHODS] There were eight animal words, and all eight appeared in the correct color of the participant’s assigned intention (i.e.
+[METHODS] <table>
+[RESULTS] <H2> Results and Discussion
+[RESULTS] Unless specifically noted otherwise with a p value, no statistical test had a Type I error that exceeded 5%. Latencies b
+[RESULTS] Cue detection was analyzed with a 2 (experiment) 3 2 (intention: picture vs. word) ANOVA model. Only the main effect of 
+[RESULTS] Not surprisingly, the overall latencies were slower in the second stage when the intention was operative than in the bas
+[RESULTS] By contrast, in Experiment 1B with the blocked stimuli, the critical interaction between intention and type of stimulus 
+[RESULTS] In final analyses, we compared the interference effects to zero using one-sample t tests (which were equivalent to the i
+[RESULTS] <H2> Results and Discussion
+[RESULTS] The results can be found at the bottom of Table 1, and they are summarized in the same manner as was used for Experiment
+[RESULTS] One way to think about the more specific versus general slowing is to compare the reduction in interference within the c
+[RESULTS] <H2> Results and Discussion
+[RESULTS] The data were trimmed in the same manner as that described for Experiments 1A and 1B. Incorrect responses were not analy
+[GENERAL_DISCUSSION] <H2> GENERAL DISCUSSION
+[GENERAL_DISCUSSION] The general message suggested by these experiments is that task interference is not a monolithic construct; rather, it c
+[GENERAL_DISCUSSION] In addition to what may be a more constant or “sticky’’ component of an attentional allocation policy, the results of Ex
+[GENERAL_DISCUSSION] Another means by which the effect could be unconscious might occur through a specific decision at the outset to process 
+[GENERAL_DISCUSSION] The greater interference on intention-related material could reflect a conscious strategy of processing the material mor
+[GENERAL_DISCUSSION] The fact that attentional allocation policies change depending on the material being processed seems to us to be somewha
+[GENERAL_DISCUSSION] Marsh et al. (2005) manipulated the amount of attention participants had to exert on certain trials and found cases wher
+[GENERAL_DISCUSSION] The reduction in interference for task-irrelevant material bears some resemblance to Marsh et al.’s (2006) demonstration
+[GENERAL_DISCUSSION] Associating intentions to specific contexts has only recently surfaced as a potentially important area of inquiry for sc
+[REFERENCES] <H2> REFERENCES
+[REFERENCES] <list>
+[UNMATCHED] <H2> NOTES
+[UNMATCHED] 1. Some readers may feel still uneasy about the simple effect analysis failing to reach conventional significance. To as
+[UNMATCHED] 2. We thank an anonymous reviewer for suggesting that we discuss this issue.
+[UNMATCHED] (Manuscript received April 24, 2005; revision accepted for publication September 20, 2005.)

@@ -1,0 +1,5 @@
+## Abstract
+
+Prospective memory, the ability to remember to execute an intended action at the appropriate moment in the future, is frequently assessed with standardized questionnaires. Prospective-memory abilities strongly depend on the different strategies people use to remember their intentions. In this study, we introduce the short version of the Metacognitive Prospective Memory Inventory (MPMI-s) that allows for a quick assessment of individual differences in self-reported prospective-memory abilities as well as in the use of mnemonic strategies (e.g., intention rehearsal) and external memory aids (e.g., calendars). Based on data from two waves of the GESIS longitudinal panel, we provide evidence that this novel questionnaire offers reliable and valid measures of prospective-memory abilities as well as of internal and external strategy use. As the panel sample is representative of the German population, we are further able to provide reference data that allow evaluating individual PM ability and strategy-use scores obtained with the MPMI-s.
+
+Keywords: Prospective memory, Metamemory, Memory strategies, Questionnaire, Prospection

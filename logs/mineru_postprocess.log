@@ -1,0 +1,62 @@
+2026-08-18 21:41:57,174 [INFO] Processing 8 paper(s); dry_run=True, restore=False
+2026-08-18 21:46:52,168 [INFO] Processing 8 paper(s); dry_run=True, restore=False
+2026-08-18 21:51:20,229 [INFO] Processing 8 paper(s); dry_run=True, restore=False
+2026-08-18 21:51:20,229 [INFO] NO CHANGE: Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 21:51:20,229 [INFO] NO CHANGE: Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 21:51:20,229 [INFO] NO CHANGE: kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 21:51:20,229 [INFO] NO CHANGE: Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 21:51:20,229 [INFO] NORMALIZE: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect (4 substitutions)
+2026-08-18 21:51:20,229 [INFO]         3 x pattern '\\\\eta\\s*_\\s*\\{\\s*v\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}' -> '\\eta _ { p } ^ { 2 }'
+2026-08-18 21:51:20,229 [INFO]         1 x pattern '\\\\eta\\s*_\\s*\\{\\s*\\\\scriptscriptstyle\\s*\\{\\s*D\\s*\\}\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}' -> '\\eta _ { p } ^ { 2 }'
+2026-08-18 21:51:20,229 [INFO]   (dry run — no files written)
+2026-08-18 21:51:20,241 [INFO] NORMALIZE: Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments (103 substitutions)
+2026-08-18 21:51:20,241 [INFO]        99 x char '\xa0' -> ' '
+2026-08-18 21:51:20,241 [INFO]         4 x char '‑' -> '-'
+2026-08-18 21:51:20,241 [INFO]   (dry run — no files written)
+2026-08-18 21:51:20,243 [INFO] NO CHANGE: rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 21:51:20,244 [INFO] NORMALIZE: test (4 substitutions)
+2026-08-18 21:51:20,244 [INFO]         3 x pattern '\\\\eta\\s*_\\s*\\{\\s*v\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}' -> '\\eta _ { p } ^ { 2 }'
+2026-08-18 21:51:20,245 [INFO]         1 x pattern '\\\\eta\\s*_\\s*\\{\\s*\\\\scriptscriptstyle\\s*\\{\\s*D\\s*\\}\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}' -> '\\eta _ { p } ^ { 2 }'
+2026-08-18 21:51:20,245 [INFO]   (dry run — no files written)
+2026-08-18 21:51:20,245 [INFO] Changed: 3 / 8
+2026-08-18 22:09:16,422 [INFO] Processing 8 paper(s); dry_run=True, restore=False
+2026-08-18 22:09:16,422 [INFO] NO CHANGE: Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 22:09:16,422 [INFO] NO CHANGE: Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 22:09:16,422 [INFO] NO CHANGE: kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 22:09:16,434 [INFO] NO CHANGE: Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 22:09:16,435 [INFO] NORMALIZE: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect (4 substitutions)
+2026-08-18 22:09:16,435 [INFO]         3 x pattern '\\\\eta\\s*_\\s*\\{\\s*v\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}' -> '\\eta _ { p } ^ { 2 }'
+2026-08-18 22:09:16,435 [INFO]         1 x pattern '\\\\eta\\s*_\\s*\\{\\s*o\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}' -> '\\eta _ { p } ^ { 2 }'
+2026-08-18 22:09:16,435 [INFO]   (dry run — no files written)
+2026-08-18 22:09:16,435 [INFO] NORMALIZE: Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments (103 substitutions)
+2026-08-18 22:09:16,435 [INFO]        99 x char '\xa0' -> ' '
+2026-08-18 22:09:16,435 [INFO]         4 x char '‑' -> '-'
+2026-08-18 22:09:16,435 [INFO]   (dry run — no files written)
+2026-08-18 22:09:16,439 [INFO] NO CHANGE: rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 22:09:16,441 [INFO] NORMALIZE: test (4 substitutions)
+2026-08-18 22:09:16,441 [INFO]         3 x pattern '\\\\eta\\s*_\\s*\\{\\s*v\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}' -> '\\eta _ { p } ^ { 2 }'
+2026-08-18 22:09:16,441 [INFO]         1 x pattern '\\\\eta\\s*_\\s*\\{\\s*o\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}' -> '\\eta _ { p } ^ { 2 }'
+2026-08-18 22:09:16,442 [INFO]   (dry run — no files written)
+2026-08-18 22:09:16,442 [INFO] Changed: 3 / 8
+2026-08-18 22:10:20,486 [INFO] Processing 8 paper(s); dry_run=False, restore=False
+2026-08-18 22:10:20,486 [INFO] NO CHANGE: Cook, Marsh, & Hicks (2006). Source memory in the absence of successful cued recall
+2026-08-18 22:10:20,486 [INFO] NO CHANGE: Cook, Rummel, & Dummel (2015). Toward an understanding of motivational influences on PM using value-added_1
+2026-08-18 22:10:20,486 [INFO] NO CHANGE: kvavilashvili-rummel-2020-on-the-nature-of-everyday-prospection-a-review-and-theoretical-integration-of-research-on
+2026-08-18 22:10:20,498 [INFO] NO CHANGE: Marsh et al. (2006). Task interference from EB intentions can be material specific
+2026-08-18 22:10:20,499 [INFO] NORMALIZE: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect (4 substitutions)
+2026-08-18 22:10:20,500 [INFO]         3 x pattern '\\\\eta\\s*_\\s*\\{\\s*v\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}' -> '\\eta _ { p } ^ { 2 }'
+2026-08-18 22:10:20,500 [INFO]         1 x pattern '\\\\eta\\s*_\\s*\\{\\s*o\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}' -> '\\eta _ { p } ^ { 2 }'
+2026-08-18 22:10:20,503 [INFO]   Backup: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect.md.original
+2026-08-18 22:10:20,515 [INFO]   Written: Meeks, Knight, Brewer, Cook 2014 - Marsh Investigating the subjective reports of rejection processes in the word frequency mirror effect.md
+2026-08-18 22:10:20,515 [INFO] NORMALIZE: Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments (103 substitutions)
+2026-08-18 22:10:20,515 [INFO]        99 x char '\xa0' -> ' '
+2026-08-18 22:10:20,518 [INFO]         4 x char '‑' -> '-'
+2026-08-18 22:10:20,518 [INFO]   Backup: Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments.md.original
+2026-08-18 22:10:20,530 [INFO]   Written: Rummel, Snijder, & Kvavilashvili-2022-Prospective memories in the wild--Predicting memory for intentions in naturalistic environments.md
+2026-08-18 22:10:20,530 [INFO] NO CHANGE: rummel-danner&kuhlman-2019-the-short-version-of-the-metacognitive-prospective
+2026-08-18 22:10:20,530 [INFO] NORMALIZE: test (4 substitutions)
+2026-08-18 22:10:20,530 [INFO]         3 x pattern '\\\\eta\\s*_\\s*\\{\\s*v\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}' -> '\\eta _ { p } ^ { 2 }'
+2026-08-18 22:10:20,530 [INFO]         1 x pattern '\\\\eta\\s*_\\s*\\{\\s*o\\s*\\}\\s*\\^\\s*\\{\\s*2\\s*\\}' -> '\\eta _ { p } ^ { 2 }'
+2026-08-18 22:10:20,535 [INFO]   Backup: test.md.original
+2026-08-18 22:10:20,547 [INFO]   Written: test.md
+2026-08-18 22:10:20,547 [INFO] Changed: 3 / 8

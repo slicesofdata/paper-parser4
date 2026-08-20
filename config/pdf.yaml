@@ -1,0 +1,24 @@
+# Output filename customization
+output_prefix: ""              # e.g. "report_" to prepend
+output_suffix: "_report"       # e.g. "_report" to append
+
+# Base body font — Helvetica has limited Unicode; DejaVu bundled with xhtml2pdf covers Unicode fully
+font_family: "DejaVu Sans"
+font_size_pt: 11
+line_height: 1.5
+
+# Heading fonts
+heading_font_family: "DejaVu Sans"
+heading_scale:
+  h1: 1.8
+  h2: 1.4
+  h3: 1.2
+  h4: 1.1
+
+# Code / monospace
+code_font_family: "DejaVu Sans Mono"
+code_font_size_pt: 10
+
+# Layout
+margin_inches: 1.0
+paper_size: "letter"

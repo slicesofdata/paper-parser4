@@ -1,0 +1,102 @@
+[INTRODUCTION] VA LIDA TION O F M EA SUR EM EN T IN S TRUM EN T S
+[INTRODUCTION] Open Access
+[INTRODUCTION] <image>
+[INTRODUCTION] <H2> Introduction
+[INTRODUCTION] Prospective memory (PM) refers to the ability to remember an intention at the appropriate moment in the future (Cohen & 
+[INTRODUCTION] Parkinson’s and Alzheimer’s disease (Costa, Carlesimo, & Caltagirone, 2012; Farina, Young, Tabet, & Rusted, 2013; Zhou e
+[INTRODUCTION] The cognitive underpinnings of PM have been studied extensively within specifically devised laboratory tasks (see Cohen 
+[INTRODUCTION] A few questionnaires to assess perceived everyday PM abilities have been developed previously, such as the Prospective M
+[INTRODUCTION] To this end, we recently developed and tested a novel questionnaire specifically designed to assess perceived everyday P
+[TITLE] <H1> The short version of the Metacognitive Prospective Memory Inventory (MPMI-s): factor structure, reliability, validity, and reference data
+[AUTHORS] Jan Rummel<sup>1*</sup> , Daniel Danner<sup>2</sup> and Beatrice G. Kuhlmann<sup>3</sup>
+[UNMATCHED] <H2> Abstract
+[UNMATCHED] Prospective memory, the ability to remember to execute an intended action at the appropriate moment in the future, is fr
+[UNMATCHED] Keywords: Prospective memory, Metamemory, Memory strategies, Questionnaire, Prospection
+[UNMATCHED] <H2> Measures
+[UNMATCHED] <H2> Metacognitive Prospective Memory Inventory short version (MPMI-s)
+[UNMATCHED] The English item translations of the MPMI-s are presented in Table 1. The original German items are provided as Addition
+[UNMATCHED] <table>
+[UNMATCHED] <H2> Big-Five Personality Inventory short version (BFl-2S)
+[UNMATCHED] The German version of the BFI-2S (Rammstedt, Danner, Soto, & John, 2018; Soto & John, 2017) was used to assess the perso
+[UNMATCHED] <H2> Vacation planning
+[UNMATCHED] As part of one wave, the GESIS panel participants were asked several questions about their next vacation. Four questions
+[UNMATCHED] <H2> Data collection
+[UNMATCHED] Data collection was completed as part of three different data collection waves of the GESIS longitudinal panel (GESIS, 2
+[UNMATCHED] <H2> Factorial structure
+[UNMATCHED] Based on previous research (Rummel, Kuhlmann, & Danner: A questionnaire for the asssessment of perceived prospective mem
+[UNMATCHED] <H2> Reliability
+[UNMATCHED] To assess the MPMI-s’ reliability within both assessment waves, we calculated McDonald’s Omega and Cronbach’s Alpha for 
+[UNMATCHED] <H2> Validity
+[UNMATCHED] The BFI-2S domains were modeled as latent variables using exploratory structural equation models (Asparouhov & Muthen, 2
+[UNMATCHED] <table>
+[UNMATCHED] <table>
+[UNMATCHED] <H2> Age and gender differences
+[UNMATCHED] As evident from Table 3, there was some evidence for small age-related differences on the (manifest) PMA scale and for g
+[UNMATCHED] For the PMA scale, measurement invariance tests comparing age groups (up to 30 years = 0; 31–40 years = 1; 41– 50 years 
+[UNMATCHED] <table>
+[UNMATCHED] For the PMSi and the PMSe scales, measurement invariance test results for age groups again did not consistently favor a 
+[UNMATCHED] <H2> Reference data
+[UNMATCHED] Reference data separated by age and gender for all three scales are provided as Additional file 3. As the GESIS panel pr
+[UNMATCHED] <H2> Endnotes
+[UNMATCHED] <sup>1</sup>Items of both strategy scales were always positively formulated because, unlike the ability items, negativel
+[UNMATCHED] <H2> Additional files
+[UNMATCHED] <sup>Additional</sup> <sup>file</sup> <sup>1:</sup> German MPMI-s items and their English translations. (PDF 130 kb)
+[UNMATCHED] <sup>Additional file 2:</sup> Mplus codes for all analyses. (TXT 28 kb)
+[UNMATCHED] <sup>Additional</sup> <sup>file</sup> <sup>3:</sup> Reference data based on GESIS panel wave bc. (PDF 211 kb)
+[UNMATCHED] <H2> Authors’ contributions
+[UNMATCHED] JR and BGK developed the study idea, and DD provided critical feedback. DD conducted all analyses and JR checked them. J
+[UNMATCHED] <H2> Funding
+[UNMATCHED] This research was not supported by any external funding source.
+[UNMATCHED] <H2> Availability of data and materials
+[UNMATCHED] The GESIS panel data is publically available. The questionnaire items and analysis codes are provided as Additional file
+[UNMATCHED] <H2> Competing interests
+[UNMATCHED] The authors declare that they have no competing interests.
+[UNMATCHED] <H2> Author details
+[UNMATCHED] <sup>1</sup>Department of Psychology, Heidelberg University, Hauptstrasse 47-51, 69117 Heidelberg, Germany. <sup>2</sup>
+[UNMATCHED] <index>
+[UNMATCHED] <H2> Publisher<sub>’</sub>s Note
+[UNMATCHED] Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+[UNMATCHED] <H2> Ready to submit your research?Choose BMC and benefit from:
+[UNMATCHED] • fast, convenient online submission
+[UNMATCHED] • thorough peer review by experienced researchers in your fielc
+[UNMATCHED] • rapid publication on acceptance
+[UNMATCHED] • support for research data, including large and complex data types
+[UNMATCHED] • gold Open Access which fosters wider collaboration and increased citations
+[UNMATCHED] • maximum visibility for your research: over 100M website views per year
+[UNMATCHED] At BMC, research is always in progress.
+[UNMATCHED] <H2> Terms and Conditions
+[UNMATCHED] Springer Nature journal content, brought to you courtesy of Springer Nature Customer Service Center GmbH (“Springer Natu
+[UNMATCHED] Springer Nature supports a reasonable amount of sharing of research papers by authors, subscribers and authorised users 
+[UNMATCHED] These Terms are supplementary and will apply in addition to any applicable website terms and conditions, a relevant site
+[UNMATCHED] We collect and use personal data to provide access to the Springer Nature journal content. We may also use these persona
+[UNMATCHED] While Users may use the Springer Nature journal content for small scale, personal non-commercial use, it is important to
+[UNMATCHED] 1. use such content for the purpose of providing other users with access on a regular or large scale basis or as a means
+[UNMATCHED] 2. use such content where to do so would be considered a criminal or statutory offence in any jurisdiction, or gives ris
+[UNMATCHED] 3. falsely or misleadingly imply or suggest endorsement, approval , sponsorship, or association unless explicitly agreed
+[UNMATCHED] 4. use bots or other automated methods to access the content or redirect messages
+[UNMATCHED] 5. override any security feature or exclusionary protocol; or
+[UNMATCHED] 6. share the content in order to create substitute for Springer Nature products or services or a systematic database of 
+[UNMATCHED] In line with the restriction against commercial use, Springer Nature does not permit the creation of a product or servic
+[UNMATCHED] These terms of use are reviewed regularly and may be amended at any time. Springer Nature is not obligated to publish an
+[UNMATCHED] To the fullest extent permitted by law, Springer Nature makes no warranties, representations or guarantees to Users, eit
+[UNMATCHED] Please note that these rights do not automatically extend to content, data or other material published by Springer Natur
+[UNMATCHED] If you would like to use or distribute our Springer Nature journal content to a wider audience or on a regular basis or 
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[FOOTNOTES] <page_footnote>
+[METHODS] <H2> Methods
+[METHODS] <H2> Participants
+[METHODS] Participants were part of the GESIS panel, a probabilitybased, longitudinal, mixed mode access panel for the academic co
+[RESULTS] <H2> Results
+[RESULTS] The GESIS panel data is publically available. All analysis codes are provided as Additional file 2.
+[DISCUSSION] <H2> Discussion
+[DISCUSSION] PM abilities are crucial for mastering our daily work and life activities (Dismukes, 2012) and PM deficits accompany sev
+[DISCUSSION] Furthermore, we found some evidence for the short version’s validity: replicating prior research with the PRMQ, PM abili
+[DISCUSSION] To our knowledge, this is the first inventory to include both internal and external strategies of PM. The two strategy f
+[DISCUSSION] Although PM performance in objective performancebased PM laboratory tasks has been shown to decline with (old) age (Klie
+[DISCUSSION] In line with previous research using the PRMQ (Crawford et al., 2003; Uttl & Kibreab, 2011), we did not observe gender d
+[CONCLUSION] <H2> Conclusion
+[CONCLUSION] Taken together, the short version of the MPMI has been proven a reliable and valid instrument for the investigation of P
+[REFERENCES] <H2> References
+[REFERENCES] <list>
+[REFERENCES] <list>

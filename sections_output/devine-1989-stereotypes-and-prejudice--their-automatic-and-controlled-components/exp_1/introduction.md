@@ -1,0 +1,5 @@
+## Study 1: Stereotype Content and Prejudice Level
+
+Historically, little attention has focused on individual differences in prejudice when assessing the content of stereotypes. Although implicit in the stereotype assessment literature (Brigham, 1971), the assumption that high- and low-prejudice subjects are equally knowledgeable of the cultural stereotype has not been documented. The first step in validating the present model was to examine directly high- and low-prejudice subjects' knowledge of the content of the cultural stereotype of Blacks.
+
+In contrast to the typical adjective checklist assessment of stereotype content (Gilbert, 1951; Karlins et al., 1969; D. Katz & Braly, 1933), a free response task was used in the present study. This task provides a more sensitive test of subjects' knowledge of the stereotype because no cues (e.g., a list of possible characteristics) regarding possible content are provided. Thus, highand low-prejudice subjects were asked to list the content of the cultural stereotype of Blacks regardless of their personal beliefs.
